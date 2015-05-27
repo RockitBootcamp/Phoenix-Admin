@@ -1,0 +1,1 @@
+<footer class="content-box">&copy; 2015</footer>

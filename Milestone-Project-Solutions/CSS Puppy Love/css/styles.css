@@ -1,0 +1,302 @@
+/****************************************
+  Reset
+*****************************************/
+
+html {
+	color: #444;
+	font-family: 'Open Sans', Arial;
+}
+* {
+	box-sizing: border-box;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+}
+html, body { height: 100%; padding: 0; margin: 0; }
+body { min-height: 100%; }
+img { border: 0; }
+a:focus, a:active {
+	outline: 0;
+}
+
+/****************************************
+  Defaults
+*****************************************/
+
+body {
+	background-color: #D7E1E7;
+}
+
+button {
+	background-color: #EA501A;
+	border: none;
+	border-radius: 3px;
+}
+
+
+/****************************************
+  Components
+*****************************************/
+
+/**
+ * Content Box
+ */
+
+.content-box {
+	background-color: #FFF;
+	border: 1px solid #C7D3DA;
+	-webkit-box-shadow: 0 0 10px -5px #000;
+	box-shadow: 0 0 10px -4px #000;
+}
+
+/**
+ * Product List
+ */
+
+ .product-preview.list {
+ 	overflow: hidden;
+ 	margin: 10px 0;
+ 	background-color: #E8F3F9;
+ }
+
+ .product-preview.list img {
+ 	width: 80px;
+ 	height: 80px;
+ 	float: left;
+ }
+
+ .product-preview.list .content {
+ 	margin-left: 90px;
+ }
+
+ .product-preview.list h3 {
+ 	margin: 0;
+ 	color: #0792D3;
+ 	font-size: 16pt;
+ 	font-weight: 100;
+ }
+
+
+ /**
+  * Product Tiles
+  */
+
+.product-preview.tiles {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 160px;
+	vertical-align: top;
+	color: #3C6807;
+}
+
+.product-preview.tiles img {
+	width: 160px;
+	height: 160px;
+	display: block;
+}
+
+.product-preview.tiles .content {
+	background-color: #E3EFD6;
+}
+
+.product-preview.tiles h3 {
+	margin: 0;
+	padding: 2px 5px;
+	background-color: #8ECF41;
+	font-weight: 100;
+}
+
+.product-preview.tiles .description {
+	padding: 5px;
+}
+
+
+/**
+ * Breakouts
+ */
+
+.breakouts {
+	text-align: center;
+}
+
+.breakouts .breakout {
+	display: inline-block;
+	width: 300px;
+	min-height: 120px;
+	margin: 0 5px;
+	transform: translateY(-20px);
+	border-top-width: 4px;
+	border-top-style: solid;
+	padding-bottom: 10px;
+}
+
+.breakouts .breakout button {
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5px;
+	background: transparent;
+}
+
+/** Orange Box **/
+.breakouts .breakout:nth-child(1) {
+	border-top-color: #EA501A;
+}
+.breakouts .breakout:nth-child(1) button {
+	border-color: #EA501A;
+	color: #EA501A;
+}
+
+/** Green Box **/
+.breakouts .breakout:nth-child(2) {
+	border-top-color: #8ECF41;
+}
+.breakouts .breakout:nth-child(2) button{
+	border-color: #8ECF41;
+	color: #8ECF41;
+}
+
+/** Blue Box **/
+.breakouts .breakout:nth-child(3) {
+	border-top-color: #0792D3;
+}
+.breakouts .breakout:nth-child(3) button {
+	border-color: #0792D3;
+	color: #0792D3;
+}
+
+
+/****************************************
+  Hero
+*****************************************/
+
+.hero {
+	background: radial-gradient(rgba(3, 143, 170, 0.57), #038FAA) fixed, url('../images/bg.jpg');
+	background-size: cover;
+}
+
+.hero > div {
+	margin: 0 auto;
+	width: 960px;
+	height: 450px;
+	position: relative;
+	color: #FFF;
+}
+
+
+/**
+ * Primary Header
+ */
+
+.primary-header {
+	position: relative;
+	height: 150px;
+}
+
+.primary-header a {
+	color: #FFF;
+}
+
+.primary-header a.logo {
+	display: block;
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	font-size: 40pt;
+	font-family: Lobster;
+	text-decoration: none;
+}
+
+form.search {
+	position: absolute;
+	right: 0;
+	top: 15px;
+}
+
+form.search input {
+	border: 1px solid rgba(255,255,255,0.5);
+	background-color: transparent;
+	color: #FFF;
+	font-weight: 100;
+	font-size: 10pt;
+	padding: 3px;
+}
+
+form.search input:focus {
+	outline: none;
+}
+
+form.search input::-webkit-input-placeholder {
+	color: rgba(255,255,255,0.5)
+}
+
+.primary-header nav {
+	border: 1px solid rgba(255,255,255,0.5);
+	border-left: none;
+	border-right: none;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.primary-header nav a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 15px 20px;
+	font-weight: 100;
+}
+
+/**
+ * Intro
+ */
+
+.hero .intro {
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+	text-align: center;
+}
+
+.hero .intro h1 {
+	font-size: 30pt;
+	font-weight: 100;
+	margin: 0;
+}
+
+
+/****************************************
+  Primary Content
+*****************************************/
+
+.primary-content {
+	margin-bottom: 20px;
+}
+
+.primary-content > div {
+	margin: 0 auto;
+	width: 960px;
+	min-height: 350px;
+	position: relative;
+}
+
+main {
+	padding-bottom: 10px;
+}
+
+main > div:first-child {
+	float: left;
+	width: 400px;
+	padding: 1px 10px;
+	min-height: 400px;
+}
+
+main > div:last-child {
+	margin-left: 400px;
+	min-height: 400px;
+	padding: 1px 10px;
+}
+
+
+
+
