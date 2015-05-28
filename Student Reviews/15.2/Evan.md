@@ -83,3 +83,9 @@
 
 ### Reviews: 5/27/15
 - Brad: PHP project looks good
+
+### Reviews: 5/28/15
+- Kris: Interview, not passed
+  - PHP: needs to review calling static methods inside the class and explanation of static members, review MVC route syntax
+  - MySQL: did really good here, passed this part
+  - JS: struggled a bit with built-in methods, but got there; needs to review for in loops
