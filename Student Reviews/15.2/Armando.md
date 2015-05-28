@@ -57,7 +57,7 @@
 
 - [x] PHP Project
 - [x] Twitter Project
-- [ ] Interview 
+- [x] Interview 
 - [x] Test Score: 89.5%
 
 ### Reviews: 5/22/15
@@ -67,3 +67,9 @@
 
 ### Reviews: 5/27/15
 - Brad: PHP project looks good
+
+### Reviews: 5/28/15
+- Kris: Interview, passed
+  - PHP: struggled on the PDO piece, didn't remember bindValue()
+  - MySQL: had a couple syntax errors with first statement - forgot quotes around values
+  - JS: had trouble remembering how to create a new div, trouble remembering order of event handler, 
