@@ -5,6 +5,8 @@ Create a simple ToDo app that allows creating new tasks, marking tasks as comple
 
 ### Basic features
 
+![Advanced](images/Basic ToDo.gif)
+
 - As a user, I should be able to create new tasks by entering a task description and clicking a "Create" button
 - As a user, I should be able to set the importance of the task (low, normal, high) via a dropdown when creating a new task 
 - As a user, I expect the default importance level to be "normal"
@@ -12,6 +14,10 @@ Create a simple ToDo app that allows creating new tasks, marking tasks as comple
 - As a user, I should be able to uncheck individual tasks to undo the completed state
 
 ### Advanced features
+
+![Advanced](images/Advanced ToDo.gif)
+
+In addition to the basic features
 
 - As a user, I should be able to remove (delete) a task from the list permanently
 
@@ -118,6 +124,6 @@ Create a jQuery click event handler for the "Show completed tasks" checkbox. If 
 - Find all tasks with a checked checkbox (completed tasks)
 - Show or hide the the completed tasks based on the current state of the "show completed tasks" checkbox.
 
-# Extra Credit
+# Extra Credit (Advanced features)
 
 Add a remove button to each task. When clicked, the remove button should remove the task from the DOM. Styling for the remove button is provided for you. Examine the CSS to see what you would need to add to your template. Don't forget to write your event handler!
