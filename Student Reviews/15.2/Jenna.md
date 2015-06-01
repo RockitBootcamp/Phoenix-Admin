@@ -109,3 +109,7 @@
 - [ ] Twitter Project
 - [ ] Interview
 - [x] Test Score: 52.6%
+
+### Reviews 6/1/2015
+
+- Kevin: need to review PDO
