@@ -121,3 +121,4 @@
   - knew that PDO prepared statements help prevent attacks, just couldn't say what (sql injection)
   - need to review static members
   - review `Route::get()`
+- Kevin: didn't get SQL `UPDATE` needs review, didn't get to Normalization or any JS
