@@ -13,7 +13,7 @@ var bundler = browserify({
 
 bundler.on('log', gutil.log); // output build logs to terminal
 
-gulp.task('bundle', function () {
+gulp.task('build', function () {
   return bundler.bundle()
     // log errors if they happen
     .on('error', gutil.log.bind(gutil, 'Browserify Error'))
