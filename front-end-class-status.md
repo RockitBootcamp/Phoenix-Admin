@@ -3,8 +3,8 @@
 ## Todos
 
 - Develop First Week's Schedule
-- Figure out a quick alternative to using apache
-    - `php -S 0.0.0.0:8080`
+- Figure out a quick alternative to using apache virtual hosts
+    - `php -S 0.0.0.0:8080` This is Kevin's awesome way.
 - Assign students to GitHub team
 - Redo the "Syllabus" (the README.md file on the frontend repo)
     - Kevin's working on this
@@ -33,14 +33,14 @@
 - Interview Qs: 100%
 
 ### M4
-- Project: **jQuery Twitter v2** 10%
+- Project: **jQuery Twitter v2** 80%
     - Kevin's working on this
 - Project: **CSS Component Library** 0%
     - Brad's working on this
 - Project: Jekyll blog posted to GitHub pages 0%
     - Brad's working on this
 - Objectives: 100%
-- Test:
+- Test: ?
 - Interview Qs: 0%
 
 ### M5
