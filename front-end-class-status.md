@@ -5,40 +5,50 @@
 - Develop First Week's Schedule
 - Figure out a quick alternative to using apache
     - `php -S 0.0.0.0:8080`
-- Re-organize GitHub user groups and permissions
-- Assign students to groups
+- Assign students to GitHub team
 - Redo the "Syllabus" (the README.md file on the frontend repo)
+    - Kevin's working on this
+- Count how many lesson pages have "Pre Study" sections
 
 ## Milestones
 
 ### M1
 - Project: **PHP Products v1** 100%
-- Objectives: ?
+- Objectives: 100%
 - Test: ?
-- Interview Qs: ?
+- Interview Qs: 100%
 
 ### M2
-- Project **jQuery ToDo-App** 100% ?
+- Project **jQuery ToDo-App** 100%
     - Brad needs to review
-
-
+- Objectives: 100%
+- Test: ?
+- Interview Qs: 100%
 
 ### M3
 - Project: **jQuery Twitter v1** 100%
 - Project: **CSS Puppy Love** 100%
+- Objectives: 100%
+- Test: ?
+- Interview Qs: 100%
 
 ### M4
 - Project: **jQuery Twitter v2** 10%
     - Kevin's working on this
 - Project: **CSS Component Library** 0%
     - Brad's working on this
-- Project: Jekyll blog posted to github pages
+- Project: Jekyll blog posted to GitHub pages 0%
     - Brad's working on this
+- Objectives: 100%
+- Test:
+- Interview Qs: 0%
 
+### M5
+- Project: 0%
+- Objectives: 0%
+- Test: ?
+- Interview Qs: 0%
 
-### M4
-- Project: Component Library (CSS)
-- Something CRUD based, highly organized with dependency management
 
 
 
