@@ -113,3 +113,12 @@
 - [ ] Twitter Project
 - [ ] Interview
 - [x] Test Score: 70.7%
+
+### Reviews 6/1/2015
+
+- Kevin: 
+  - understood `execute()` is needed for prep statements, but couldn't explain that it takes an array, but it sounded like he might have been trying to describe an array (without saying "Array"), but had trouble explaining it, so we moved on
+  - knew that PDO prepared statements help prevent attacks, just couldn't say what (sql injection)
+  - need to review static members
+  - review `Route::get()`
+- Kevin: didn't get SQL `UPDATE` and `DELETE` needs review, didn't get to Normalization or any JS
