@@ -2,37 +2,46 @@
 
 Create a mock version of twitter using gulp.
 
+## Acceptance Criteria
+
+- As a user, I should be able to send a new tweet, which should appear in the list of tweets
+- As a user, the next time I return to the page, I should see any tweets I sent previously
+- As a user, clicking on a top-level tweet should expand it to reveal a text area for replying to the tweet
+- As a user, when a top-level tweet is expanded, I should see all of the replies to it listed
+- As a user, I should be able to reply to existing tweets
+
+- As a developer, I should load all tweets and replies using AJAX
+- As a developer, I should create or update tweets/replies using AJAX
+
 ## HTML Structure
 
 The project is broken down into two main sections: `header` and `.tweets`
 
 ```html
-<main>
-	<header>...</header>
-	<div class="tweets">...</div>
-</main>
+<header>...</header>
+<div class="tweets">...</div>
 ```
 
 The header will only consists of the compose form at all times:
 
 ```html
 <header>
-	<form class="compose">
-		<textarea placeholder="Compose new Tweet..."></textarea>
-		<div>
-			<span class="count">140</span>
-			<button>Send</button>
-		</div>
-	</form>
+  <form class="compose">
+    <textarea placeholder="Compose new Tweet..."></textarea>
+    <div>
+      <span class="count">140</span>
+      <button>Send</button>
+    </div>
+  </form>
 </header>
 ```
 
-The `.tweets` section will have it's direct childred elements be `.thread`s. Some are already made for you so you can see the structure. Others will be created dynamically:
+The `.tweets` section will have it's direct child elements be `.thread`s, created dynamically:
 
 ```html
 <div class="tweets">
-	<div class="thread">...</div>
-	<div class="thread">...</div>
+  <div class="thread">...</div>
+  <div class="thread">...</div>
 </div>
 ```
 
@@ -41,25 +50,25 @@ A new thread will be dynamically created each time someone uses the `.compose` s
 ```html
 <div class="thread">
 
-	<div class="tweet">
-		<img src="images/rockit.png">
-		<div class="body">
-			<div class="title">@ROCKIT_BOOTCAMP</div>
-			<div class="message">tweet tweet!!</div>
-		</div>
-	</div>
+  <div class="tweet">
+    <img src="images/rockit.png">
+    <div class="body">
+      <div class="title">@ROCKIT_BOOTCAMP</div>
+      <div class="message">tweet tweet!!</div>
+    </div>
+  </div>
 
-	<div class="replies">
-		
-		<form class="compose">
-			<textarea placeholder="Compose new Tweet..."></textarea>
-			<div>
-				<span class="count">140</span>
-				<button>Send</button>
-			</div>
-		</form>
+  <div class="replies">
+    
+    <form class="compose">
+      <textarea placeholder="Compose new Tweet..."></textarea>
+      <div>
+        <span class="count">140</span>
+        <button>Send</button>
+      </div>
+    </form>
 
-	</div>
+  </div>
 
 </div>
 ```
@@ -71,34 +80,34 @@ When a reply `.tweet` is added it will be placed as a sibling to the `.compose` 
 ```html
 <div class="thread">
 
-	<div class="tweet">
-		<img src="images/rockit.png">
-		<div class="body">
-			<div class="title">@ROCKIT_BOOTCAMP</div>
-			<div class="message">tweet tweet!!</div>
-		</div>
-	</div>
+  <div class="tweet">
+    <img src="images/rockit.png">
+    <div class="body">
+      <div class="title">@ROCKIT_BOOTCAMP</div>
+      <div class="message">tweet tweet!!</div>
+    </div>
+  </div>
 
-	<div class="replies">
-		
-		<form class="compose">
-			<textarea placeholder="Compose new Tweet..."></textarea>
-			<div>
-				<span class="count">140</span>
-				<button>Send</button>
-			</div>
-		</form>
-		
-		<!-- Notice here is our reply -->
-		<div class="tweet">
-			<img src="images/rockit.png">
-			<div class="body">
-				<div class="title">@ROCKIT_BOOTCAMP</div>
-				<div class="message">tweet tweet!!</div>
-			</div>
-		</div>
+  <div class="replies">
+    
+    <form class="compose">
+      <textarea placeholder="Compose new Tweet..."></textarea>
+      <div>
+        <span class="count">140</span>
+        <button>Send</button>
+      </div>
+    </form>
+    
+    <!-- Notice here is our reply -->
+    <div class="tweet">
+      <img src="images/rockit.png">
+      <div class="body">
+        <div class="title">@ROCKIT_BOOTCAMP</div>
+        <div class="message">tweet tweet!!</div>
+      </div>
+    </div>
 
-	</div>
+  </div>
 
 </div>
 ```
@@ -109,11 +118,11 @@ Be sure to study the CSS and see how it works. There are two parts to this site 
 
 ```html
 <form class="compose expand">
-	<textarea placeholder="Compose new Tweet..."></textarea>
-	<div>
-		<span class="count">140</span>
-		<button>Send</button>
-	</div>
+  <textarea placeholder="Compose new Tweet..."></textarea>
+  <div>
+    <span class="count">140</span>
+    <button>Send</button>
+  </div>
 </form>
 ```
 
@@ -131,8 +140,8 @@ Create a `User` object to hold your twitter handle and your image name. We will 
 
 ```js
 var User = {
-	handle: '@bradwestfall',
-	img: 'brad.png'
+  handle: '@bradwestfall',
+  img: 'brad.png'
 }
 ```
 
@@ -156,15 +165,15 @@ In other words, remember to keep your templates DRY.
 
 ```html
 <script id="template-tweet" type="text/x-handlebars-template">
-	...
+  ...
 </script>
 
 <script id="template-compose" type="text/x-handlebars-template">
-	...
+  ...
 </script>
 
 <script id="template-thread" type="text/x-handlebars-template">
-	...
+  ...
 </script>
 ```
 
