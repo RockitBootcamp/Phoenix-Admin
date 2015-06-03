@@ -128,7 +128,7 @@ header {
 	padding: 10px;
 }
 
-.tweets {
+#tweets {
 	margin-top: 10px;
 	background-color: #fff;
 	border: 1px solid #C0E1ED;
