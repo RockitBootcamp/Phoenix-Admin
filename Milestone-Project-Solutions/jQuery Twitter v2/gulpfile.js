@@ -6,6 +6,7 @@ var gutil = require('gulp-util');
 var source = require('vinyl-source-stream');
 var browserify = require('browserify');
 var hbsfy = require('hbsfy');
+var del = require('del');
 
 var bundler = browserify({
   entries: ['./js/index.js'],
@@ -21,4 +22,9 @@ gulp.task('build', function () {
     .on('error', gutil.log.bind(gutil, 'Browserify Error'))
     .pipe(source('bundle.js'))
     .pipe(gulp.dest('js'));
+});
+
+gulp.task('clean', function (cb) {
+  del('js/bundle.js');
+  cb();
 });
