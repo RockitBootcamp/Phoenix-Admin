@@ -14,11 +14,11 @@ Create a mock version of twitter using gulp.
 
 ## HTML Structure
 
-The project is broken down into two main sections: `header` and `.tweets`
+The project is broken down into two main sections: `header` and `#tweets`
 
 ```html
 <header>...</header>
-<div class="tweets">...</div>
+<div id="tweets">...</div>
 ```
 
 The header will only consists of the compose form at all times:
@@ -35,10 +35,10 @@ The header will only consists of the compose form at all times:
 </header>
 ```
 
-The `.tweets` section will have it's direct child elements be `.thread`s, created dynamically:
+The `#tweets` section will have it's direct child elements of `.thread`s, created dynamically:
 
 ```html
-<div class="tweets">
+<div id="tweets">
   <div class="thread">...</div>
   <div class="thread">...</div>
 </div>
@@ -49,7 +49,7 @@ A new thread will be dynamically created each time someone uses the `.compose` s
 ```html
 <div class="thread">
 
-  <div class="tweet">
+  <div class="tweet" id="tweet-1">
     <img src="images/rockit.png">
     <div class="body">
       <div class="title">@ROCKIT_BOOTCAMP</div>
@@ -58,7 +58,6 @@ A new thread will be dynamically created each time someone uses the `.compose` s
   </div>
 
   <div class="replies">
-    
     <form class="compose">
       <textarea placeholder="Compose new Tweet..."></textarea>
       <div>
@@ -66,7 +65,6 @@ A new thread will be dynamically created each time someone uses the `.compose` s
         <button>Send</button>
       </div>
     </form>
-
   </div>
 
 </div>
@@ -79,7 +77,7 @@ When a reply `.tweet` is added it will be placed as a sibling to the `.compose` 
 ```html
 <div class="thread">
 
-  <div class="tweet">
+  <div class="tweet" id="tweet-1">
     <img src="images/rockit.png">
     <div class="body">
       <div class="title">@ROCKIT_BOOTCAMP</div>
@@ -88,7 +86,6 @@ When a reply `.tweet` is added it will be placed as a sibling to the `.compose` 
   </div>
 
   <div class="replies">
-    
     <form class="compose">
       <textarea placeholder="Compose new Tweet..."></textarea>
       <div>
@@ -98,14 +95,13 @@ When a reply `.tweet` is added it will be placed as a sibling to the `.compose` 
     </form>
     
     <!-- Notice here is our reply -->
-    <div class="tweet">
+    <div class="tweet" id="tweet-2">
       <img src="images/rockit.png">
       <div class="body">
         <div class="title">@ROCKIT_BOOTCAMP</div>
         <div class="message">tweet tweet!!</div>
       </div>
     </div>
-
   </div>
 
 </div>
@@ -133,24 +129,53 @@ The second state we will manage is when an original tweet gets clicked (not a re
 
 You will only need 6 functions for this project: three event handlers (each with it's anonymous function) and three template functions. Follow this guide to ensure success:
 
-## 1. User Object
+## Database / API
 
-Create a `User` object to hold your twitter handle and your image name. We will use this when we compose tweets.
+A mock database and API server are provided for you. The database is `db.json` and the API server can be started using the `gulp serve` command, which will start your project on `localhost:8000` and the **API** on `localhost:3000`. This is where you will make your AJAX requests to.
 
-```js
-var User = {
-  handle: '@bradwestfall',
-  img: 'brad.png'
-}
-```
+The basic endpoints are:
 
-## 2. State Management
+- `http://localhost:3000/users`
+- `http://localhost:3000/tweets`
+- `http://localhost:3000/replies`
+
+For a specific record, you can provide the relevent ID to the endpoint (showing only 1 example):
+
+- `http://localhost:3000/users/1`
+
+And for relational data, you can call the relation endpoint (showing 2 examples):
+
+- `http://localhost:3000/users/1/tweets`
+- `http://localhost:3000/tweets/1/replies`
+
+To read records, make a `GET` request. To create records, make a `POST` request. To update records, make a `PUT` request. To remove records, make a `DELETE` request. **All changes will be persisted to `db.json` instantly.**
+
+## gulp
+
+You have been provided a `gulpfile.js` by default with some gulp tasks already created for you. However, you will need to create the `build` and `clean` tasks yourself.
+
+Available tasks are:
+
+- `gulp serve`: serve the app on `localhost:8000` and start the API on `localhost:3000`
+- `gulp serve:api`: serve **only** the API
+
+### build
+
+The `build` tasks needs to use Browserify to compile the JavaScript files into a `js/bundle.js` file, using `js/index.js` as the entrypoint. Use `hbsfy` as a Browserify transform for your Handlebars templates.
+
+### clean
+
+For the `clean` task, simply delete the `js/bundle.js` file to "clean up" your project files. On larger projects, everything might be built into a special build directory, and a `clean` task would be responsible for removing the build output.
+
+## State Management
 
 Since some threads are alread provided for you in the initial HTML, the first thing you should do is create the aforementioned state managment. This should take care of 2 out of the 6 functions we just mentioned. It's important to implement state management early so we can see the moving parts even though nothing dynamic is being created yet.
 
-## 3. Templating
+## Templating
 
-Since there will be a lot of reusable HTML to this project, you will be using HandlebarsJs to break the reusable HTML into templates. Try to think of how many use-cases we're going to need to make the HTML for `.tweet`. There are actually two different use-cases when we need to. The first is when we compose a new thread, and the second is when we reply. These are different because in the case of a new thread we will need the HTML for `.tweet` to be inside the HTML for `.thread`. But for a reply we just need the HTML for `.tweet`. With this in mide, a mistake would be to repeat the `.tweet` HTML twice in two templates:
+Since there will be a lot of reusable HTML to this project, you will be using Handlebars to break the reusable HTML into templates. Your templates should be saved to individual files in the `templates/` directory, i.e. `templates/tweet.handlebars`.
+
+Try to think of how many use-cases we're going to need to make the HTML for `.tweet`. There are actually two different use-cases when we need to. The first is when we compose a new thread, and the second is when we reply. These are different because in the case of a new thread we will need the HTML for `.tweet` to be inside the HTML for `.thread`. But for a reply we just need the HTML for `.tweet`. With this in mide, a mistake would be to repeat the `.tweet` HTML twice in two templates:
 
 - A *tweet* template that has all the parts of a tweet
 - A *thread* template that has all the parts of a thread and all the parts of a tweet
@@ -203,4 +228,5 @@ This last event handler funciton will be based on when the user clicks the "Send
 
 # Extra Credit
 
-When composing, get the 140 characters to count down similar to how twitter.com does. We'll let you take it from here. Good luck!
+- Add minification to the bundle task
+- Add a watch task that rebundles your js when any js file (excluding `bundle.js`) is changed
