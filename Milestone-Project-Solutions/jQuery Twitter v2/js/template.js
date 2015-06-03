@@ -25,7 +25,12 @@ function renderThread(details) {
   return threadTmpl(details);
 };
 
+function renderReplies(replies) {
+  return repliesTmpl({ tweets: replies });
+}
+
 module.exports = {
   renderTweet: renderTweet,
-  renderThread: renderThread
+  renderThread: renderThread,
+  renderReplies: renderReplies
 };
