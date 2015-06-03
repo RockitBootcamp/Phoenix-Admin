@@ -37,14 +37,14 @@ var router = jsonServer.router('db.json');
 apiServer.use(jsonServer.defaults);
 apiServer.use(router);
 
-gulp.task('serve:db', function (cb) {
+gulp.task('serve:api', function (cb) {
   apiServer.listen(3000);
   cb();
 });
 
 var serve = require('gulp-serve');
 
-gulp.task('serve', ['serve:db'], serve({
+gulp.task('serve', ['serve:api'], serve({
   root: ['.'],
   port: 8000
 }));
