@@ -27,19 +27,11 @@ function getReplies(tweetId, cb) {
 }
 
 function postReply(tweet) {
-  return $.ajax({
-    url: apiServer + '/replies',
-    method: 'POST',
-    data: tweet
-  });
+  return $.post(apiServer + '/replies', tweet);
 }
 
 function postTweet(tweet) {
-  return $.ajax({
-    url: apiServer + '/tweets',
-    method: 'POST',
-    data: tweet
-  });
+  return $.post(apiServer + '/tweets', tweet);
 }
 
 function getTweets() {
