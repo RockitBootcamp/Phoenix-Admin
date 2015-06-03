@@ -1,31 +1,28 @@
 'use strict';
 
 var $ = require('jquery');
-var Handlebars = require('handlebars');
+var Handlebars = require('hbsfy/runtime');
+var composeTmpl = require('../templates/compose.handlebars');
+var repliesTmpl = require('../templates/replies.handlebars');
+var tweetTmpl = require('../templates/tweet.handlebars');
+var threadTmpl = require('../templates/thread.handlebars');
 
-// Render Compose
-function renderCompose() {
-  var template = Handlebars.compile($('#template-compose').html());
-  return template();
-};
+// Register partials
+Handlebars.registerPartial('compose', composeTmpl);
+Handlebars.registerPartial('replies', repliesTmpl);
+Handlebars.registerPartial('tweet', tweetTmpl);
 
 // Render Tweet
-function renderTweet(User, message) {
-  var template = Handlebars.compile($('#template-tweet').html());
-  return template({
-    message: message,
-    img: User.img,
-    handle: User.handle
+function renderTweet(user, message) {
+  return tweetTmpl({
+    user: user,
+    message: message
   });
-};
+}
 
 // Render Thread
-function renderThread(User, message) {
-  var template = Handlebars.compile($('#template-thread').html());
-  return template({
-    tweet: renderTweet(User, message),
-    compose: renderCompose()
-  });
+function renderThread(details) {
+  return threadTmpl(details);
 };
 
 module.exports = {
