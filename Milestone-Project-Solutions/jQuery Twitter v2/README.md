@@ -9,8 +9,15 @@ Create a mock version of twitter using gulp.
 - As a user, clicking on a top-level tweet should expand it to reveal a text area for replying to the tweet
 - As a user, when a top-level tweet is expanded, I should see all of the replies to it listed
 - As a user, I should be able to reply to existing tweets
+
+### Project Acceptance Criteria
+
+In addition to the above user requirements, the following criteria determine passing criteria for the student's a project.
+
 - As a developer, I should load all tweets and replies using AJAX
 - As a developer, I should create or update tweets/replies using AJAX
+- As a developer, I should be able to create a gulp build task using browserify
+- As a developer, I should be able to create a gulp clean task to remove build files
 
 ## HTML Structure
 
