@@ -127,11 +127,11 @@ The second state we will manage is when an original tweet gets clicked (not a re
 
 # Guide
 
-You will only need 6 functions for this project: three event handlers (each with it's anonymous function) and three template functions. Follow this guide to ensure success:
+Your objective with this project is to develop a project using modules and gulp. You will create a gulp "build" task which uses Browserify to concatenate the module files together. You will use AJAX to connect to a local API server (which interfaces with a mock database) to retrieve, add, and update records. Refer to the *Acceptance Criteria* section for details about UX.
 
 ## Database / API
 
-A mock database and API server are provided for you. The database is `db.json` and the API server can be started using the `gulp serve` command, which will start your project on `localhost:8000` and the **API** on `localhost:3000`. This is where you will make your AJAX requests to.
+A mock database fronted by an API server are provided for you. The database is `db.json` and the API server can be started using the `gulp serve:api` command, which will start the **API** on `localhost:3000`. This location is where you will make your API calls to.
 
 The basic endpoints are:
 
@@ -150,18 +150,34 @@ And for relational data, you can call the relation endpoint (showing 2 examples)
 
 To read records, make a `GET` request. To create records, make a `POST` request. To update records, make a `PUT` request. To remove records, make a `DELETE` request. **All changes will be persisted to `db.json` instantly.**
 
+To see an example response, start the API and issue the following command from your terminal:
+
+```
+curl localhost:3000/users
+```
+
+You can also use `curl` to test all of the other available endpoints, to see what data is returned, so you know what you're working with. Alternatively, write an AJAX request and inspect/log the response from Dev Tools.
+
 ## gulp
+
+Before you can begin work on the UI/UX, you'll need to get Browserify working with gulp. The required modules are already saved to package.json.
 
 You have been provided a `gulpfile.js` by default with some gulp tasks already created for you. However, you will need to create the `build` and `clean` tasks yourself.
 
 Available tasks are:
 
-- `gulp serve`: serve the app on `localhost:8000` and start the API on `localhost:3000`
-- `gulp serve:api`: serve **only** the API
+- `gulp serve`: serves the app on `localhost:8000` and starts the API on `localhost:3000`
+- `gulp serve:api`: serves **only** the API
 
 ### build
 
 The `build` tasks needs to use Browserify to compile the JavaScript files into a `js/bundle.js` file, using `js/index.js` as the entrypoint. Use `hbsfy` as a Browserify transform for your Handlebars templates.
+
+The npm modules required are
+
+- browserify
+- hbsfy
+- vinyl-source-stream
 
 ### clean
 
@@ -175,58 +191,19 @@ Since some threads are alread provided for you in the initial HTML, the first th
 
 Since there will be a lot of reusable HTML to this project, you will be using Handlebars to break the reusable HTML into templates. Your templates should be saved to individual files in the `templates/` directory, i.e. `templates/tweet.handlebars`.
 
-Try to think of how many use-cases we're going to need to make the HTML for `.tweet`. There are actually two different use-cases when we need to. The first is when we compose a new thread, and the second is when we reply. These are different because in the case of a new thread we will need the HTML for `.tweet` to be inside the HTML for `.thread`. But for a reply we just need the HTML for `.tweet`. With this in mide, a mistake would be to repeat the `.tweet` HTML twice in two templates:
+You will need to create a `template.js` that uses CommonJS to expose what you need for rendering templates and `require` that into `index.js` for use. Templates should be precompiled by `template.js` and your main script `index.js` should have no knowledge of how templates are created or compiled. Maintain *separation of concerns*.
 
-- A *tweet* template that has all the parts of a tweet
-- A *thread* template that has all the parts of a thread and all the parts of a tweet
-
-This would be a mistake because the HTML for a tweet would exist twice. Since templates are supposed to be filled with variables, lets do this instead:
-
-- A *tweet* template that has all the parts of a tweet (same as before)
-- A *thread* template that has all the parts of a thread and a variable to insert the tweet that we get from the *tweet* template
-
-In other words, remember to keep your templates DRY.
-
-```html
-<script id="template-tweet" type="text/x-handlebars-template">
-  ...
-</script>
-
-<script id="template-compose" type="text/x-handlebars-template">
-  ...
-</script>
-
-<script id="template-thread" type="text/x-handlebars-template">
-  ...
-</script>
-```
-
-We will create three template functions where each one will represent it's respective template. Name your functions as follows:
-
-- `renderTweet(User, message)`
-- `renderCompose()`
-- `renderThread(User, message)`
-
-Each of these templates will return a string. The string will be the respective template to the functions name. Build the functions in the order above and test them out by console logging their results. You can always pass fake data in to test.
-
-The `renderTweet()` and `renderCompose()` functions are pretty strait forward. They simply use Handlebars to return the template as a string. The `renderThread()` function though takes some more thought. It will need to call off to the other two render functions to get their contents, then it will take those "sub templates" and build them into the thread template. Even though `renderThread()` won't use the `User` and `message` values directly, it will need to pass those along to the `renderTweet()`.
-
-## 4. Composition
-
-So far you should have 5/6 functions made. Two for state management and three templating functions that you have already tested out. Now it's time to put it all together and compose some new tweets!
-
-This last event handler funciton will be based on when the user clicks the "Send" button. Here is a breakdown of what this function should do:
-
-> I recommend doing each of these steps one at a time and test them often in the browser to make sure they work
+## 4. Composing a Tweet
 
 - Cancel the form submission. Since our submit button is inside a form, we don't want the form to actually submit to the form's action do we?
-- Get the `message` the user typed into a variable
+- Get the message the user typed into a variable
 - Determine what type of compose we are doing. You can do this based on the context (position) of the `.compose` section. Are we in the header? Are we in a thread?
- - Call the appropriate template function based our context and get the response (the new HTML to be inserted)
- - Add the HTML response to the correct place in the DOM
+	- Call the appropriate template render method based our context to get the new HTML to be inserted
+	- Add the HTML response to the correct place in the DOM
 - Clear the `textarea` box so it has no value, and change the state of the `.compose` section so it's not expanded anymore.
+- Create a new tweet or reply record in the database via the API
 
 # Extra Credit
 
-- Add minification to the bundle task
+- Add minification to the bundle task (also known as uglifying)
 - Add a watch task that rebundles your js when any js file (excluding `bundle.js`) is changed
