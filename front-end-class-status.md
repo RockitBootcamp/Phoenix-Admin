@@ -25,8 +25,8 @@
 - [x] Interview Qs
 
 ### M3
-- [x]Project: **jQuery Twitter v1** 100%
-- [x]Project: **CSS Puppy Love** 100%
+- [x] Project: **jQuery Twitter v1** 100%
+- [x] Project: **CSS Puppy Love** 100%
 - [x] Objectives
 - [ ] Test
 - [x] Interview Qs
@@ -40,7 +40,7 @@
 - [ ] Interview Qs
 
 ### M5
-- [ ] Project: **Backbone User Crud**
+- [ ] Project: **Backbone User CRUD**
 - [90%] Objectives 90%
 - [ ] Test
 - [ ] Interview Qs
