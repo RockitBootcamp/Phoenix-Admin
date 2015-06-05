@@ -14,27 +14,27 @@
 ### M1
 - [x] Project: **PHP Products v1**
 - [x] Objectives
-- [ ] Test
+- [80%] Test
 - [x] Interview Qs
 
 ### M2
 - [99%] Project **jQuery ToDo-App** (Brad Review)
 - [x] CSS Project **CSS Basic Layout**
 - [x] Objectives
-- [ ] Test
+- [80%] Test
 - [x] Interview Qs
 
 ### M3
-- [x] Project: **jQuery Twitter v1** 100%
-- [x] Project: **CSS Puppy Love** 100%
+- [x] Project: **jQuery Twitter v1**
+- [x] Project: **CSS Puppy Love**
 - [x] Objectives
-- [ ] Test
+- [80%] Test
 - [x] Interview Qs
 
 ### M4
 - [90%] Project: **jQuery Twitter v2** (Kevin)
 - [ ] Project: **CSS Component Library** (Brad)
-- [ ] Project: Jekyll blog posted to GitHub pages [Brad]
+- [ ] Project: Jekyll blog posted to GitHub pages (Brad)
 - [x] Objectives
 - [ ] Test
 - [ ] Interview Qs
