@@ -122,3 +122,22 @@
   - need to review static members
   - review `Route::get()`
 - Kevin: didn't get SQL `UPDATE` and `DELETE` needs review, didn't get to Normalization or any JS
+
+### Reviews 6/4/15
+- Kris: 
+  - Needs to review:
+    - OOP III (Static Methods)
+    - SQL INSERT statment, got the others, just struggled on INSERT INTO
+    - jQuery Basics - selecting div and method chaining, and creating div
+    - jQuery Events
+    - jQuery Built-in methods
+    - JS DOM & Document methods
+    - JS Arrays
+    - JS Loops
+    - jQuery delegated events
+  - He did okay with MVC and explaining it, but struggled some - not very smooth
+
+- Suggested he study tonight and we will do the interview again in the morning
+- Discussed with him that he is pretty far behind, asked his thoughts if he were to start a new job tomorrow. He said he didn't feel he would do well. He said he doesn't know why it isn't clicking and that he tries memorizing it and it's not working. He also said that he feels he hasn't been able to complete the milestone projects on his own, that he has needed a lot of guidance. 
+  - Suggested he doesn't try to memorize, rather make sure he understands the concept with each lesson. Discussed this further with him, he understood. 
+  - Also suggested that he will need to go back through the milestone projects and start from the beginning and attempt to complete them on his own. 
