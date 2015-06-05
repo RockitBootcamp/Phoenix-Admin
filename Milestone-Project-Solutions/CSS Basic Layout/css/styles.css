@@ -1,0 +1,126 @@
+/****************************************
+  Inherited Syles
+*****************************************/
+
+/*
+See this explanation for details
+https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+*/
+
+html {
+    box-sizing: border-box;
+    color: #444;
+    font: 12pt 'Open Sans', Arial;
+    font-weight: 300;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    color: inherit;
+    font: inherit;
+}
+
+
+
+/****************************************
+  Defaults
+*****************************************/
+
+body {
+    background-color: #0182C3;
+}
+
+a {
+    color: #0182C3;
+}
+
+h1 {
+    margin: 0;
+    font-family: Allan;
+}
+
+
+/****************************************
+  Helpers
+*****************************************/
+
+.cearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/****************************************
+  Layout
+*****************************************/
+
+.page {
+    margin: 1em;
+}
+
+aside, main {
+    border-radius: 4px;
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.5);
+    min-height: 400px;
+}
+
+aside {
+    float: left;
+    width: 300px;
+}
+
+main {
+    margin-left: 320px;
+}
+
+
+
+/****************************************
+  Components
+*****************************************/
+
+/**
+ * Button
+ */
+
+ button {
+     display: inline-block;
+     border: none;
+     border-radius: 5px;
+     color: #fff;
+     background-color: #97D062;
+     padding: 5px 10px;
+     box-shadow: 3px 3px 0 0 #4D722B;
+ }
+
+ button.warn {
+    background-color: rgb(208, 0, 0);
+    box-shadow: 3px 3px 0 0 rgb(109, 36, 36);
+ }
+
+
+/**
+ * Form
+ */
+
+form .field {
+    border-bottom: 1px solid #ccc;
+    padding: 6px;
+}
+
+form label {
+    float: left;
+    width: 200px;
+    text-align: right;
+}
+
+form .input {
+    margin-left: 210px;
+}
+
+form button {
+    margin-top: 10px;
+}

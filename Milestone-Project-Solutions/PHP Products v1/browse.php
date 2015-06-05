@@ -12,9 +12,9 @@
 	<main>
 		
 		<h1>Browse Products</h1>
-		<a class="product" href="product.php?name=1">Macbook</a>
-		<a class="product" href="product.php?name=2">Ubuntu</a>
-		<a class="product" href="product.php?name=3">Windows</a>
+		<a class="product" href="product.php?id=1">Macbook</a>
+		<a class="product" href="product.php?id=2">Ubuntu</a>
+		<a class="product" href="product.php?id=3">Windows</a>
 
 	</main>
 

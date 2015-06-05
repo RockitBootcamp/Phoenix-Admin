@@ -22,6 +22,7 @@
 ### M2
 - Project **jQuery ToDo-App** 100%
     - Brad needs to review
+- CSS Project **CSS Basic Layout** 100%
 - Objectives: 100%
 - Test: ?
 - Interview Qs: 100%

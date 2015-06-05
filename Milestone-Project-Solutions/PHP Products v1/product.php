@@ -1,12 +1,12 @@
 <?php
 
-$name = $_GET['name'];
+$id = $_GET['id'];
 
-if ($name == 1) {
+if ($id == 1) {
 	$choice = 'Mac';
-} else if ($name == 2) {
+} else if ($id == 2) {
 	$choice = 'Linux';
-} else if ($name == 3) {
+} else if ($id == 3) {
 	$choice = 'Windows';
 }
 

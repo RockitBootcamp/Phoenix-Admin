@@ -1,23 +1,26 @@
 /****************************************
-  Reset
+  Inherited Syles
 *****************************************/
 
+/*
+See this explanation for details
+https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+*/
+
 html {
-	color: #444;
-	font-family: 'Open Sans', Arial;
+    box-sizing: border-box;
+    color: #444;
+    font: 12pt 'Open Sans', Arial;
+    font-weight: normal;
 }
-* {
-	box-sizing: border-box;
-	color: inherit;
-	font-family: inherit;
-	font-size: inherit;
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    color: inherit;
+    font: inherit;
 }
-html, body { height: 100%; padding: 0; margin: 0; }
-body { min-height: 100%; }
-img { border: 0; }
-a:focus, a:active {
-	outline: 0;
-}
+
+
 
 /****************************************
   Defaults
