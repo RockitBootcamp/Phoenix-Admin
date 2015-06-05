@@ -3,6 +3,7 @@
 ## Todos
 
 - Develop First Week's Schedule
+- Re-organize the messy drive
 - Figure out a quick alternative to using apache virtual hosts
     - `php -S 0.0.0.0:8080` This is Kevin's awesome way.
 - Assign students to GitHub team
