@@ -1,13 +1,5 @@
 # Front-End JS June 8th Class
 
-## Todos
-
-- Develop First Week's Schedule
-- Re-organize the messy drive
-- Assign students to GitHub team
-- Redo the "Syllabus" (the README.md file on the frontend repo)
-    - Kevin's working on this
-- Count how many lesson pages have "Pre Study" sections
 
 ## Milestones
 
@@ -41,7 +33,7 @@
 
 ### M5
 - [ ] Project: **Backbone User CRUD**
-- [90%] Objectives 90%
+- [95%] Objectives 90%
 - [ ] Test
 - [ ] Interview Qs
 
@@ -76,9 +68,6 @@ APIs / Third party code
     Animate.css
     jQuery UI
 
-JSLint
-
-Unit Testing
 
 Revealing Module Pattern
 Event Emitter Patterns (pubsub)
