@@ -22,7 +22,7 @@ High     | 6/10     |  80%     | Kris     | Test
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-High     | 6/11     | 95%      | Kevin    | Project: **jQuery ToDo-App**
+High     | 6/11     | 100%      | Kevin    | Project: **jQuery ToDo-App**
          |          | 100%     | Brad     | Project: **CSS Basic Layout**
          |          | 100%     | Brad     | Objectives
 Medium   | 6/17     | 80%      | Kris     | Test
