@@ -6,10 +6,21 @@ var $tasksContainer = $('#tasks');
 
 // Render a new task from the template
 function renderTask(details) {
-  var template = $('#tmpl-task').html();
-  var taskTmpl = Handlebars.compile(template);
+  var taskId = 'task-' + details.id;
+  var $divTask = $('<div>', {
+    'class': 'task ' + details.importance
+  });
+  var $input = $('<input>', {
+    id: 'task-' + details.id,
+    type: 'checkbox'
+  });
+  var $label = $('<label>', {
+    'class': 'text',
+    for: 'task-' + details.id,
+    text: details.text
+  });
 
-  return taskTmpl(details);
+  return $divTask.append($input, $label);
 }
 
 // Form action
@@ -26,10 +37,10 @@ $('#create-btn').on('click', function () {
     }
 
     // Get rendered template HTML
-    var newTask = renderTask(taskDetails);
+    var $newTask = renderTask(taskDetails);
 
     // Append task HTML to tasks container
-    $tasksContainer.append(newTask);
+    $tasksContainer.append($newTask);
   }
 });
 
