@@ -5,3 +5,7 @@ header {
     background-color: #eee;
     border-bottom: 1px solid #ddd;
 }
+
+main {
+    margin-top: 10px;
+}
