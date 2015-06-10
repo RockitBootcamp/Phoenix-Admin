@@ -76,7 +76,7 @@ Low      | 6/26     | 50%      | Brad     | Project: **CSS Component Library**
 Low      | 6/26     | 0%       | Brad     | Project: **Jekyll Blog**
          |          | 100%     | Brad     | Objectives
 Low      | 7/1      | 0%       | Kevin and Brad | Test
-Low      | 6/26     | 80%      | All      | Interview Questions
+Low      | 6/26     | 95%      | All      | Interview Questions
 
 > * Brad needs to review the Twitter project
 
