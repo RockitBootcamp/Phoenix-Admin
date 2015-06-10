@@ -99,6 +99,11 @@ Medium   | 7/1      | 80%      | Brad     | Objectives
 Low      | 7/6      | 0%       | Kevin and Brad | Test
 Low      | 7/6      | 0%       | Kevin and Brad | Interview Questions
 
+#### Lessons without "Prework", "Practice", or "Presentation" material
+
+- **Pretty much all of them since we're still writing objectives**
+
+
 
 
 ## Milestone 6
@@ -110,6 +115,9 @@ Low      | 7/13     | 0%       | Brad     | Objectives
 Low      | 7/13     | 0%       | Kevin and Brad | Test
 Low      | 7/13     | 0%       | Kevin and Brad | Interview Questions
 
+#### Lessons without "Prework", "Practice", or "Presentation" material
+
+- **Pretty much all of them since objectives aren't written**
 
 
 
