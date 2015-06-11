@@ -6,7 +6,7 @@ Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
          |          | 100%     | Brad     | Project: **PHP Products v1**
          |          | 100%     | Brad     | Objectives
-High     | 6/10     |  80%     | Kris     | Test
+         |          | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
