@@ -1,8 +1,11 @@
 # M1
 
 - [ ] Project 
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score: 
 
 ## Reviews
 
+### 6/12/2015
+
+- Kevin: passed interview
