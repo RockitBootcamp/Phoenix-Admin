@@ -1,8 +1,15 @@
 # M1
 
-- [ ] Project 
-- [ ] Interview
-- [ ] Test Score: 
+- [x] project
+- [x] interview
+- [ ] test score: 
 
 ## Reviews
 
+### 6/11/2015
+
+- Kevin: reviewed milestone 1 project, looks good!
+
+### 6/12/2015
+
+- Kevin: passed interview with flying colors!
