@@ -53,6 +53,7 @@ Medium   | 6/24     | 80%      | Kris     | Test
 
 - CSS Positioning
 - CSS Patterns I
+- **JavaScript Object Literals II**
 - **JavaScript Built-in Methods and Properties**
 - **JavaScript DOM and Document Methods**
 - **JavaScript Arrays**
