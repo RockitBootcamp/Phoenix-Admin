@@ -28,8 +28,6 @@ High     | 6/11     | 100%      | Kevin    | Project: **jQuery ToDo-App**
 Medium   | 6/17     | 80%      | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
-> The only reason why the todo project isn't done is because Kevin and I still need to discuss and maybe change a small aspect of it
-
 #### Lessons without "Prework", "Practice", or "Presentation" material
 
 - HTML Semantic Tags
