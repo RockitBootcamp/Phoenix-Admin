@@ -2,7 +2,7 @@
 
 - [x] project
 - [ ] interview
-- [ ] test score:
+- [x] test score: 94%
 
 ## Reviews
 
