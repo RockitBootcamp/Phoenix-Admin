@@ -4,7 +4,7 @@
 
 - [x] Project 
 - [x] Interview
-- [x] Test Score: 
+- [x] Test Score: 88%
 
 ### Reviews: 6/11/15
 - Brig: Project looks great, passed project
