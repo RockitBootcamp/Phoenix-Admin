@@ -36,6 +36,7 @@ Medium   | 6/17     | 80%      | Kris     | Test
 - **HTML Form Constraint Validation**
 - CSS Pseudo Classes and Elements
 - **JavaScript Object Literals**
+- ~~**JavaScript User Defined Functions**~~ Done
 - **jQuery Events**
 
 
