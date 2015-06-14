@@ -13,7 +13,7 @@ Keith Wasielewski   | √ |√ |√ |
 Levi Donaldson      |   |  | √ |
 Matt Lewandowski    |   |  | √ |
 Richard Jeffery     |   |√  |√  |
-Ryan Medina         |   |√ |  |
+Ryan Medina         |   |√ |√ |
 Ryan Morales        |   |  | √ |
 Ryan Taylor         | √ |  |  |
 Timothy Baney       | √ |√ | √ |
