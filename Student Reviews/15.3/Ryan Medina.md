@@ -9,3 +9,7 @@
 ### 6/12/2015
 
 - Kevin: passed interview
+
+### 6/15/2015
+
+- Kevin: project completed
