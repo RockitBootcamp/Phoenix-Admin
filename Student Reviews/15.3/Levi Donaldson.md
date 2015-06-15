@@ -1,4 +1,4 @@
-<img src="https://lh4.googleusercontent.com/-byt-u1GHYMc/VO5fCzfPkmI/AAAAAAAABE4/AJxUndqIxiI/s1198-no/Photo%2Bon%2B2-25-15%2Bat%2B4.41%2BPM%2B%25232.jpg">
+<img width="200px" src="https://lh4.googleusercontent.com/-byt-u1GHYMc/VO5fCzfPkmI/AAAAAAAABE4/AJxUndqIxiI/s1198-no/Photo%2Bon%2B2-25-15%2Bat%2B4.41%2BPM%2B%25232.jpg">
 
 # M1
 
