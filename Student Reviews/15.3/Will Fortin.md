@@ -1,4 +1,4 @@
-<img src="https://lh6.googleusercontent.com/-lRFLuCZ83qk/VXZxtXriRpI/AAAAAAAAJCY/unGAO3MRkDo/s324-no/will.jpg">
+<img width="200px" src="https://lh6.googleusercontent.com/-lRFLuCZ83qk/VXZxtXriRpI/AAAAAAAAJCY/unGAO3MRkDo/s324-no/will.jpg">
 
 # M1
 
