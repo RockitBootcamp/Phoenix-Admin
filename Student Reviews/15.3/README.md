@@ -8,9 +8,9 @@ Chris Pryor         | √ |√ |√ |
 Chris Vandenberg    | √ |  |√ |
 Derek Doughty       | √ |√ |√ |
 Duane Winkel        | √ |√ |√ |
-Karla Moran         | √ |  |√ |
+Karla Moran         | √ |√ |√ |
 Keith Wasielewski   | √ |√ |√ |
-Levi Donaldson      | √ |  |√ |
+Levi Donaldson      | √ |√ |√ |
 Matt Lewandowski    | √ |√ |√ |
 Richard Jeffery     | √ |√ |√ |
 Ryan Medina         | √ |√ |√ |
