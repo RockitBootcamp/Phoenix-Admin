@@ -2,7 +2,7 @@
 
 Name          |  Project | Interview | Test |
 :------------:|:--------:|:---------:|:----:|
-Aaron Suzuki        | √ |  |√ |
+Aaron Suzuki        | √ |√ |√ |
 Ben Farr            | √ |√ |√ |
 Chris Pryor         | √ |√ |√ |
 Chris Vandenberg    | √ |  |√ |
