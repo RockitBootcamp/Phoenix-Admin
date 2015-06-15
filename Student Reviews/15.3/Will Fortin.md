@@ -13,4 +13,4 @@
 - Kevin: he couldn't name any block elements, will study more and try again later, need to be tested on everything (we didn't get passed the first interview question)
 
 ### 6/15/2015
-- Brig: Failed. He missed attributes.
+- Brig: Passed project. Not passed of for interview. He missed attributes.
