@@ -4,7 +4,7 @@ Name          |  Project | Interview | Test |
 :------------:|:--------:|:---------:|:----:|
 Aaron Suzuki        | √ |  |√ |
 Ben Farr            | √ |√ |√ |
-Chris Pryor         | √ |  |√ |
+Chris Pryor         | √ |√ |√ |
 Chris Vandenberg    |   |  |√ |
 Derek Doughty       |   |  |  |
 Duane Winkel        | √ |√ |√ |
