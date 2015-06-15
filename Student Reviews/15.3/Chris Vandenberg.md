@@ -1,7 +1,7 @@
 # M1
 
 - [x] Project 
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 67.3%
 
 ## Reviews
@@ -26,3 +26,5 @@
     - passed basic logic
 
 - Kris: project, passed - he had it checked off by another instructor, but I double checked and it's good
+- Kris: interview, passed
+  - struggled remembering the display values of "inline" and "block", but knew the characteristics of each without help
