@@ -6,7 +6,7 @@ Aaron Suzuki        | √ |√ |√ |
 Ben Farr            | √ |√ |√ |
 Chris Pryor         | √ |√ |√ |
 Chris Vandenberg    | √ |  |√ |
-Derek Doughty       |   |  |  |
+Derek Doughty       | √ | √| √|
 Duane Winkel        | √ |√ |√ |
 Karla Moran         | x |  |√ |
 Keith Wasielewski   | √ |√ |√ |
