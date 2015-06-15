@@ -14,7 +14,7 @@ Levi Donaldson      | √ |  |√ |
 Matt Lewandowski    | √ |√ |√ |
 Richard Jeffery     | x |√ |√ |
 Ryan Medina         | x |√ |√ |
-Ryan Morales        | √ |  |√ |
+Ryan Morales        | √ | √ |√ |
 Ryan Taylor         | √ |√ |√ |
 Timothy Baney       | √ |√ |√ |
 Troy Mullaney       | √ |√ |√ |
