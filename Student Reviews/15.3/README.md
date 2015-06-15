@@ -6,7 +6,7 @@ Aaron Suzuki        | √ |√ |√ |
 Ben Farr            | √ |√ |√ |
 Chris Pryor         | √ |√ |√ |
 Chris Vandenberg    | √ |  |√ |
-Derek Doughty       | √ |√ | √|
+Derek Doughty       | √ |√ |√ |
 Duane Winkel        | √ |√ |√ |
 Karla Moran         | √ |  |√ |
 Keith Wasielewski   | √ |√ |√ |
@@ -14,8 +14,8 @@ Levi Donaldson      | √ |  |√ |
 Matt Lewandowski    | √ |√ |√ |
 Richard Jeffery     | √ |√ |√ |
 Ryan Medina         | √ |√ |√ |
-Ryan Morales        | √ | √ |√ |
+Ryan Morales        | √ |√ |√ |
 Ryan Taylor         | √ |√ |√ |
 Timothy Baney       | √ |√ |√ |
 Troy Mullaney       | √ |√ |√ |
-Will Fortin         | √ |  |√ |
+Will Fortin         | √ |√ |√ |
