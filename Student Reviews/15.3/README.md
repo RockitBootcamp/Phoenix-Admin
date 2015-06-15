@@ -15,7 +15,7 @@ Matt Lewandowski    | √ |  |√ |
 Richard Jeffery     | x |√ |√ |
 Ryan Medina         | x |√ |√ |
 Ryan Morales        | √ |  |√ |
-Ryan Taylor         | √ |  |√ |
+Ryan Taylor         | √ |√ |√ |
 Timothy Baney       | √ |√ |√ |
 Troy Mullaney       | √ |√ |√ |
 Will Fortin         | √ |  |√ |
