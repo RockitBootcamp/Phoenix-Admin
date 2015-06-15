@@ -3,7 +3,7 @@
 # M1
 
 - [x] Project 
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 83.7%
 
 ## Reviews
@@ -14,3 +14,5 @@
 
 ### 6/15/2015
 - Brig: Passed project. Not passed of for interview. He missed attributes.
+
+- Kris: Interview, passed
