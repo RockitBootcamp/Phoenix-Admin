@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project 
+- [x] Project 
 - [x] Interview
 - [x] Test Score: 89.8%
 
