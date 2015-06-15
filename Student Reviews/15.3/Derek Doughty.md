@@ -2,7 +2,7 @@
 
 - [ ] Project 
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 77.6%
 
 ## Reviews
 
