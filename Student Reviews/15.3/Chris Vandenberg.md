@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project 
+- [x] Project 
 - [ ] Interview
 - [x] Test Score: 67.3%
 
@@ -24,3 +24,5 @@
     - need to review concatenation, got the basics up until that part
     - need to review type casting, got the rest of the variable types
     - passed basic logic
+
+- Kris: project, passed - he had it checked off by another instructor, but I double checked and it's good
