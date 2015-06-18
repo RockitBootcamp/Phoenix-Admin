@@ -13,3 +13,16 @@
 ### 6/12/2015
 
 - Kevin: passed interview with flying colors!
+
+# M2
+
+- [x] project "todo"
+- [ ] project "css"
+- [ ] interview
+- [ ] test score:
+
+## Reviews
+
+### 6/18/2015
+
+- Kevin: completed todo
