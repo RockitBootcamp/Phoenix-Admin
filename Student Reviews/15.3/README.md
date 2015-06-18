@@ -9,12 +9,12 @@ Chris Vandenberg    |   |   |   |
 Derek Doughty       |   |   |   |
 Duane Winkel        |   |   |   |
 Karla Moran         |   |   |   |
-Keith Wasielewski   |   |   |   |
+Keith Wasielewski   | 50% |   |   |
 Levi Donaldson      |   |   |   |
 Matt Lewandowski    |   |   |   |
 Richard Jeffery     |   |   |   |
 Ryan Medina         |   |   |   |
-Ryan Morales        |   |   |   |
+Ryan Morales        | 50% |   |   |
 Ryan Taylor         |   |   |   |
 Timothy Baney       |   |   |   |
 Troy Mullaney       | 50% |   |   |
