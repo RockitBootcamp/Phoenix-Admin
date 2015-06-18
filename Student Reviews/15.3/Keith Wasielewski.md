@@ -17,7 +17,7 @@
 # M2
 
 - [x] project "todo"
-- [ ] project "css"
+- [x] project "css"
 - [ ] interview
 - [ ] test score:
 
@@ -25,4 +25,5 @@
 
 ### 6/18/2015
 
-- Kevin: completed todo
+- Kevin: completed todo project
+- Kevin: completed css project
