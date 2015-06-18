@@ -7,9 +7,9 @@ Ben Farr            |   |   |   |
 Chris Pryor         |   |   |   |
 Chris Vandenberg    |   |   |   |
 Derek Doughty       |   |   |   |
-Duane Winkel        |   |   |   |
+Duane Winkel        | ✓ |   |   |
 Karla Moran         |   |   |   |
-Keith Wasielewski   | 50% |   |   |
+Keith Wasielewski   | ✓ |   |   |
 Levi Donaldson      |   |   |   |
 Matt Lewandowski    |   |   |   |
 Richard Jeffery     |   |   |   |
@@ -17,7 +17,7 @@ Ryan Medina         |   |   |   |
 Ryan Morales        | 50% |   |   |
 Ryan Taylor         |   |   |   |
 Timothy Baney       |   |   |   |
-Troy Mullaney       | 50% |   |   |
+Troy Mullaney       | ✓ |   |   |
 Will Fortin         |   |   |   |
 
 ## Milestone 1
