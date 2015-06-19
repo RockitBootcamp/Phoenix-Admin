@@ -22,10 +22,10 @@ Priority | Expected | Complete | Assigned | Description
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-High     | 6/11     | 100%      | Kevin    | Project: **jQuery ToDo-App**
+High     | 6/11     | 100%     | Kevin    | Project: **jQuery ToDo-App**
          |          | 100%     | Brad     | Project: **CSS Basic Layout**
          |          | 100%     | Brad     | Objectives
-Medium   | 6/17     | 80%      | Kris     | Test
+Medium   | 6/17     | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
