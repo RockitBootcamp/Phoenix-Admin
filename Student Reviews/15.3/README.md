@@ -14,10 +14,10 @@ Levi Donaldson      |   |   |   |  |
 Matt Lewandowski    |   |   |   |  |
 Richard Jeffery     |   |   |   |  |
 Ryan Medina         |   |   |   |  |
-Ryan Morales        |   | 50% |   |  |
+Ryan Morales        |   | ✓ |   |  |
 Ryan Taylor         |   |   |   |  |
 Timothy Baney       |   |   |   |  |
-Troy Mullaney       |   | ✓ |   | ✓|
+Troy Mullaney       |   |   |   | ✓|
 Will Fortin         |   |   |   |  |
 
 ## Milestone 1
