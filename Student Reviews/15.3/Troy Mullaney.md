@@ -1,6 +1,3 @@
-### 6/22/2015
-- Kris: Interview, passed
-
 # M1
 
 - [x] Project 
@@ -28,3 +25,6 @@
 ### 6/18/2015
 
 - Kevin: todo project complete
+
+### 6/22/2015
+- Kris: Interview, passed
