@@ -11,6 +11,8 @@
 
 - Kevin: todo project complete
 - Kevin: css project complete, Brad needs to review
+
+### 6/22/2015
 - Kris: Interview, passed
 
 # M1
