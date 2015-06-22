@@ -17,7 +17,7 @@ Ryan Medina         |   |   |   |  |
 Ryan Morales        |   | ✓ |   |  |
 Ryan Taylor         |   |   |   |  |
 Timothy Baney       |   |   |   |  |
-Troy Mullaney       |   |   |   | ✓|
+Troy Mullaney       |   | ✓ |   | ✓|
 Will Fortin         |   |   |   |  |
 
 ## Milestone 1
