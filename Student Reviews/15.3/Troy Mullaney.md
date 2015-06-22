@@ -1,17 +1,3 @@
-# M2
-
-- [x] Project "todo"
-- [ ] project "css"
-- [x] Interview
-- [x] Test Score: 98%
-
-## Reviews
-
-### 6/18/2015
-
-- Kevin: todo project complete
-- Kevin: css project complete, Brad needs to review
-
 ### 6/22/2015
 - Kris: Interview, passed
 
@@ -30,3 +16,15 @@
 - Brad: Interview went well, passed
 
 
+# M2
+
+- [x] Project "todo"
+- [ ] project "css"
+- [x] Interview
+- [x] Test Score: 98%
+
+## Reviews
+
+### 6/18/2015
+
+- Kevin: todo project complete
