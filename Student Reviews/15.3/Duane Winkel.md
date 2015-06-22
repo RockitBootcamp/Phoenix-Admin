@@ -15,7 +15,7 @@
 
 - Brad: Interview. We finished and he did well
 
-# M1
+# M2
 
 - [x] Project "todo"
 - [x] project "css"
@@ -24,5 +24,5 @@
 
 ## Reviews
 
-### 6/18/2015
-
+### 6/22/2015
+- Brad: CSS is good
