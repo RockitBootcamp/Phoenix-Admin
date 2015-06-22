@@ -17,12 +17,10 @@
 # M2
 
 - [ ] project "todo"
-- [x] project "css"
+- [ ] project "css"
 - [ ] interview
 - [ ] test score: 
 
 ## Reviews
 
 ### 6/18/2015
-
-- Kevin: css project complete
