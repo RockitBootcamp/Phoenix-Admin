@@ -17,7 +17,7 @@
 # M2
 
 - [x] project "todo"
-- [ ] project "css"
+- [x] project "css"
 - [ ] interview
 - [ ] test score:
 
