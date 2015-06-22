@@ -3,7 +3,7 @@
 - [x] Project "todo"
 - [ ] project "css"
 - [x] Interview
-- [x] Test Score: 94%
+- [x] Test Score: 98%
 
 ## Reviews
 
