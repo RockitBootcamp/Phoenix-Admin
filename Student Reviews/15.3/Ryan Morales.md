@@ -17,10 +17,11 @@
 # M2
 
 - [ ] project "todo"
-- [ ] project "css"
+- [x] project "css"
 - [ ] interview
 - [ ] test score: 
 
 ## Reviews
 
-### 6/18/2015
+### 6/22/2015
+- Brad: CSS project passed
