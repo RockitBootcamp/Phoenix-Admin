@@ -19,7 +19,7 @@
 # M2
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test Score:
 
@@ -28,3 +28,4 @@
 ### 6/23/2015
 
 - Kevin: JS Project completed
+- Brad: CSS project good
