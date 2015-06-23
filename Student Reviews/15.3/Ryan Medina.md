@@ -1,11 +1,15 @@
 # M1
 
-- [ ] Project 
+- [x] Project 
 - [x] Interview
-- [ ] Test Score: 
+- [x] Test Score: 89.8%
 
 ## Reviews
 
 ### 6/12/2015
 
 - Kevin: passed interview
+
+### 6/15/2015
+
+- Kevin: project completed

@@ -22,21 +22,17 @@ Priority | Expected | Complete | Assigned | Description
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-High     | 6/11     | 100%      | Kevin    | Project: **jQuery ToDo-App**
+High     | 6/11     | 100%     | Kevin    | Project: **jQuery ToDo-App**
          |          | 100%     | Brad     | Project: **CSS Basic Layout**
          |          | 100%     | Brad     | Objectives
-Medium   | 6/17     | 80%      | Kris     | Test
+Medium   | 6/17     | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
-
-> The only reason why the todo project isn't done is because Kevin and I still need to discuss and maybe change a small aspect of it
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
 
 - HTML Semantic Tags
 - **HTML Form Constraint Validation**
 - CSS Pseudo Classes and Elements
-- **JavaScript Object Literals**
-- ~~**JavaScript User Defined Functions**~~ Done
 - **jQuery Events**
 
 
@@ -55,6 +51,7 @@ Medium   | 6/24     | 80%      | Kris     | Test
 
 - CSS Positioning
 - CSS Patterns I
+- **JavaScript Object Literals II**
 - **JavaScript Built-in Methods and Properties**
 - **JavaScript DOM and Document Methods**
 - **JavaScript Arrays**
