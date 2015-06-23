@@ -1,7 +1,7 @@
 ## Milestone 2
 
-Name          |  CSS Project | JS Project | Interview | Test |
-:------------:|:--------:|:---------:|:---------:|:----:|
+Name                |  CSS Project | JS Project | Interview | Test |
+:------------------:|:------------:|:----------:|:---------:|:----:|
 Aaron Suzuki        |   |   |   |88%|
 Chris Pryor         |   |   |   |82%|
 Chris Vandenberg    |   |   |   |74%|
@@ -16,7 +16,7 @@ Ryan Medina         |   |   |   |86%|
 Ryan Morales        |   | ✓ |   |86%|
 R. Wade Taylor      |   |   |   |90%|
 Timothy Baney       |   |   |   |78%|
-Troy Mullaney       |   | ✓ | ✓ |98%|
+Troy Mullaney       | ✓ | ✓ | ✓ |98%|
 Will Fortin         |   |   |   |62%|
 
 ## Milestone 1
