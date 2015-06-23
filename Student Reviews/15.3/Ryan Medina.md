@@ -1,3 +1,20 @@
+# M2
+
+- [x] JS Project
+- [ ] CSS Project
+- [x] Interview
+- [x] Test Score: 86%
+
+## Reviews
+
+### 6/22/15
+- Kris: Interview, passed
+
+### 6/23/2015
+
+- Kevin: JS Project completed
+
+
 # M1
 
 - [x] Project
@@ -14,15 +31,4 @@
 
 - Kevin: project completed
 
-# M2
 
-- [x] JS Project
-- [ ] CSS Project
-- [ ] Interview
-- [ ] Test Score:
-
-## Reviews
-
-### 6/23/2015
-
-- Kevin: JS Project completed
