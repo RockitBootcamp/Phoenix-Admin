@@ -3,15 +3,15 @@
 Name          |  CSS Project | JS Project | Interview | Test |
 :------------:|:--------:|:---------:|:---------:|:----:|
 Aaron Suzuki        |   |   |   |88%|
-Chris Pryor         |   |   |   |  |
+Chris Pryor         |   |   |   |82%|
 Chris Vandenberg    |   |   |   |74%|
 Derek Doughty       |   |   |   |  |
-Duane Winkel        |   | ✓ |   |96%|
-Karla Moran         |   |   |   |  |
+Duane Winkel        |   | ✓ | ✓ |96%|
+Karla Moran         |   |   |   |88%|
 Keith Wasielewski   |   | ✓ | ✓ |94%|
 Levi Donaldson      |   |   |   |58%|
 Matt Lewandowski    |   |   |   |90%|
-Richard Jeffery     |   |   |   |  |
+Richard Jeffery     |   |   |   |78%|
 Ryan Medina         |   |   |   |86%|
 Ryan Morales        |   | ✓ |   |86%|
 R. Wade Taylor      |   |   |   |90%|
