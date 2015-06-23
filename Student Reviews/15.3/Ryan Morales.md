@@ -18,7 +18,7 @@
 
 - [x] JS project
 - [x] CSS project
-- [ ] interview
+- [x] interview
 - [ ] test score:
 
 ## Reviews
