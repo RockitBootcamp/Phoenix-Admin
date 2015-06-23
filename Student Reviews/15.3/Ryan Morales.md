@@ -30,3 +30,5 @@
 ### 6/23/2015
 
 - Kevin: JS Project completed
+
+- Kevin: Interview: Ryan passed!
