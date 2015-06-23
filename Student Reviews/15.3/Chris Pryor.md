@@ -1,6 +1,6 @@
 # M1
 
-- [x] Project 
+- [x] Project
 - [x] Interview
 - [x] Test Score: 75.5%
 
@@ -11,12 +11,13 @@
 - Brad: Project looks good, passed
 
 ### 6/15/15
+
 - Kris: Interview, passed
 
 # M2
 
-- [x] CSS Project 
-- [ ] JS Project
+- [x] JS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test Score: 75.5%
 
@@ -25,3 +26,5 @@
 ### 6/23/15
 
 - Brad: CSS project passed
+
+- Kevin: JS project completed
