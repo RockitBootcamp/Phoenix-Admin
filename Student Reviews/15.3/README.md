@@ -9,7 +9,7 @@ Derek Doughty       |              |            |           |      |
 Duane Winkel        | ✓            | ✓          | ✓         | 96%  |
 Karla Moran         |              | ✓          |           | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
-Levi Donaldson      |              | ✓          |           | 58%  |
+Levi Donaldson      | ✓            | ✓          |           | 58%  |
 Matt Lewandowski    |              | ✓          |           | 90%  |
 Richard Jeffery     |              | ✓          |           | 78%  |
 Ryan Medina         |              | ✓          |           | 86%  |
