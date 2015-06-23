@@ -13,7 +13,7 @@ Levi Donaldson      | ✓            | ✓          |           | 58%  |
 Matt Lewandowski    | ✓            | ✓          |           | 90%  |
 Richard Jeffery     |              | ✓          |           | 78%  |
 Ryan Medina         |              | ✓          |           | 86%  |
-Ryan Morales        | ✓            | ✓          |           | 86%  |
+Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
 R. Wade Taylor      |              | ✓          |           | 90%  |
 Timothy Baney       |              | ✓          |           | 78%  |
 Troy Mullaney       | ✓            | ✓          | ✓         | 98%  |
