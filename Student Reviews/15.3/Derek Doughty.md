@@ -11,3 +11,16 @@
 ### 6/15/15 Brig
 - Reviewed Quiz and Project. Looked good. Recommened him to retake the test.
 - Passed Milestone. Passed HTML section. Passed CSS. Passed PHP. Passed
+
+# M2
+
+- [x] JS Project 
+- [ ] CSS Project 
+- [ ] Interview
+- [ ] Test Score: 
+
+## Reviews
+
+### 6/24/2015
+
+- Kevin: JS project completed
