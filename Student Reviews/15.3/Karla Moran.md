@@ -1,14 +1,3 @@
-# M2
-
-- [x] JS Project
-- [ ] CSS Project
-- [x] Interview
-- [x] Test Score: 88%
-
-## Reviews
-
-### 6/24/15
-- Kris: Interview, passed. However, suggested revisiting Object Literals section, as she struggled with the dot notation.
 
 # M1
 
@@ -29,9 +18,19 @@
 - Kris: interview, passed
 
 
+# M2
+
+- [x] JS Project
+- [x] CSS Project
+- [x] Interview
+- [x] Test Score: 88%
 
 ## Reviews
+
+### 6/24/15
+- Kris: Interview, passed. However, suggested revisiting Object Literals section, as she struggled with the dot notation.
 
 ### 6/23/2015
 
 - Kevin: JS Project completed
+- Brad: CSS Project Passed
