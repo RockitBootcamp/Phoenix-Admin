@@ -21,7 +21,7 @@
 - [x] JS Project
 - [x] CSS Project
 - [ ] Interview
-- [ ] Test Score:
+- [x] Test Score: 58%
 
 ## Reviews
 
@@ -29,3 +29,7 @@
 
 - Kevin: JS Project completed
 - Brad: CSS project good
+
+### 6/24/15
+- Kris: Interview, not finished
+  - We did the HTML form is all
