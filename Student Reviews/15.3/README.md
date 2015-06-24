@@ -7,14 +7,14 @@ Chris Pryor         |              | ✓          |           | 82%  |
 Chris Vandenberg    |              | ✓          |           | 74%  |
 Derek Doughty       |              |            |           |      |  
 Duane Winkel        | ✓            | ✓          | ✓         | 96%  |
-Karla Moran         |              | ✓          |           | 88%  |
+Karla Moran         |              | ✓          | ✓         | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
 Levi Donaldson      | ✓            | ✓          |           | 58%  |
 Matt Lewandowski    | ✓            | ✓          |           | 90%  |
 Richard Jeffery     |              | ✓          |           | 78%  |
 Ryan Medina         |              | ✓          | ✓         | 86%  |
 Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
-R. Wade Taylor      |              | ✓          |           | 90%  |
+R. Wade Taylor      |              | ✓          | ✓         | 90%  |
 Timothy Baney       |              | ✓          |           | 78%  |
 Troy Mullaney       | ✓            | ✓          | ✓         | 98%  |
 Will Fortin         |              |            |           | 62%  |
