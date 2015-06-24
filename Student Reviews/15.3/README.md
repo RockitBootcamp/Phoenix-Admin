@@ -5,7 +5,7 @@ Name                |  CSS Project | JS Project | Interview | Test |
 Aaron Suzuki        |              | ✓          |           | 88%  |
 Chris Pryor         |              | ✓          |           | 82%  |
 Chris Vandenberg    |              | ✓          |           | 74%  |
-Derek Doughty       |              |            |           |      |  
+Derek Doughty       |              | ✓          |           |      |  
 Duane Winkel        | ✓            | ✓          | ✓         | 96%  |
 Karla Moran         |              | ✓          | ✓         | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
@@ -17,7 +17,7 @@ Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
 R. Wade Taylor      |              | ✓          | ✓         | 90%  |
 Timothy Baney       |              | ✓          |           | 78%  |
 Troy Mullaney       | ✓            | ✓          | ✓         | 98%  |
-Will Fortin         |              |            |           | 62%  |
+Will Fortin         |              | ✓          |           | 62%  |
 
 ## Milestone 1
 
