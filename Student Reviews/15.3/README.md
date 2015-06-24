@@ -2,7 +2,7 @@
 
 Name                |  CSS Project | JS Project | Interview | Test |
 :------------------:|:------------:|:----------:|:---------:|:----:|
-Aaron Suzuki        |              | ✓          | ✓         | 88%  |
+Aaron Suzuki        | ✓            | ✓          | ✓         | 88%  |
 Chris Pryor         | ✓            | ✓          |           | 82%  |
 Chris Vandenberg    |              | ✓          |           | 74%  |
 Derek Doughty       | ✓            | ✓          |           |      |  
