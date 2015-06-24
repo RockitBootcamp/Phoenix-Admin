@@ -7,7 +7,7 @@ Chris Pryor         | ✓            | ✓          |           | 82%  |
 Chris Vandenberg    |              | ✓          |           | 74%  |
 Derek Doughty       | ✓            | ✓          |           |      |  
 Duane Winkel        | ✓            | ✓          | ✓         | 96%  |
-Karla Moran         |              | ✓          | ✓         | 88%  |
+Karla Moran         | ✓            | ✓          | ✓         | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
 Levi Donaldson      | ✓            | ✓          |           | 58%  |
 Matt Lewandowski    | ✓            | ✓          |           | 90%  |
