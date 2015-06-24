@@ -27,3 +27,16 @@
 ### 6/23/2015
 
 - Kevin: JS Project completed
+
+### 6/24/2015
+
+- Kevin: Interview:
+  - struggled with <form> (**skipped all the html form questions because he didn't know the form tag**)
+  - border-box (got the answer by guessing but didn't know it)
+  - didn't remember how to prevent child-parent margins
+  - didn't remember :not()
+  - confused about media elements overflow:hidden
+  - didn't know what expressions are
+  - didn't know how to assign a new value without redeclaring the variable
+  - didn't remember the other type aside from primitives is Object
+- Needs to interview for <form> and JavaScript Object Literals and onward
