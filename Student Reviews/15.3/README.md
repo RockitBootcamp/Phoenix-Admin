@@ -2,7 +2,7 @@
 
 Name                |  CSS Project | JS Project | Interview | Test |
 :------------------:|:------------:|:----------:|:---------:|:----:|
-Aaron Suzuki        |              | ✓          |           | 88%  |
+Aaron Suzuki        |              | ✓          | ✓         | 88%  |
 Chris Pryor         | ✓            | ✓          |           | 82%  |
 Chris Vandenberg    |              | ✓          |           | 74%  |
 Derek Doughty       | ✓            | ✓          |           |      |  
@@ -15,7 +15,7 @@ Richard Jeffery     |              | ✓          |           | 78%  |
 Ryan Medina         |              | ✓          | ✓         | 86%  |
 Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
 R. Wade Taylor      | ✓            | ✓          | ✓         | 90%  |
-Timothy Baney       |              | ✓          |           | 78%  |
+Timothy Baney       |              | ✓          | ✓         | 78%  |
 Troy Mullaney       | ✓            | ✓          | ✓         | 98%  |
 Will Fortin         |              | ✓          |           | 62%  |
 
