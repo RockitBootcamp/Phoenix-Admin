@@ -18,7 +18,7 @@
 # M2
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 86%
 
@@ -30,3 +30,4 @@
 ### 6/23/2015
 
 - Kevin: JS Project completed
+- Brad: CSS is good
