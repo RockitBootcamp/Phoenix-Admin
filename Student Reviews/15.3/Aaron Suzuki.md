@@ -15,7 +15,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score:
 
 ## Reviews
@@ -33,3 +33,4 @@
   - Didn't know how to assign a new value to an existing variable (reviewed with student)
   - Struggled with string concatenation (`firstName + ' ' + lastName`) (reviewed with student)
 - Brad: CSS Passed
+- Kris: Interview Passed
