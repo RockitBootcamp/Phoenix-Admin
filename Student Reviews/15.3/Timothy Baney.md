@@ -1,14 +1,3 @@
-# M2
-
-- [ ] CSS Project 
-- [x] Interview
-- [x] Test Score: 78%
-
-## Reviews
-
-### 6/24/15
-- Kris: Interview, passed
-
 # M1
 
 - [x] Project 
@@ -21,3 +10,16 @@
 
 - Brad: Project review went well, passed
 - Brad: Interview went well. Passed
+
+# M2
+
+- [ ] JS Interview
+- [x] CSS Project 
+- [x] Interview
+- [x] Test Score: 78%
+
+## Reviews
+
+### 6/24/15
+- Kris: Interview, passed
+- Brad: CSS project passed
