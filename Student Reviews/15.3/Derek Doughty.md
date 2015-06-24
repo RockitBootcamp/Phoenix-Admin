@@ -15,12 +15,13 @@
 # M2
 
 - [x] JS Project 
-- [ ] CSS Project 
+- [x] CSS Project 
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 
 
 ## Reviews
 
 ### 6/24/2015
 
 - Kevin: JS project completed
+- Brad: CSS project passed
