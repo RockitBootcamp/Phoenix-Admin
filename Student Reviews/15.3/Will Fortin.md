@@ -16,3 +16,16 @@
 - Brig: Passed project. Not passed of for interview. He missed attributes.
 
 - Kris: Interview, passed
+
+# M2
+
+- [x] JS project
+- [ ] CSS project
+- [ ] Interview
+- [ ] Test Score: 
+
+## Reviews
+
+### 6/24/2015
+
+- Kevin: JS Project completed
