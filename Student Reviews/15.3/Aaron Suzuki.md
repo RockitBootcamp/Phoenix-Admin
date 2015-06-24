@@ -14,9 +14,9 @@
 # M2
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
-- [ ] Test Score:
+- [x] Test Score:
 
 ## Reviews
 
@@ -32,4 +32,4 @@
   - named his media element class "clearfix" but he had the correct CSS in place
   - Didn't know how to assign a new value to an existing variable (reviewed with student)
   - Struggled with string concatenation (`firstName + ' ' + lastName`) (reviewed with student)
-
+- Brad: CSS Passed
