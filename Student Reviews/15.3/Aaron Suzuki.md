@@ -23,3 +23,13 @@
 ### 6/23/2015
 
 - Kevin: JS Project completed
+
+### 6/24/2015
+
+- Kevin: interview: 
+  - struggled answering 'prevent "Child-Parent" collapsing margins'
+  - didn't know psuedo selector question
+  - named his media element class "clearfix" but he had the correct CSS in place
+  - Didn't know how to assign a new value to an existing variable (reviewed with student)
+  - Struggled with string concatenation (`firstName + ' ' + lastName`) (reviewed with student)
+
