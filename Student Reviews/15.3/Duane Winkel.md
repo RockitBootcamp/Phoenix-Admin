@@ -1,17 +1,3 @@
-# M2
-
-- [x] Project "todo"
-- [x] project "css"
-- [x] Interview
-- [x] Test Score: 96%
-
-## Reviews
-
-### 6/22/2015
-- Brad: CSS is good
-- Kris: Interview, passed
-
-
 # M1
 
 - [x] Project 
@@ -29,3 +15,15 @@
 
 - Brad: Interview. We finished and he did well
 
+# M2
+
+- [x] Project "todo"
+- [x] project "css"
+- [x] Interview
+- [x] Test Score: 96%
+
+## Reviews
+
+### 6/22/2015
+- Brad: CSS is good
+- Kris: Interview, passed
