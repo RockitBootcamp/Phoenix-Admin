@@ -25,3 +25,6 @@
 
 - Kevin: JS project completed
 - Brad: CSS project passed
+
+### 6/25/15
+- Kris: Interview, started, not finished. He completed the HTML forms
