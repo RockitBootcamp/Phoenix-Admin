@@ -44,3 +44,9 @@
 
 - Kevin: JS Project completed
 - Brad: Passed CSS
+
+### 6/25/15
+- Kris: Started the interview, didn't have time to finish. He passed on HTML and some CSS, still needs:
+  - CSS: Box Model
+  - CSS: Resets
+  - JS: All
