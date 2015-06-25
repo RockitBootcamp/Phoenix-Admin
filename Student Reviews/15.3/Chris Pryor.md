@@ -32,3 +32,6 @@
 ### 6/24/15
 - Kris: Interview, not finished
   - We did the HTML form is all
+
+### 6/25/15
+- Kris: started interview, but didn't have time to finish. He passed HTML & CSS, has only JS left
