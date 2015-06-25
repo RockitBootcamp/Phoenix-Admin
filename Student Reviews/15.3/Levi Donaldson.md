@@ -33,3 +33,8 @@
 ### 6/24/15
 - Kris: Interview, not finished
   - We did the HTML form is all
+
+### 6/25/15
+- Kris: Interview, not finished
+- HTML & CSS passed
+- needs all of JS
