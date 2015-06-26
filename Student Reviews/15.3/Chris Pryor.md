@@ -18,7 +18,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 82%
 
 ## Reviews
@@ -35,3 +35,4 @@
 
 ### 6/25/15
 - Kris: started interview, but didn't have time to finish. He passed HTML & CSS, has only JS left
+- Kris: Interview finished, passed
