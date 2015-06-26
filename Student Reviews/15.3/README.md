@@ -9,8 +9,8 @@ Derek Doughty       | ✓            | ✓          | started          |  72%  |
 Duane Winkel        | ✓            | ✓          | ✓         | 96%  |
 Karla Moran         | ✓            | ✓          | ✓         | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
-Levi Donaldson      | ✓            | ✓          | has some JS left          | 58%  |
-Matt Lewandowski    | ✓            | ✓          | started          | 90%  |
+Levi Donaldson      | ✓            | ✓          | ✓         | 58%  |
+Matt Lewandowski    | ✓            | ✓          | ✓         | 90%  |
 Richard Jeffery     | ✓            | ✓          | ✓         | 78%  |
 Ryan Medina         | ✓            | ✓          | ✓         | 86%  |
 Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
