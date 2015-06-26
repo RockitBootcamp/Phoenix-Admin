@@ -52,3 +52,6 @@
   - JS Object Literals
   - JS User Defined Functions
   - JS Callback functions
+
+### 6/26/15
+- Kris: Interview, passed.
