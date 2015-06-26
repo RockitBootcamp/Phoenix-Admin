@@ -36,5 +36,7 @@
 
 ### 6/25/15
 - Kris: Interview, not finished
-- HTML & CSS passed
-- needs all of JS
+  - HTML & CSS passed
+  - needs all of JS
+- Kris: Interview, didn't get to finish
+  - still has some JS, I have it marked on pirate pad
