@@ -28,7 +28,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 90%
 
 ## Reviews
