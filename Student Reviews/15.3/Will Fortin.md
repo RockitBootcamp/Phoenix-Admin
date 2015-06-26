@@ -33,3 +33,8 @@
 ### 6/25/15
 - Kris: Interview, not finished
   - He struggled with the forms, didn't have the value attribute for checkboxes and radios, didn't have name attribute for any of the input elements. He did the dropdown correct. He did the one button using button tag correct.
+
+### 6/26/15
+- Kris: Interview, not able to finish
+  - Had him do forms again, he had to correct some things, so I had him redo them again. He got it that time. That is all he has completed on the interview. 
+  - He commented that he didn't see the point of knowing how to do the forms so well because he felt that he can just look that stuff up, but wanted to focus more on jQuery and JavaScript. 
