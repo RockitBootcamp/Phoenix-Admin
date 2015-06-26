@@ -11,7 +11,7 @@ Karla Moran         | ✓            | ✓          | ✓         | 88%  |
 Keith Wasielewski   | ✓            | ✓          | ✓         | 94%  |
 Levi Donaldson      | ✓            | ✓          | has JS left          | 58%  |
 Matt Lewandowski    | ✓            | ✓          | started          | 90%  |
-Richard Jeffery     |              | ✓          | started          | 78%  |
+Richard Jeffery     | ✓            | ✓          | started          | 78%  |
 Ryan Medina         | ✓            | ✓          | ✓         | 86%  |
 Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
 R. Wade Taylor      | ✓            | ✓          | ✓         | 90%  |
