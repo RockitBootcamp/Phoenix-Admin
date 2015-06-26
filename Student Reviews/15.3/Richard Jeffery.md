@@ -19,7 +19,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 78%
 
 ## Reviews
@@ -44,3 +44,6 @@
 ### 6/24/15
 
 - Brad: CSS Project passed
+
+### 6/25/15
+- Kris: interview, passed. Went over some of the things listed above and the remaining questions. He did good.
