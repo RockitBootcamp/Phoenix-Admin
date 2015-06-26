@@ -18,7 +18,7 @@
 # M2
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [x] Test Score: 78%
 
@@ -40,3 +40,7 @@
   - didn't know how to assign a new value without redeclaring the variable
   - didn't remember the other type aside from primitives is Object
 - Needs to interview for <form> and JavaScript Object Literals and onward
+
+### 6/24/15
+
+- Brad: CSS Project passed
