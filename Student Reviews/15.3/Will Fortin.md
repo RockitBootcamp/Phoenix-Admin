@@ -29,3 +29,7 @@
 ### 6/24/2015
 
 - Kevin: JS Project completed
+
+### 6/25/15
+- Kris: Interview, not finished
+- He struggled with the forms, didn't have the value attribute for checkboxes and radios, didn't have name attribute for any of the input elements. He did the dropdown correct. 
