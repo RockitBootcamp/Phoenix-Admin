@@ -28,3 +28,6 @@
 
 ### 6/25/15
 - Kris: Interview, started, not finished. He completed the HTML forms
+
+### 6/26/15
+- Kris: Interview, didn't have time to finish. He passed HTML and some CSS (basic selector strategies and flow/floats). 
