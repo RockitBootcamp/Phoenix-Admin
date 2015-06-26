@@ -20,7 +20,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 58%
 
 ## Reviews
@@ -40,3 +40,6 @@
   - needs all of JS
 - Kris: Interview, didn't get to finish
   - still has some JS, I have it marked on pirate pad
+
+### 6/26/15
+- Kris: Interview, passed
