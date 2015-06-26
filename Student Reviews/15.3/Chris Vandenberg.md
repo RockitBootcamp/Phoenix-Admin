@@ -35,7 +35,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 74%
 
 ## Reviews
@@ -50,3 +50,4 @@
   - CSS: Box Model
   - CSS: Resets
   - JS: All
+- Kris: finished interview, passed.
