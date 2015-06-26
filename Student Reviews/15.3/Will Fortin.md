@@ -32,4 +32,4 @@
 
 ### 6/25/15
 - Kris: Interview, not finished
-- He struggled with the forms, didn't have the value attribute for checkboxes and radios, didn't have name attribute for any of the input elements. He did the dropdown correct. 
+  - He struggled with the forms, didn't have the value attribute for checkboxes and radios, didn't have name attribute for any of the input elements. He did the dropdown correct. He did the one button using button tag correct.
