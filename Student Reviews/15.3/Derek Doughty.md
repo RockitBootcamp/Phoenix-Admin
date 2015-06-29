@@ -16,7 +16,7 @@
 
 - [x] JS Project 
 - [x] CSS Project 
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 72%
 
 ## Reviews
@@ -31,3 +31,7 @@
 
 ### 6/26/15
 - Kris: Interview, didn't have time to finish. He passed HTML and some CSS (basic selector strategies and flow/floats). 
+
+### 6/29/15
+- Kris: Interview, passed
+  - he still struggled some on the callback functions, but did get it. Gave him suggestion of doing katas, but before erasing and re-doing, told him to say out loud what is happening on each line so he has a better idea of what is being done and not just memorizing things. He liked that idea. Also talked about re-doing projects that use areas he is struggling. 
