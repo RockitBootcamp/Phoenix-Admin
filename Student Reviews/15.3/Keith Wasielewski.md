@@ -31,3 +31,17 @@
 
 ### 6/22/15
 - Kris: interview, passed 
+
+# M3
+
+- [x] JS project
+- [ ] CSS project
+- [ ] interview
+- [ ] test score: 
+
+## Reviews
+
+### 6/30/15
+- Kris: Twitter project, passed. 
+  - he did good, used .siblings() in some areas instead of moving up to parents() and going back down. Also had one area in renderTweet that he was using a lot of variables, which made it somewhat difficult to read, so discussed with him and he cleaned it up. 
+  
