@@ -2,22 +2,22 @@
 
 Name                |  CSS Project | JS Project | Interview | Test |
 :------------------:|:------------:|:---------:|:---------:|:----:|
-Aaron Suzuki        |             |           |          |   |
-Chris Pryor         |             |           |          |   |
-Chris Vandenberg    |             |           |          |   |
-Derek Doughty       |             |           |          |   |  
-Duane Winkel        |             |           |          |   |
-Karla Moran         |             |           |          |   |
-Keith Wasielewski   |             | ✓          |          |   |
-Levi Donaldson      |             |           |          |   |
-Matt Lewandowski    |             |           |          |   |
-Richard Jeffery     |             |           |          |   |
-Ryan Medina         |             |           |          |   |
-Ryan Morales        |             |           |          |   |
-R. Wade Taylor      |             |           |          |   |
-Timothy Baney       |             |           |          |   |
-Troy Mullaney       |             |           |          |   |
-Will Fortin         |             |           |          |   |
+Aaron Suzuki        |              |           |           |     |
+Chris Pryor         |              |           |           |     |
+Chris Vandenberg    |              |           |           |     |
+Derek Doughty       | ✓            |           |           |     |  
+Duane Winkel        |              |           |           |     |
+Karla Moran         |              |           |           |     |
+Keith Wasielewski   |              | ✓         |           |     |
+Levi Donaldson      |              |           |           |     |
+Matt Lewandowski    |              |           |           |     |
+Richard Jeffery     |              |           |           |     |
+Ryan Medina         |              |           |           |     |
+Ryan Morales        |              |           |           |     |
+R. Wade Taylor      |              |           |           |     |
+Timothy Baney       |              |           |           |     |
+Troy Mullaney       |              |           |           |     |
+Will Fortin         |              |           |           |     |
 
 ## Milestone 2
 
