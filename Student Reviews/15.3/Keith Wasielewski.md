@@ -35,7 +35,7 @@
 # M3
 
 - [x] JS project
-- [ ] CSS project
+- [x] CSS project
 - [ ] interview
 - [ ] test score: 
 
@@ -48,3 +48,4 @@
 ### 7/01/15
 - Brig: Interview. Not finished
   - Did Javascript. Stumbled on document Selectors and array terminology 
+- Brad: CSS Project passed
