@@ -6,7 +6,7 @@ Aaron Suzuki        |              |           |           |     |
 Chris Pryor         |              |           |           |     |
 Chris Vandenberg    |              |           |           |     |
 Derek Doughty       |              |           |           |     |  
-Duane Winkel        | ✓            |           |           |     |
+Duane Winkel        | ✓            | ✓         |           |     |
 Karla Moran         |              |           |           |     |
 Keith Wasielewski   | ✓            | ✓         |           |     |
 Levi Donaldson      |              |           |           |     |
@@ -16,7 +16,7 @@ Ryan Medina         |              |           |           |     |
 Ryan Morales        |              |           |           |     |
 R. Wade Taylor      |              |           |           |     |
 Timothy Baney       |              |           |           |     |
-Troy Mullaney       | ✓            |           |           |     |
+Troy Mullaney       | ✓            | ✓         |           |     |
 Will Fortin         |              |           |           |     |
 
 ## Milestone 2
