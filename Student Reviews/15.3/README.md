@@ -8,7 +8,7 @@ Chris Vandenberg    |              |           |           |     |
 Derek Doughty       |              |           |           |     |  
 Duane Winkel        | ✓            |           |           |     |
 Karla Moran         |              |           |           |     |
-Keith Wasielewski   |              | ✓         |           |     |
+Keith Wasielewski   | ✓            | ✓         |           |     |
 Levi Donaldson      |              |           |           |     |
 Matt Lewandowski    |              |           |           |     |
 Richard Jeffery     |              |           |           |     |
@@ -16,7 +16,7 @@ Ryan Medina         |              |           |           |     |
 Ryan Morales        |              |           |           |     |
 R. Wade Taylor      |              |           |           |     |
 Timothy Baney       |              |           |           |     |
-Troy Mullaney       |              |           |           |     |
+Troy Mullaney       | ✓            |           |           |     |
 Will Fortin         |              |           |           |     |
 
 ## Milestone 2
