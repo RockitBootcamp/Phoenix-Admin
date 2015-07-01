@@ -29,7 +29,7 @@
 - Kris: Interview, passed
 
 
-# M2
+# M3
 
 - [ ] Project "twitter"
 - [x] project "css"
