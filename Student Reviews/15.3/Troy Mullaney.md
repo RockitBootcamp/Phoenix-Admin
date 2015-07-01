@@ -28,3 +28,16 @@
 
 ### 6/22/2015
 - Kris: Interview, passed
+
+
+# M3
+
+- [ ] Project "twitter"
+- [x] project "css"
+- [ ] Interview
+- [ ] Test Score:
+
+## Reviews
+
+### 7/1/15
+- Brad: Passed CSS
