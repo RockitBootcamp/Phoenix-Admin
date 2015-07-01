@@ -27,3 +27,16 @@
 ### 6/22/2015
 - Brad: CSS is good
 - Kris: Interview, passed
+
+
+# M2
+
+- [ ] Project "twitter"
+- [x] project "css"
+- [ ] Interview
+- [ ] Test Score: 96%
+
+## Reviews
+
+### 7/1/15
+- Brad: CSS is good
