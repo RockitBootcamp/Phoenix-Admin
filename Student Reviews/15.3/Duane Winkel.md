@@ -34,7 +34,7 @@
 - [ ] Project "twitter"
 - [x] project "css"
 - [ ] Interview
-- [ ] Test Score: 96%
+- [ ] Test Score: 
 
 ## Reviews
 
