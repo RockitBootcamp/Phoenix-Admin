@@ -5,8 +5,8 @@ Name                |  CSS Project | JS Project | Interview | Test |
 Aaron Suzuki        |              |           |           |     |
 Chris Pryor         |              |           |           |     |
 Chris Vandenberg    |              |           |           |     |
-Derek Doughty       | ✓            |           |           |     |  
-Duane Winkel        |              |           |           |     |
+Derek Doughty       |              |           |           |     |  
+Duane Winkel        | ✓            |           |           |     |
 Karla Moran         |              |           |           |     |
 Keith Wasielewski   |              | ✓         |           |     |
 Levi Donaldson      |              |           |           |     |
