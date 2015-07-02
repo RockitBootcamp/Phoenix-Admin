@@ -13,7 +13,7 @@
 
 # M2
 
-- [ ] JS Interview
+- [x] JS To-do project
 - [x] CSS Project 
 - [x] Interview
 - [x] Test Score: 78%
@@ -23,3 +23,12 @@
 ### 6/24/15
 - Kris: Interview, passed
 - Brad: CSS project passed
+
+# M3
+
+- [ ] Twitter project
+- [ ] CSS Project 
+- [ ] Interview
+- [x] Test Score: 81.5%
+
+## Reviews
