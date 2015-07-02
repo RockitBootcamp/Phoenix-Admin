@@ -1,22 +1,22 @@
 ## Milestone 3
 
-Name                |  CSS Project | JS Project | Interview | Test |
+Name                |  CSS Project | JS Project | Interview| Test |
 :------------------:|:------------:|:---------:|:---------:|:----:|
 Aaron Suzuki        |              |           |           |     |
 Chris Pryor         |              |           |           |     |
 Chris Vandenberg    |              |           |           |     |
 Derek Doughty       |              |           |           |     |  
-Duane Winkel        | ✓            | ✓         |           |     |
+Duane Winkel        | ✓            | ✓         | ✓         | 88.9%|
 Karla Moran         |              |           |           |     |
-Keith Wasielewski   | ✓            | ✓         | ✓         |     |
+Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      |              |           |           |     |
 Matt Lewandowski    |              |           |           |     |
 Richard Jeffery     |              |           |           |     |
 Ryan Medina         |              |           |           |     |
 Ryan Morales        |              |           |           |     |
 R. Wade Taylor      |              |           |           |     |
-Timothy Baney       |              |           |           |     |
-Troy Mullaney       | ✓            | ✓         |           |     |
+Timothy Baney       |              |           |           | 81.5%|
+Troy Mullaney       | ✓            | ✓         | ✓         | 92.6%|
 Will Fortin         |              |           |           |     |
 
 ## Milestone 2
