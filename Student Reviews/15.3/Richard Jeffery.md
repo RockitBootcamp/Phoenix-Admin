@@ -59,4 +59,4 @@
 
 ### 7/2/15
 - Kris: Interview, not passed
-  - Needs to review CSS: Positioning, CSS: Pattern II, JS: jQuery Delegated events
+  - Needs to review CSS: Positioning, CSS: Pattern II
