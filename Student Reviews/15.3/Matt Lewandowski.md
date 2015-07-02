@@ -54,4 +54,20 @@
   - JS Callback functions
 
 ### 6/26/15
+
 - Kris: Interview, passed.
+
+# M2
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score:
+
+## Reviews
+
+### 7/2/2015
+
+- Kevin: Interview:
+  - Needs to review CSS Patterns
+  - Needs to interview on all other topics as well
