@@ -31,3 +31,16 @@
 
 - Kevin: JS Project completed
 - Brad: CSS is good
+
+# M2
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score: 86%
+
+## Reviews
+
+- Kevin: Interview:
+  - Needs to interview on CSS Patterns I & II again
+  - Needs to interview on all but JS Basic Logic
