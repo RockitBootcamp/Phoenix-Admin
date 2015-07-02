@@ -11,7 +11,7 @@ Karla Moran         |              |           |           |     |
 Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      |              |           |           |     |
 Matt Lewandowski    |              |           |           |     |
-Richard Jeffery     |              |           |           |     |
+Richard Jeffery     |              |           |  started       |     |
 Ryan Medina         |              |           |           |     |
 Ryan Morales        |              |           |           |     |
 R. Wade Taylor      |              |           |           |     |
