@@ -47,3 +47,16 @@
 
 ### 6/25/15
 - Kris: interview, passed. Went over some of the things listed above and the remaining questions. He did good.
+
+# M3
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score: 
+
+## Reviews
+
+### 7/2/15
+- Kris: Interview, not passed
+  - Needs to review CSS: Positioning, CSS: Pattern II, JS: jQuery Delegated events
