@@ -34,8 +34,8 @@
 
 - [x] Project "twitter"
 - [x] project "css"
-- [ ] Interview
-- [ ] Test Score: 
+- [x] Interview
+- [x] Test Score: 88.9%
 
 ## Reviews
 
@@ -43,3 +43,4 @@
 
 - Brad: CSS is good
 - Kevin: JS is good
+- Kris: Interview, passed
