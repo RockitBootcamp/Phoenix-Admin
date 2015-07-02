@@ -34,3 +34,18 @@
   - Struggled with string concatenation (`firstName + ' ' + lastName`) (reviewed with student)
 - Brad: CSS Passed
 - Kris: Interview Passed
+
+# M2
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score: 
+
+## Reviews
+
+### 7/2/15
+- Kris: Interview, not passed
+  - Passed CSS
+  - Needs to review JS: Built-in methods, JS: Loops, and Git, Github
+  
