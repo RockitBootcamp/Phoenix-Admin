@@ -37,8 +37,8 @@
 
 - [x] Project "twitter"
 - [x] project "css"
-- [ ] Interview
-- [ ] Test Score:
+- [x] Interview
+- [x] Test Score: 92.6%
 
 ## Reviews
 
@@ -46,3 +46,6 @@
 
 - Brad: Passed CSS
 - Kevin: JS passed
+
+### 7/2/15
+- Kris: Interview, passed
