@@ -14,7 +14,6 @@
 
 - Kris: Interview passed, did a good job
 
-
 # M2
 
 - [x] JS Project
@@ -31,3 +30,15 @@
 ### 6/24/15
 - Kris: Interview, passed. did really good.
 - Brad: CSS project is good
+
+# M3
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score:
+
+## Reviews
+
+### 7/02/2015
+- Brig: Intervew. Not-complete. (Covered Git and JS:Basic Logic). Needed to study JS:Built-in Methods
