@@ -52,7 +52,7 @@
 
 - [ ] JS Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score: 
 
 ## Reviews
@@ -60,3 +60,4 @@
 ### 7/2/15
 - Kris: Interview, not passed
   - Needs to review CSS: Positioning, CSS: Pattern II
+- Kris: 2nd attempt, passed
