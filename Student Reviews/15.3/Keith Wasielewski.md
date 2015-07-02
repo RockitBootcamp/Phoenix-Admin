@@ -38,7 +38,7 @@
 - [x] JS project
 - [x] CSS project
 - [x] interview
-- [ ] test score: 
+- [x] test score: 100%
 
 ## Reviews
 
@@ -52,6 +52,9 @@
 - Brig: Interview. Not finished
   - Did Javascript. Stumbled on document Selectors and array terminology 
 - Brad: CSS Project passed
+
+### 7/2/15
+
 - Kevin: Interview:
   - Good on Arrays and DOM
   - Passed interview
