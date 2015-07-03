@@ -51,7 +51,7 @@
 # M3
 
 - [ ] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [ ] Test Score: 
 
@@ -61,3 +61,4 @@
 - Kris: Interview, not passed
   - Needs to review CSS: Positioning, CSS: Pattern II
 - Kris: 2nd attempt, passed
+- Brad: Passed CSS
