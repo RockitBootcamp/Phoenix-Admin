@@ -12,7 +12,7 @@ Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      |              |           |           |     |
 Matt Lewandowski    |              |           |           |     |
 Richard Jeffery     |              |           | ✓         |     |
-Ryan Medina         |              |           |           |     |
+Ryan Medina         | ✓            |           |           |     |
 R. Wade Taylor      |              |           |           |     |
 Timothy Baney       |              |           |           | 81.5%|
 Troy Mullaney       | ✓            | ✓         | ✓         | 92.6%|
