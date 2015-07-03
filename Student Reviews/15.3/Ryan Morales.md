@@ -32,3 +32,15 @@
 - Kevin: JS Project completed
 
 - Kevin: Interview: Ryan passed!
+
+# M3
+
+- [ ] JS project
+- [x] CSS project
+- [ ] interview
+- [ ] test score: 
+
+## Reviews
+
+### 7/3/15
+- Brad: CSS Passed
