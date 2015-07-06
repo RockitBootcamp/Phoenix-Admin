@@ -28,7 +28,10 @@
 
 - [ ] Twitter project
 - [ ] CSS Project 
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 81.5%
 
 ## Reviews
+
+### 7/6/15
+- Kris: Interview, passed
