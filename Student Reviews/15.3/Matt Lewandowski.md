@@ -57,12 +57,12 @@
 
 - Kris: Interview, passed.
 
-# M2
+# M3
 
 - [ ] JS Project
 - [ ] CSS Project
-- [ ] Interview
-- [ ] Test Score:
+- [x] Interview
+- [x] Test Score: 92.6%
 
 ## Reviews
 
@@ -71,3 +71,6 @@
 - Kevin: Interview:
   - Needs to review CSS Patterns
   - Needs to interview on all other topics as well
+
+### 7/6/15
+- Kris: Interview, passed
