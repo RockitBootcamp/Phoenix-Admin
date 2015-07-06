@@ -2,18 +2,18 @@
 
 Name                |  CSS Project | JS Project | Interview| Test |
 :------------------:|:------------:|:---------:|:---------:|:----:|
-Aaron Suzuki        |              |           |  started         |     |
+Aaron Suzuki        |              |           |  started         | 81.5%|
 Chris Pryor         |              |           |           |     |
 Chris Vandenberg    |              |           |           |     |
 Derek Doughty       |              |           |           |     |  
 Duane Winkel        | ✓            | ✓         | ✓         | 88.9%|
-Karla Moran         |              |           |           |     |
+Karla Moran         |              |           | ✓         | 81.5%|
 Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      |              |           |           |     |
-Matt Lewandowski    |              |           |           |     |
+Matt Lewandowski    |              |           | ✓         | 92.6%|
 Richard Jeffery     | ✓            |           | ✓         |     |
 Ryan Medina         | ✓            |           |           |     |
-R. Wade Taylor      |              |           |           |     |
+R. Wade Taylor      |              |           | ✓         | 92.6%|
 Timothy Baney       |              |           |           | 81.5%|
 Troy Mullaney       | ✓            | ✓         | ✓         | 92.6%|
 Will Fortin         |              |           |           |     |
