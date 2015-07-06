@@ -36,3 +36,18 @@
 ### 6/25/15
 - Kris: started interview, but didn't have time to finish. He passed HTML & CSS, has only JS left
 - Kris: Interview finished, passed
+
+# M3
+
+- [ ] JS Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score:
+
+## Reviews
+
+### 7/6/15
+- Kris, interview not passed
+  - passed CSS Positioning
+  - passed most of CSS Patterns I, just have to go over centering block level elements
+  - passed JS Basic logic
