@@ -32,15 +32,21 @@
 - Kevin: JS Project completed
 - Brad: CSS is good
 
-# M2
+# M3
 
-- [ ] JS Project
+- [x] JS Project
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
 
 ## Reviews
 
+### 7/2/2015
+
 - Kevin: Interview:
   - Needs to interview on CSS Patterns I & II again
   - Needs to interview on all but JS Basic Logic
+
+### 7/6/2015
+
+- Kevin: passed project
