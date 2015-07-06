@@ -36,7 +36,7 @@
 
 - [x] JS Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score: 
 
 ## Reviews
@@ -50,3 +50,4 @@
 ### 7/6/2015
 
 - Kevin: passed project
+- Kris: interview, passed
