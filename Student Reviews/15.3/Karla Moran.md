@@ -34,3 +34,15 @@
 
 - Kevin: JS Project completed
 - Brad: CSS Project Passed
+
+# M3
+
+- [ ] JS Project
+- [ ] CSS Project
+- [x] Interview
+- [x] Test Score: 81.5%
+
+## Reviews
+
+### 7/6/15
+- Kris: Interview, passed
