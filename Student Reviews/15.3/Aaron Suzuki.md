@@ -35,9 +35,9 @@
 - Brad: CSS Passed
 - Kris: Interview Passed
 
-# M2
+# M3
 
-- [ ] JS Project
+- [x] JS Project
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
@@ -45,7 +45,11 @@
 ## Reviews
 
 ### 7/2/15
+
 - Kris: Interview, not passed
   - Passed CSS
   - Needs to review JS: Built-in methods, JS: Loops, and Git, Github
   
+### 7/6/2015
+
+- Kevin: passed JS project
