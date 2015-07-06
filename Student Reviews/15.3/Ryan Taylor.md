@@ -33,7 +33,7 @@
 
 # M3
 
-- [ ] JS Project
+- [x] JS Project
 - [ ] CSS Project
 - [x] Interview
 - [x] Test Score: 92.6%
@@ -41,7 +41,10 @@
 ## Reviews
 
 ### 7/02/2015
+
 - Brig: Intervew. Not-complete. (Covered Git and JS:Basic Logic). Needed to study JS:Built-in Methods
 
 ### 7/6/2015
+
 - Kris: Interview, passed
+- Kevin: passed JS project
