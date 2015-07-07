@@ -5,11 +5,11 @@ Name                |  CSS Project | JS Project | Interview| Test |
 Aaron Suzuki        |              | ✓         | ✓         | 81.5%|
 Chris Pryor         |              |           |  started         |     |
 Chris Vandenberg    |              |           |           |     |
-Derek Doughty       |              |           |           |     |  
+Derek Doughty       |              | ✓         |           |     |  
 Duane Winkel        | ✓            | ✓         | ✓         | 88.9%|
 Karla Moran         |              | ✓         | ✓         | 81.5%|
 Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
-Levi Donaldson      |              |           |           | 63%  |
+Levi Donaldson      |              | ✓         |           | 63%  |
 Matt Lewandowski    | ✓            | ✓         | ✓         | 92.6%|
 Richard Jeffery     | ✓            | ✓         | ✓         | 85.2%|
 Ryan Medina         | ✓            | ✓         | ✓         | 77.8%|
