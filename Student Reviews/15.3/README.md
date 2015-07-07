@@ -11,10 +11,10 @@ Karla Moran         |              |           | ✓         | 81.5%|
 Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      |              |           |           | 63%  |
 Matt Lewandowski    | ✓            |           | ✓         | 92.6%|
-Richard Jeffery     | ✓            |           | ✓         | 85.2%|
+Richard Jeffery     | ✓            | ✓         | ✓         | 85.2%|
 Ryan Medina         | ✓            | ✓         | ✓         | 77.8%|
 R. Wade Taylor      |              | ✓         | ✓         | 92.6%|
-Timothy Baney       |              |           | ✓         | 81.5%|
+Timothy Baney       |              | ✓         | ✓         | 81.5%|
 Troy Mullaney       | ✓            | ✓         | ✓         | 92.6%|
 Will Fortin         |              |           |           |     |
 
