@@ -39,7 +39,7 @@
 
 - [x] JS Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 81.5%
 
 ## Reviews
@@ -53,3 +53,7 @@
 ### 7/6/2015
 
 - Kevin: passed JS project
+
+### 7/7/15
+- Kris: Interview, passed
+  - struggled some on git / github, but had good conversation and understands better
