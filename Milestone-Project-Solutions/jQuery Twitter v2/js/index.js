@@ -38,8 +38,8 @@ function getTweets() {
   return $.getJSON(apiServer + '/tweets');
 }
 
-function getUsers() {
-  return $.getJSON(apiServer + '/users');
+function getUserById(id) {
+  return $.getJSON(apiServer + '/users/' + id);
 }
 
 $(function () {
@@ -48,14 +48,14 @@ $(function () {
   var $tweetsContainer = $('#tweets');
 
   getTweets().then(function (tweets) {
-    getUsers().then(function (users) {
-        tweets.forEach(function (tweet) {
-          tweet.user = _.findWhere(users, { id: tweet.userId });
+    tweets.forEach(function (tweet) {
+      getUserById(tweet.userId).then(function (user) {
+        tweet.user = user;
 
-          var thread = template.renderThread(tweet);
+        var thread = template.renderThread(tweet);
 
-          $tweetsContainer.append(thread);
-        });
+        $tweetsContainer.append(thread);
+      });
     });
   });
 

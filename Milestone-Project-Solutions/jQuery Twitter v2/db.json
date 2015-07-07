@@ -39,19 +39,19 @@
   "users": [
     {
       "id": 1,
-      "img": "brad.png",
+      "img": "images/brad.png",
       "handle": "@bradwestfall",
       "realName": "Brad Westfall"
     },
     {
       "id": 2,
-      "img": "kevin.png",
+      "img": "https://robohash.org/kevin",
       "handle": "@therealklanni",
       "realName": "Kevin Lanni"
     },
     {
       "id": 3,
-      "img": "rockit.png",
+      "img": "images/rockit.png",
       "handle": "@rockit_bootcamp",
       "realName": "RockIt Bootcamp"
     }
