@@ -36,9 +36,9 @@
 - Kris: Interview, passed
   - he still struggled some on the callback functions, but did get it. Gave him suggestion of doing katas, but before erasing and re-doing, told him to say out loud what is happening on each line so he has a better idea of what is being done and not just memorizing things. He liked that idea. Also talked about re-doing projects that use areas he is struggling. 
 
-# M2
+# M3
 
-- [ ] JS Project 
+- [x] JS Project 
 - [ ] CSS Project 
 - [ ] Interview
 - [ ] Test Score: 
@@ -49,3 +49,7 @@
 
 - Kevin: Interview
   - Needs review
+
+### 7/7/2015
+
+- Kevin: passed js project
