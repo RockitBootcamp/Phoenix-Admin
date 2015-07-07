@@ -50,7 +50,7 @@
 
 # M3
 
-- [ ] JS Project
+- [x] JS Project
 - [x] CSS Project
 - [x] Interview
 - [x] Test Score: 85.2%
@@ -62,3 +62,6 @@
   - Needs to review CSS: Positioning, CSS: Pattern II
 - Kris: 2nd attempt, passed
 - Brad: Passed CSS
+
+### 7/6/15
+- Kevin: JS project passed
