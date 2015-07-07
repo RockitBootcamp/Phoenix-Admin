@@ -4,7 +4,7 @@ Name                |  CSS Project | JS Project | Interview| Test |
 :------------------:|:------------:|:---------:|:---------:|:----:|
 Aaron Suzuki        |              | ✓         | ✓         | 81.5%|
 Chris Pryor         | ✓            |           |  started         |     
-Chris Vandenberg    |              |           |           |      |
+Chris Vandenberg    |              | ✓         |           |      |
 Derek Doughty       |              | ✓         |           |      |  
 Duane Winkel        | ✓            | ✓         | ✓         | 88.9%|
 Karla Moran         |              | ✓         | ✓         | 81.5%|
