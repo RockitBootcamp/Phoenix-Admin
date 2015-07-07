@@ -46,9 +46,13 @@
 
 # M3
 
-- [ ] JS Project
+- [x] JS Project
 - [ ] CSS Project
 - [ ] Interview
 - [x] Test Score: 63%
 
 ## Reviews
+
+### 7/7/2015
+
+- Kevin: passed js project
