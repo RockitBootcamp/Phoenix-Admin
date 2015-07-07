@@ -40,7 +40,7 @@
 # M3
 
 - [ ] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test Score:
 
@@ -51,3 +51,6 @@
   - passed CSS Positioning
   - passed most of CSS Patterns I, just have to go over centering block level elements
   - passed JS Basic logic
+
+### 7/7/15
+- Brad, passed CSS Project
