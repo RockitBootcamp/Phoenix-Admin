@@ -1,16 +1,18 @@
 # M1
 
-- [x] Project 
+- [x] Project
 - [x] Interview
 - [x] Test Score: 87.8%
 
 ## Reviews
 
 ### 6/12/15
+
 - Kris: Project, not passed
-  - He has some code clean-up to do, He had the include for the header and footer set to variables, one of his php files had html above and below the php, and some small indention. Also had repeated code in css file. 
+  - He has some code clean-up to do, He had the include for the header and footer set to variables, one of his php files had html above and below the php, and some small indention. Also had repeated code in css file.
 
 ### 6/15/15
+
 - Kris: interview, not passed
   - need to review HTML nesting
   - need to review CSS defaults
@@ -21,3 +23,56 @@
   - he cleaned up the code, looks good
 
 - Kris: interview, 2nd attempt passed
+
+# M2
+
+- [x] JS Project
+- [x] CSS Project
+- [x] Interview
+- [x] Test Score: 90%
+
+## Reviews
+
+### 6/23/2015
+
+- Kevin: JS Project completed
+- Brad: CSS Passed
+- Kris: Interview, not passed
+  - needs to study:
+    - HTML forms (was very slow creating different fields)
+    - CSS Child-parent collapsing margins and how to prevent them
+    - CSS selectors - struggled with basic selectors
+    - CSS Pseudo classes, specifically using :not
+    - JS Object Literals
+    - JS User Defined Functions
+    - JS Callback functions
+
+### 6/24/15
+- Kris: Interview, didn't finish everything. Still needs:
+  - JS Object Literals
+  - JS User Defined Functions
+  - JS Callback functions
+
+### 6/26/15
+
+- Kris: Interview, passed.
+
+# M3
+
+- [x] JS Project
+- [ ] CSS Project
+- [x] Interview
+- [x] Test Score: 92.6%
+
+## Reviews
+
+### 7/2/2015
+
+- Kevin: Interview:
+  - Needs to review CSS Patterns
+  - Needs to interview on all other topics as well
+
+### 7/6/15
+
+- Kris: Interview, passed
+- Kevin: passed JS project

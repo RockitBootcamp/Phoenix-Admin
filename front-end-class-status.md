@@ -55,7 +55,6 @@ Medium   | 6/24     | 80%      | Kris     | Test
 - **JavaScript Built-in Methods and Properties**
 - **JavaScript DOM and Document Methods**
 - **JavaScript Arrays**
-- **JavaScript Loops**
 - **JavaScript Delegated Events**
 - **JavaScript Templating with Handlebars**
 - **Jekyll Install and Basic Concepts**

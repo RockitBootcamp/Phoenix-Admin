@@ -19,10 +19,28 @@
 
 - [x] Project "todo"
 - [x] project "css"
-- [ ] Interview
-- [ ] Test Score: 
+- [x] Interview
+- [x] Test Score: 96%
 
 ## Reviews
 
 ### 6/22/2015
+
 - Brad: CSS is good
+- Kris: Interview, passed
+
+
+# M3
+
+- [x] Project "twitter"
+- [x] project "css"
+- [x] Interview
+- [x] Test Score: 88.9%
+
+## Reviews
+
+### 7/1/15
+
+- Brad: CSS is good
+- Kevin: JS is good
+- Kris: Interview, passed

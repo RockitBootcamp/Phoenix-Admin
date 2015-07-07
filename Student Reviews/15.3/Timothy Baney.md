@@ -10,3 +10,29 @@
 
 - Brad: Project review went well, passed
 - Brad: Interview went well. Passed
+
+# M2
+
+- [x] JS To-do project
+- [x] CSS Project 
+- [x] Interview
+- [x] Test Score: 78%
+
+## Reviews
+
+### 6/24/15
+- Kris: Interview, passed
+- Brad: CSS project passed
+
+# M3
+
+- [x] Twitter project
+- [ ] CSS Project 
+- [x] Interview
+- [x] Test Score: 81.5%
+
+## Reviews
+
+### 7/6/15
+- Kris: Interview, passed
+- Kevin: JS project passed

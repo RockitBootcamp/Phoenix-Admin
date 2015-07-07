@@ -16,12 +16,31 @@
 
 # M2
 
-- [ ] project "todo"
-- [x] project "css"
+- [x] JS project
+- [x] CSS project
+- [x] interview
+- [x] test score: 86%
+
+## Reviews
+
+### 6/22/2015
+
+- Brad: CSS project passed
+
+### 6/23/2015
+
+- Kevin: JS Project completed
+
+- Kevin: Interview: Ryan passed!
+
+# M3
+
+- [ ] JS project
+- [x] CSS project
 - [ ] interview
 - [ ] test score: 
 
 ## Reviews
 
-### 6/22/2015
-- Brad: CSS project passed
+### 7/3/15
+- Brad: CSS Passed

@@ -1,3 +1,4 @@
+
 # M1
 
 - [x] Project 
@@ -7,16 +8,17 @@
 ## Reviews
 
 ### 6/11/2015
+
 - Kevin: reviewed project, all requirements were met!
 
 ### 6/12/2015
-- Brad: Interview went well, passed
 
+- Brad: Interview went well, passed
 
 # M2
 
 - [x] Project "todo"
-- [ ] project "css"
+- [x] project "css"
 - [x] Interview
 - [x] Test Score: 98%
 
@@ -27,4 +29,23 @@
 - Kevin: todo project complete
 
 ### 6/22/2015
+
+- Kris: Interview, passed
+
+
+# M3
+
+- [x] Project "twitter"
+- [x] project "css"
+- [x] Interview
+- [x] Test Score: 92.6%
+
+## Reviews
+
+### 7/1/15
+
+- Brad: Passed CSS
+- Kevin: JS passed
+
+### 7/2/15
 - Kris: Interview, passed
