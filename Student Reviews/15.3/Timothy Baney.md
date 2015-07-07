@@ -26,7 +26,7 @@
 
 # M3
 
-- [ ] Twitter project
+- [x] Twitter project
 - [ ] CSS Project 
 - [x] Interview
 - [x] Test Score: 81.5%
@@ -35,3 +35,4 @@
 
 ### 7/6/15
 - Kris: Interview, passed
+- Kevin: JS project passed
