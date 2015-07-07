@@ -53,13 +53,15 @@
 - Kris: finished interview, passed.
 
 # M3
-- [ ] JS Project
+- [x] JS Project
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
 
 ### 7/7/15
+
 - Brig: CSS Project Review. Didn't pass
   - Change proportions in header section.
   - Use componants on breakout boxes.
   - Set properties on input elements
+- Kevin: passed js project
