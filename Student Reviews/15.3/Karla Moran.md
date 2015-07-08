@@ -49,3 +49,4 @@
 
 ### 7/7/15
 - Kris: JS project, passed
+- Brad: CSS passed
