@@ -30,7 +30,6 @@ gulp.task('clean', function (cb) {
 });
 
 var jsonServer = require('json-server');
-
 var apiServer = jsonServer.create();
 var router = jsonServer.router('db.json');
 
