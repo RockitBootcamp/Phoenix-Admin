@@ -48,7 +48,7 @@
 
 - [x] JS Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 63%
 
 ## Reviews
@@ -60,3 +60,7 @@
 - Kris: interview, not finished
   - passed CSS, struggled on the transform: translate, but got there
   - JavaScript - passed basic logic & object literals. Suggested a little more practice with object literals and including methods. 
+
+### 7/8/15
+- Kris: Interview, passed. 
+  - He did struggle in areas, especially for loops, so I suggested he review some more, but also gave him some guidance. He did pass. 
