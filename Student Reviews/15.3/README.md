@@ -7,7 +7,7 @@ Chris Pryor         | ✓            | ✓         |  started         |
 Chris Vandenberg    |              | ✓         |           |      |
 Derek Doughty       |              | ✓         |           |      |  
 Duane Winkel        | ✓            | ✓         | ✓         | 88.9%|
-Karla Moran         |              | ✓         | ✓         | 81.5%|
+Karla Moran         | ✓            | ✓         | ✓         | 81.5%|
 Keith Wasielewski   | ✓            | ✓         | ✓         | 100% |
 Levi Donaldson      | ✓            | ✓         | started           | 63%  |
 Matt Lewandowski    | ✓            | ✓         | ✓         | 92.6%|
