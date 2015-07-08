@@ -55,7 +55,7 @@
 # M3
 - [x] JS Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score: 
 
 ### 7/7/15
@@ -65,3 +65,6 @@
   - Use componants on breakout boxes.
   - Set properties on input elements
 - Kevin: passed js project
+
+### 7/8/15
+- Kris: interview, passed
