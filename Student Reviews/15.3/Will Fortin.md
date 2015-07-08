@@ -20,7 +20,7 @@
 # M2
 
 - [x] JS project
-- [ ] CSS project
+- [x] CSS project
 - [x] Interview
 - [x] Test Score: 62%
 
@@ -42,3 +42,15 @@
 ### 6/29/15
 - Kris: Interview, passed
   - still strugged with callback functions, but got to it with some guidance. suggested that he do katas and say out loud what is happening on each line, then redo and keep that rotation. Also suggested re-doing projects that relate with the areas he is struggling. 
+
+### 7/1/15
+- Kris: CSS project passed
+
+# M3
+
+- [ ] JS project
+- [ ] CSS project
+- [ ] Interview
+- [x] Test Score: 70.4%
+
+## Reviews
