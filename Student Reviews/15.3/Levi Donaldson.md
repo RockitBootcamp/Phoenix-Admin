@@ -57,3 +57,6 @@
 
 - Kris: passed js project
 - Brig Brad: passed CSS project
+- Kris: interview, not finished
+  - passed CSS, struggled on the transform: translate, but got there
+  - JavaScript - passed basic logic & object literals. Suggested a little more practice with object literals and including methods. 
