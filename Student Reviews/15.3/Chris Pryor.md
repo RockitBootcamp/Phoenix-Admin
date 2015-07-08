@@ -42,7 +42,7 @@
 - [x] JS Project
 - [x] CSS Project
 - [x] Interview
-- [ ] Test Score:
+- [x] Test Score: 81.5%
 
 ## Reviews
 
