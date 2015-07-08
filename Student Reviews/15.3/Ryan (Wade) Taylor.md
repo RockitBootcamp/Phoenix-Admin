@@ -23,7 +23,7 @@
 
 ## Reviews
 
-### 6/23/2015
+### 6/23/2015 
 
 - Kevin: JS Project completed
 
