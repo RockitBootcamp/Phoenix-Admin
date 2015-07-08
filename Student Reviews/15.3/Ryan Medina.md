@@ -35,7 +35,7 @@
 # M3
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 77.8%
 
