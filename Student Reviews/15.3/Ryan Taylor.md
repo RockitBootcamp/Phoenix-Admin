@@ -34,7 +34,7 @@
 # M3
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 92.6%
 
@@ -48,3 +48,7 @@
 
 - Kris: Interview, passed
 - Kevin: passed JS project
+
+### 7/7/2015
+
+- Brad: Passed CSS Project

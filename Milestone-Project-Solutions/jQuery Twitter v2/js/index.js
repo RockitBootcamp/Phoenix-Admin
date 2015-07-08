@@ -3,59 +3,28 @@
 var $ = require('jquery');
 var _ = require('lodash');
 var template = require('./template');
-
-var apiServer = 'http://localhost:3000';
+var api = require('./api');
 
 var currentUser = {
   handle: '@bradwestfall',
-  img: 'brad.png',
+  img: 'images/brad.png',
   id: 1
 };
-
-function getReplies(tweetId, cb) {
-  return $.getJSON(apiServer + '/tweets/' + tweetId + '/replies', function (replies) {
-    $.getJSON(apiServer + '/users', function (users) {
-      var extendedReplies = replies.map(function (reply) {
-        return _.assign({}, reply, {
-          user: _.findWhere(users, { id: reply.userId })
-        });
-      });
-
-      cb(extendedReplies);
-    });
-  });
-}
-
-function postReply(tweet) {
-  return $.post(apiServer + '/replies', tweet);
-}
-
-function postTweet(tweet) {
-  return $.post(apiServer + '/tweets', tweet);
-}
-
-function getTweets() {
-  return $.getJSON(apiServer + '/tweets');
-}
-
-function getUsers() {
-  return $.getJSON(apiServer + '/users');
-}
 
 $(function () {
 
   var $mainContainer = $('#main');
   var $tweetsContainer = $('#tweets');
 
-  getTweets().then(function (tweets) {
-    getUsers().then(function (users) {
-        tweets.forEach(function (tweet) {
-          tweet.user = _.findWhere(users, { id: tweet.userId });
+  api.getTweets().then(function (tweets) {
+    tweets.forEach(function (tweet) {
+      api.getUserById(tweet.userId).then(function (user) {
+        tweet.user = user;
 
-          var thread = template.renderThread(tweet);
+        var thread = template.renderThread(tweet);
 
-          $tweetsContainer.append(thread);
-        });
+        $tweetsContainer.append(thread);
+      });
     });
   });
 
@@ -75,7 +44,7 @@ $(function () {
 
     $replies.find('.tweet').remove();
 
-    getReplies(threadId, function (replies) {
+    api.getReplies(threadId, function (replies) {
       var replies = $(template.renderReplies(replies))
         .appendTo($replies);
 
@@ -122,11 +91,11 @@ $(function () {
 
       newTweet.tweetId = parentTweetId;
 
-      postReply(newTweet).then(function (data) {
+      api.postReply(newTweet).then(function (data) {
         console.log('new reply', data);
       });
     } else {
-      postTweet(newTweet).then(function (data) {
+      api.postTweet(newTweet).then(function (data) {
         console.log('new tweet', data);
       });
     }

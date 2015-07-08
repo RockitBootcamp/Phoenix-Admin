@@ -47,7 +47,7 @@
 # M3
 
 - [x] JS Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [x] Test Score: 63%
 
@@ -55,4 +55,8 @@
 
 ### 7/7/2015
 
-- Kevin: passed js project
+- Kris: passed js project
+- Brig Brad: passed CSS project
+- Kris: interview, not finished
+  - passed CSS, struggled on the transform: translate, but got there
+  - JavaScript - passed basic logic & object literals. Suggested a little more practice with object literals and including methods. 

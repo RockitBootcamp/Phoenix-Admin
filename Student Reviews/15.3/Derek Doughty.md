@@ -52,4 +52,4 @@
 
 ### 7/7/2015
 
-- Kevin: passed js project
+- Kris: passed js project

@@ -39,9 +39,9 @@
 
 # M3
 
-- [ ] JS Project
-- [ ] CSS Project
-- [ ] Interview
+- [x] JS Project
+- [x] CSS Project
+- [x] Interview
 - [ ] Test Score:
 
 ## Reviews
@@ -51,3 +51,14 @@
   - passed CSS Positioning
   - passed most of CSS Patterns I, just have to go over centering block level elements
   - passed JS Basic logic
+
+### 7/7/15
+- Brad, passed CSS Project
+- Kris: JS project passed
+- Kris: Interview, not finished
+  - Passed JavaScript
+  - Needs to do github and collaboration
+  - needs to finish CSS Patterns I and patterns II
+
+### 7/8/15
+- Kris: Interview passed
