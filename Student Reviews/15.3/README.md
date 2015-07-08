@@ -37,7 +37,7 @@ Ryan Morales        | ✓            | ✓          | ✓         | 86%  |
 R. Wade Taylor      | ✓            | ✓          | ✓         | 90%  |
 Timothy Baney       | ✓            | ✓          | ✓         | 78%  |
 Troy Mullaney       | ✓            | ✓          | ✓         | 98%  |
-Will Fortin         |              | ✓          | ✓         | 62%, 84%  |
+Will Fortin         | ✓            | ✓          | ✓         | 62%, 84%  |
 
 ## Milestone 1
 
