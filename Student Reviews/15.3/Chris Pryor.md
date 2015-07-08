@@ -54,3 +54,7 @@
 
 ### 7/7/15
 - Brad, passed CSS Project
+- Kris: Interview, not finished
+  - Passed JavaScript
+  - Needs to do github and collaboration
+  - needs to finish CSS Patterns I and patterns II
