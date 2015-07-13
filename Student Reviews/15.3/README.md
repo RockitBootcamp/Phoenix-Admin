@@ -1,7 +1,7 @@
 ## Milestone 4
 
-Name                |  CSS Project | JS Project | Interview | Jekyll Prj| Test |
-:------------------:|:------------:|:--- ------:|:---------:|:---------:|:----:|
+Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test |
+:------------------:|:------------:|:----------:|:---------:|:---------:|:----:|
 Aaron Suzuki        |              |            |           |           |    |
 Chris Pryor         |              |            |           |           |    |     
 Chris Vandenberg    |              |            |           |           |    |
@@ -17,6 +17,7 @@ R. Wade Taylor      |              |            |           |           |    |
 Timothy Baney       |              |            |           |           |    |
 Troy Mullaney       |              |            |           |           |    |
 Will Fortin         |              |            |           |           |    |
+
 
 ## Milestone 3
 
