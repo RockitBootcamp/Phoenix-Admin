@@ -49,8 +49,15 @@
 # M3
 
 - [ ] JS project
-- [ ] CSS project
-- [ ] Interview
+- [x] CSS project
+- [x] Interview
 - [x] Test Score: 70.4%
 
 ## Reviews
+
+### 7/10/15
+- Brad, passed CSS project
+
+### 7/13/15
+- Kris: Interview, passed
+  - He did really well in most areas. He struggled some on the differences between display:inline-block & float: left in CSS and for loop in JS
