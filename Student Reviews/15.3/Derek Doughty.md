@@ -59,3 +59,6 @@
 - Kris: Interview, did not get to finish
   - passed CSS and Github
   - needs to do JavaScript
+
+### 7/9/15
+- Kris: interview passed
