@@ -69,3 +69,13 @@
 ### 7/8/15
 - Kris: interview, passed
 - Brad: CSS done
+
+# M4
+- [ ] JS Project
+- [x] CSS Project
+- [ ] Interview
+- [ ] Test Score: 
+
+### 7/14/15
+- Kris: CSS Dashboard project, passed
+  - He did not use the "role" attribute, used class="tabbable"
