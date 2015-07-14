@@ -4,12 +4,12 @@ Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test 
 :------------------:|:------------:|:----------:|:---------:|:---------:|:----:|
 Aaron Suzuki        |              |            |           |           |    |
 Chris Pryor         |              |            |           |           |    |     
-Chris Vandenberg    |              |            |           |           |    |
+Chris Vandenberg    | ✓            |            |           |           |    |
 Derek Doughty       |              |            |           |           |    |  
 Duane Winkel        |              |            |           |           |    |
 Karla Moran         |              |            |           |           |    |
 Keith Wasielewski   |              |            |           |           |    |
-Levi Donaldson      |              |            |           |           |    |
+Levi Donaldson      | ✓            |            |           |           |    |
 Matt Lewandowski    |              |            |           |           |    |
 Richard Jeffery     |              |            |           |           |    |
 Ryan Medina         |              |            |           |           |    |
