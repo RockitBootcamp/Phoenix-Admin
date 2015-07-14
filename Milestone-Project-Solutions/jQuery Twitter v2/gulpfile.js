@@ -43,7 +43,15 @@ gulp.task('serve:api', function (cb) {
 
 var serve = require('gulp-serve');
 
-gulp.task('serve', ['serve:api'], serve({
+gulp.task('serve:web', ['serve:api'], serve({
   root: ['.'],
   port: 8000
 }));
+
+gulp.task('serve', ['serve:api', 'serve:web']);
+
+// Extra
+
+gulp.task('watch', ['serve'], function () {
+  return gulp.watch('js/index.js', ['build'])
+})
