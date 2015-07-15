@@ -44,7 +44,7 @@ Priority | Expected | Complete | Assigned | Description
          |          | 100%     | Brad     | Project: **jQuery Twitter v1**
          |          | 100%     | Brad     | Project: **CSS Puppy Love**
          |          | 100%     | Brad     | Objectives
-Medium   | 6/24     | 80%      | Kris     | Test
+Medium   | 6/24     | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
@@ -68,8 +68,8 @@ Medium   | 6/24     | 80%      | Kris     | Test
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
          |          | 100%     | Kevin    | Project: **jQuery Twitter v2**
-Low      | 6/26     | 50%      | Brad     | Project: **CSS Component Library**
-Low      | 6/26     | 0%       | Brad     | Project: **Jekyll Blog**
+Low      | 6/26     | 100%     | Brad     | Project: **CSS Component Library**
+Low      | 6/26     | 100%     | Brad     | Project: **Jekyll Blog**
          |          | 100%     | Brad     | Objectives
 Low      | 7/1      | 0%       | Kevin and Brad | Test
 Low      | 6/26     | 95%      | All      | Interview Questions
@@ -84,16 +84,15 @@ Low      | 6/26     | 95%      | All      | Interview Questions
 
 
 
-
 ## Milestone 5
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-Low      | 7/6      | 0%       | Kevin and Brad | Project: **Backbone User Crud**
-Low      | 7/6      | 0%       | Brad     | Project: **Jekyll Blog CSS**
-Medium   | 7/1      | 80%      | Brad     | Objectives
-Low      | 7/6      | 0%       | Kevin and Brad | Test
-Low      | 7/6      | 0%       | Kevin and Brad | Interview Questions
+Low      | 7/21     | 0%       | Kevin and Brad | Project: **Backbone User Crud**
+Low      | 7/6      | 100%     | Brad     | Project: **Jekyll Blog CSS**
+Medium   | 7/1      | 100%     | Brad     | Objectives
+Low      | 7/24     | 0%       | Kevin and Brad | Test
+Low      | 7/24     | 0%       | Kevin and Brad | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
 
@@ -101,24 +100,18 @@ Low      | 7/6      | 0%       | Kevin and Brad | Interview Questions
 
 
 
-
 ## Milestone 6
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-Low      | 7/13     | 0%       | Kevin and Brad | Project: **Angular Crud**
-Low      | 7/13     | 0%       | Brad     | Objectives
-Low      | 7/13     | 0%       | Kevin and Brad | Test
-Low      | 7/13     | 0%       | Kevin and Brad | Interview Questions
+Low      | 7/28     | 0%       | Kevin and Brad | Project: **Angular Crud**
+Low      | 7/28     | 0%       | Brad     | Objectives
+Low      | 7/28     | 0%       | Kevin and Brad | Test
+Low      | 7/28     | 0%       | Kevin and Brad | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
 
 - **Pretty much all of them since objectives aren't written**
-
-
-
-
-
 
 
 
