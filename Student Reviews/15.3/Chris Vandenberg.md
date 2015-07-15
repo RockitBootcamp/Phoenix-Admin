@@ -46,6 +46,7 @@
 - Brad: Passed CSS
 
 ### 6/25/15
+
 - Kris: Started the interview, didn't have time to finish. He passed on HTML and some CSS, still needs:
   - CSS: Box Model
   - CSS: Resets
@@ -53,10 +54,11 @@
 - Kris: finished interview, passed.
 
 # M3
+
 - [x] JS Project
 - [x] CSS Project
 - [x] Interview
-- [ ] Test Score: 
+- [ ] Test Score:
 
 ### 7/7/15
 
@@ -67,14 +69,17 @@
 - Kevin: passed js project
 
 ### 7/8/15
+
 - Kris: interview, passed
 - Brad: CSS done
 
 # M4
-- [ ] JS Project
+
+- [ ] [JS Project](https://github.com/chrisvan0848/twitterProjectV2)
 - [x] CSS Project
 - [ ] Interview
-- [ ] Test Score: 
+- [ ] Test score:
 
 ### 7/14/15
+
 - Kris: CSS Dashboard project, passed

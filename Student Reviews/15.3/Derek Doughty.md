@@ -2,7 +2,7 @@
 
 # M1
 
-- [x] Project 
+- [x] Project
 - [x] Interview
 - [x] Test Score: 77.6
 
@@ -14,8 +14,8 @@
 
 # M2
 
-- [x] JS Project 
-- [x] CSS Project 
+- [x] JS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 72%
 
@@ -30,16 +30,16 @@
 - Kris: Interview, started, not finished. He completed the HTML forms
 
 ### 6/26/15
-- Kris: Interview, didn't have time to finish. He passed HTML and some CSS (basic selector strategies and flow/floats). 
+- Kris: Interview, didn't have time to finish. He passed HTML and some CSS (basic selector strategies and flow/floats).
 
 ### 6/29/15
 - Kris: Interview, passed
-  - he still struggled some on the callback functions, but did get it. Gave him suggestion of doing katas, but before erasing and re-doing, told him to say out loud what is happening on each line so he has a better idea of what is being done and not just memorizing things. He liked that idea. Also talked about re-doing projects that use areas he is struggling. 
+  - he still struggled some on the callback functions, but did get it. Gave him suggestion of doing katas, but before erasing and re-doing, told him to say out loud what is happening on each line so he has a better idea of what is being done and not just memorizing things. He liked that idea. Also talked about re-doing projects that use areas he is struggling.
 
 # M3
 
-- [x] JS Project 
-- [x] CSS Project 
+- [x] JS Project
+- [x] CSS Project
 - [ ] Interview
 - [x] Test Score: 66.7%
 
@@ -62,3 +62,10 @@
 
 ### 7/9/15
 - Kris: interview passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/DerekDoughty/jQuery-Twitter-v2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:
