@@ -69,6 +69,9 @@
 # M4
 
 - [ ] [JS Project](https://github.com/lcdonaldson/twitter-mockup)
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+### 7/15/15
+- Kris: CSS Dashboard project, passed
