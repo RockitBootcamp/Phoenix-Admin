@@ -37,7 +37,7 @@ Ryan Medina         | ✓            | ✓         | ✓         | 77.8%|
 R. Wade Taylor      | ✓            | ✓         | ✓         | 92.6%|
 Timothy Baney       | ✓            | ✓         | ✓         | 81.5%|
 Troy Mullaney       | ✓            | ✓         | ✓         | 92.6%|
-Will Fortin         | ✓            |           | ✓         | 70.4%|
+Will Fortin         | ✓            | ✓         | ✓         | 70.4%|
 
 ## Milestone 2
 
