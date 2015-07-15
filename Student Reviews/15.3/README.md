@@ -8,7 +8,7 @@ Chris Vandenberg    | ✓            |            |           |           |    |
 Derek Doughty       |              |            |           |           |    |  
 Duane Winkel        | ✓            |            |           |           |    |
 Karla Moran         |              |            |           |           |    |
-Keith Wasielewski   |              |            |           |           |    |
+Keith Wasielewski   | ✓            |            |           |           |    |
 Levi Donaldson      | ✓            |            |           |           |    |
 Matt Lewandowski    |              |            |           |           |    |
 Richard Jeffery     |              |            |           |           |    |
