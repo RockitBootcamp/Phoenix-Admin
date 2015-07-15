@@ -78,4 +78,3 @@
 
 ### 7/14/15
 - Kris: CSS Dashboard project, passed
-  - He did not use the "role" attribute, used class="tabbable"
