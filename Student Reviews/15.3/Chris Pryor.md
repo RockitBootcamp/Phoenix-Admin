@@ -69,6 +69,9 @@
 # M4
 
 - [ ] [JS Project](https://github.com/cpryor24/jQuery-Twitter-v2)
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+### 7/15/15
+- Kris: CSS Dashboard project, passed
