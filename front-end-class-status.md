@@ -22,10 +22,10 @@ Priority | Expected | Complete | Assigned | Description
 
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
-High     | 6/11     | 100%     | Kevin    | Project: **jQuery ToDo-App**
+         |          | 100%     | Kevin    | Project: **jQuery ToDo-App**
          |          | 100%     | Brad     | Project: **CSS Basic Layout**
          |          | 100%     | Brad     | Objectives
-Medium   | 6/17     | 100%     | Kris     | Test
+         |          | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
@@ -44,7 +44,7 @@ Priority | Expected | Complete | Assigned | Description
          |          | 100%     | Brad     | Project: **jQuery Twitter v1**
          |          | 100%     | Brad     | Project: **CSS Puppy Love**
          |          | 100%     | Brad     | Objectives
-Medium   | 6/24     | 100%     | Kris     | Test
+         |          | 100%     | Kris     | Test
          |          | 100%     | Brad     | Interview Questions
 
 #### Lessons without "Prework", "Practice", or "Presentation" material
@@ -68,8 +68,8 @@ Medium   | 6/24     | 100%     | Kris     | Test
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
          |          | 100%     | Kevin    | Project: **jQuery Twitter v2**
-Low      | 6/26     | 100%     | Brad     | Project: **CSS Component Library**
-Low      | 6/26     | 100%     | Brad     | Project: **Jekyll Blog**
+         |          | 100%     | Brad     | Project: **CSS Component Library**
+         |          | 100%     | Brad     | Project: **Jekyll Blog**
          |          | 100%     | Brad     | Objectives
 Low      | 7/1      | 0%       | Kevin and Brad | Test
 Low      | 6/26     | 95%      | All      | Interview Questions
@@ -89,8 +89,8 @@ Low      | 6/26     | 95%      | All      | Interview Questions
 Priority | Expected | Complete | Assigned | Description
 ---------|----------|----------|----------|-------------
 Low      | 7/21     | 0%       | Kevin and Brad | Project: **Backbone User Crud**
-Low      | 7/6      | 100%     | Brad     | Project: **Jekyll Blog CSS**
-Medium   | 7/1      | 100%     | Brad     | Objectives
+         |          | 100%     | Brad     | Project: **Jekyll Blog CSS**
+         |          | 100%     | Brad     | Objectives
 Low      | 7/24     | 0%       | Kevin and Brad | Test
 Low      | 7/24     | 0%       | Kevin and Brad | Interview Questions
 
