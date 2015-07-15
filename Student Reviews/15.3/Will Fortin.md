@@ -48,7 +48,7 @@
 
 # M3
 
-- [ ] JS project
+- [x] JS project
 - [x] CSS project
 - [x] Interview
 - [x] Test Score: 70.4%
@@ -63,6 +63,10 @@
 
 - Kris: Interview, passed
   - He did really well in most areas. He struggled some on the differences between display:inline-block & float: left in CSS and for loop in JS
+
+### 7/15/15
+- Kris: Twitter project, passed
+  - he had to fix the append from the header, but was able to do that right away. 
 
 # M4
 
