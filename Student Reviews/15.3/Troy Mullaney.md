@@ -1,7 +1,7 @@
 
 # M1
 
-- [x] Project 
+- [x] Project
 - [x] Interview
 - [x] Test Score: 92%
 
@@ -48,4 +48,12 @@
 - Kevin: JS passed
 
 ### 7/2/15
+
 - Kris: Interview, passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/troym9731/jQuery-Twitter-v2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

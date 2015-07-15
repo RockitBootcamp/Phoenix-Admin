@@ -76,3 +76,10 @@
 
 - Kris: Interview, passed
 - Kevin: passed JS project
+
+# M4
+
+- [ ] [JS Project](https://github.com/mtlewandowsk89/twitterv2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

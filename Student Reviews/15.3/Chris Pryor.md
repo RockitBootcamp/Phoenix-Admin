@@ -47,12 +47,14 @@
 ## Reviews
 
 ### 7/6/15
+
 - Kris, interview not passed
   - passed CSS Positioning
   - passed most of CSS Patterns I, just have to go over centering block level elements
   - passed JS Basic logic
 
 ### 7/7/15
+
 - Brad, passed CSS Project
 - Kris: JS project passed
 - Kris: Interview, not finished
@@ -61,4 +63,12 @@
   - needs to finish CSS Patterns I and patterns II
 
 ### 7/8/15
+
 - Kris: Interview passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/cpryor24/jQuery-Twitter-v2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

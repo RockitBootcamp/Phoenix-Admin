@@ -49,4 +49,11 @@
 
 ### 7/7/15
 - Kris: JS project, passed
-- Brad: CSS passed 
+- Brad: CSS passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/2001kmo/Twitter-Project-v2.git)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

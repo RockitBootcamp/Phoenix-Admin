@@ -26,7 +26,7 @@
 
 ### 6/24/2015
 
-- Kevin: interview: 
+- Kevin: interview:
   - struggled answering 'prevent "Child-Parent" collapsing margins'
   - didn't know psuedo selector question
   - named his media element class "clearfix" but he had the correct CSS in place
@@ -49,14 +49,23 @@
 - Kris: Interview, not passed
   - Passed CSS
   - Needs to review JS: Built-in methods, JS: Loops, and Git, Github
-  
+
 ### 7/6/2015
 
 - Kevin: passed JS project
 
 ### 7/7/15
+
 - Kris: Interview, passed
   - struggled some on git / github, but had good conversation and understands better
 
 ### 7/8/15
+
 - Brad: CSS Passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/coolhand37/jQuery-Twitter-v2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

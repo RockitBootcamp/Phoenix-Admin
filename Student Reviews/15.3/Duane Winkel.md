@@ -1,6 +1,6 @@
 # M1
 
-- [x] Project 
+- [x] Project
 - [x] Interview
 - [x] Test Score: 88%
 
@@ -44,3 +44,10 @@
 - Brad: CSS is good
 - Kevin: JS is good
 - Kris: Interview, passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/dpwj/jQuery-Twitter-v2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

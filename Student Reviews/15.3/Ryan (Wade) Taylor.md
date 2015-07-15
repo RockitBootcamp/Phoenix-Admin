@@ -23,7 +23,7 @@
 
 ## Reviews
 
-### 6/23/2015 
+### 6/23/2015
 
 - Kevin: JS Project completed
 
@@ -52,3 +52,10 @@
 ### 7/7/2015
 
 - Brad: Passed CSS Project
+
+# M4
+
+- [ ] [JS Project](https://github.com/ryanwadetaylor/TwitterProjectV2)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:

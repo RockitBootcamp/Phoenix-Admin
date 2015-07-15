@@ -59,8 +59,16 @@
 - Brig Brad: passed CSS project
 - Kris: interview, not finished
   - passed CSS, struggled on the transform: translate, but got there
-  - JavaScript - passed basic logic & object literals. Suggested a little more practice with object literals and including methods. 
+  - JavaScript - passed basic logic & object literals. Suggested a little more practice with object literals and including methods.
 
 ### 7/8/15
-- Kris: Interview, passed. 
-  - He did struggle in areas, especially for loops, so I suggested he review some more, but also gave him some guidance. He did pass. 
+
+- Kris: Interview, passed.
+  - He did struggle in areas, especially for loops, so I suggested he review some more, but also gave him some guidance. He did pass.
+
+# M4
+
+- [ ] [JS Project](https://github.com/lcdonaldson/twitter-mockup)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test score:
