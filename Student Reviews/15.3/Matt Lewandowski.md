@@ -83,3 +83,6 @@
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+### 7/15/15
+- Kris: CSS Dashboard project, passed
