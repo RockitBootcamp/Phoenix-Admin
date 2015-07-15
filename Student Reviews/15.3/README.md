@@ -6,7 +6,7 @@ Aaron Suzuki        |              |            |           |           |    |
 Chris Pryor         | ✓            |            |           |           |    |     
 Chris Vandenberg    | ✓            |            |           |           |    |
 Derek Doughty       |              |            |           |           |    |  
-Duane Winkel        |              |            |           |           |    |
+Duane Winkel        | ✓            |            |           |           |    |
 Karla Moran         |              |            |           |           |    |
 Keith Wasielewski   |              |            |           |           |    |
 Levi Donaldson      | ✓            |            |           |           |    |
@@ -15,7 +15,7 @@ Richard Jeffery     |              |            |           |           |    |
 Ryan Medina         |              |            |           |           |    |
 R. Wade Taylor      |              |            |           |           |    |
 Timothy Baney       |              |            |           |           |    |
-Troy Mullaney       |              |            |           |           |    |
+Troy Mullaney       | ✓            |            |           |           |    |
 Will Fortin         |              |            |           |           |    |
 
 
