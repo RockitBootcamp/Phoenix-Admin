@@ -5,7 +5,7 @@ Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test 
 Aaron Suzuki        | ✓            |            |           |           |    |
 Chris Pryor         | ✓            |            |           |           |    |     
 Chris Vandenberg    | ✓            |            |           |           |    |
-Derek Doughty       |              |            |           |           |    |  
+Derek Doughty       | ✓            |            |           |           |    |  
 Duane Winkel        | ✓            |            |           |           |    |
 Karla Moran         |              |            |           |           |    |
 Keith Wasielewski   | ✓            |            |           |           |    |
