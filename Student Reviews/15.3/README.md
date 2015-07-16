@@ -6,7 +6,7 @@ Aaron Suzuki        | ✓            |            |           |           |    |
 Chris Pryor         | ✓            |            |           |           |    |     
 Chris Vandenberg    | ✓            |            |           |           |    |
 Derek Doughty       | ✓            |            |           |           |    |  
-Duane Winkel        | ✓            |            |           |           |    |
+Duane Winkel        | ✓            | ✓          |           |           |    |
 Karla Moran         |              |            |           |           |    |
 Keith Wasielewski   | ✓            | ✓          |           |           |    |
 Levi Donaldson      | ✓            |            |           |           |    |
