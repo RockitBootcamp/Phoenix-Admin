@@ -61,10 +61,16 @@
 
 # M4
 
-- [ ] [JS Project](https://github.com/BluestarNEO/twitter-project-v2)
+- [x] [JS Project](https://github.com/BluestarNEO/twitter-project-v2)
 - [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
 
 ### 7/15/15
+
 - Kris: CSS Dashboard project, passed
+- Kevin: JS project reviewed, will make some improvements
+
+### 7/16/2015
+
+- Kevin: JS project passed
