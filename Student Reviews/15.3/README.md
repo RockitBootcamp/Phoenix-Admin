@@ -15,7 +15,7 @@ Richard Jeffery     |              |            |  started          | ✓       
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
 R. Wade Taylor      |              |            |           | ✓         |    |
 Timothy Baney       |              |            |           | ✓         |74.1%|
-Troy Mullaney       | ✓            | ✓          |           | ✓         |88.9%|
+Troy Mullaney       | ✓            | ✓          | ✓         | ✓         |88.9%|
 Will Fortin         |              |            |           | ✓         |    |
 
 
