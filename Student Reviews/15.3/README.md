@@ -10,7 +10,7 @@ Duane Winkel        | ✓            | ✓          | ✓         | ✓         
 Karla Moran         |              |            |           | ✓         |    |
 Keith Wasielewski   | ✓            | ✓          | ✓         | ✓         |92.6%|
 Levi Donaldson      | ✓            |            |           | ✓         |    |
-Matt Lewandowski    | ✓            |            |           | ✓         |74.1%|
+Matt Lewandowski    | ✓            |            | ✓         | ✓         |74.1%|
 Richard Jeffery     |              |            |  started          | ✓         |92.6%|
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
 R. Wade Taylor      |              |            |           | ✓         |    |
