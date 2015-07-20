@@ -34,6 +34,20 @@
 ## Reviews
 
 ### 7/6/15
+
 - Kris: Interview, passed
 - Kevin: JS project passed
 - Brad: CSS Passed
+
+# M4
+
+- [ ] [JS Project](https://github.com/TJBANEY/twitter2project)
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score:
+
+## Reviews
+
+### 7/19/2015
+
+- Kevin: JS project needs some updates (https://github.com/RockitBootcamp/twitter-v2/pull/2)
