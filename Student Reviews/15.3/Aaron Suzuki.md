@@ -68,4 +68,4 @@
 - [ ] [JS Project](https://github.com/coolhand37/jQuery-Twitter-v2)
 - [ ] CSS Project
 - [ ] Interview
-- [ ] Test score:
+- [x] Test score: 88.9%
