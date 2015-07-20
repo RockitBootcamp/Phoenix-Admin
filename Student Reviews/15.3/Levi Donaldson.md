@@ -74,4 +74,9 @@
 - [ ] Test score:
 
 ### 7/15/15
+
 - Kris: CSS Dashboard project, passed
+
+### 7/20/2015
+
+- Kevin: JS project needs updates: https://github.com/RockitBootcamp/twitter-v2/pull/4
