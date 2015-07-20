@@ -71,10 +71,18 @@
 - [ ] [JS Project](https://github.com/richi1717/twitter)
 - [ ] CSS Project
 - [ ] Interview
-- [ ] Test score:
+- [x] Test score: 92.6%
 
 ## Reviews
 
 ### 7/19/2015
 
 - Kevin: JS project needs some updates (https://github.com/RockitBootcamp/twitter-v2/pull/1)
+
+### 7/20/15
+- Kris: Interview, not passed
+- needs to review and be questioned on:
+  - OOCSS
+  - JS Scope: closure
+  - JS AJAX: post request
+  - Gulp - write minify task
