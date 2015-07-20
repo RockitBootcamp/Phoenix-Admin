@@ -50,7 +50,7 @@
 - [x] [JS Project](https://github.com/dpwj/jQuery-Twitter-v2)
 - [x] CSS Project
 - [x] Interview
-- [ ] Test score:
+- [x] Test score: 88%
 
 ### 7/15/15
 
