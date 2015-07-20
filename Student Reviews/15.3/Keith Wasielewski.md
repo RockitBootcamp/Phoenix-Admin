@@ -63,8 +63,8 @@
 
 - [x] [JS Project](https://github.com/BluestarNEO/twitter-project-v2)
 - [x] CSS Project
-- [ ] Interview
-- [ ] Test score:
+- [x] Interview
+- [x] Test score: 92.6%
 
 ### 7/15/15
 
@@ -74,3 +74,6 @@
 ### 7/16/2015
 
 - Kevin: JS project passed
+
+### 7/20/15
+- Kris: interview, passed
