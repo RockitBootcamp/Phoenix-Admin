@@ -62,3 +62,7 @@
 ### 7/17/2015
 
 - Brig: passed CSS
+
+### 7/20/2015
+
+- Kevin: JS project needs updates: https://github.com/RockitBootcamp/twitter-v2/pull/5
