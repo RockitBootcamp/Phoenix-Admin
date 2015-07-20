@@ -49,7 +49,7 @@
 
 - [x] [JS Project](https://github.com/dpwj/jQuery-Twitter-v2)
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test score:
 
 ### 7/15/15
@@ -59,3 +59,7 @@
 ### 7/16/2015
 
 - Kevin: JS project passed
+
+### 7/20/2015
+
+- Brig: Passed Interview
