@@ -72,3 +72,9 @@
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+## Reviews
+
+### 7/19/2015
+
+- Kevin: JS project needs some updates (https://github.com/RockitBootcamp/twitter-v2/pull/1)
