@@ -6,12 +6,12 @@ Aaron Suzuki        | ✓            |            |           | ✓         |88.
 Chris Pryor         | ✓            |            |           | ✓         |    |     
 Chris Vandenberg    | ✓            |            |           | ✓         |    |
 Derek Doughty       | ✓            |            |           | ✓         |51.9%|  
-Duane Winkel        | ✓            | ✓          |           | ✓         |88.9%|
+Duane Winkel        | ✓            | ✓          | ✓         | ✓         |88.9%|
 Karla Moran         |              |            |           | ✓         |    |
 Keith Wasielewski   | ✓            | ✓          | ✓         | ✓         |92.6%|
 Levi Donaldson      | ✓            |            |           | ✓         |    |
 Matt Lewandowski    | ✓            |            |           | ✓         |74.1%|
-Richard Jeffery     |              |            |           | ✓         |92.6%|
+Richard Jeffery     |              |            |  started          | ✓         |92.6%|
 Ryan Medina         | ✓            |            |           | ✓         |77.8%|
 R. Wade Taylor      |              |            |           | ✓         |    |
 Timothy Baney       |              |            |           | ✓         |74.1%|
