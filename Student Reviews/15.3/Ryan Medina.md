@@ -56,8 +56,8 @@
 
 - [ ] [JS Project](https://github.com/rmedina423/Twitter-v2)
 - [x] CSS Project
-- [ ] Interview
-- [ ] Test score:
+- [x] Interview
+- [x] Test score: 77.8%
 
 ### 7/17/2015
 
