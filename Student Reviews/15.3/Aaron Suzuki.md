@@ -67,5 +67,10 @@
 
 - [ ] [JS Project](https://github.com/coolhand37/jQuery-Twitter-v2)
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test score: 88.9%
+
+
+### 7/20/2015
+
+-  Brig: Passed interview http://piratepad.net/Het7ezjebD
