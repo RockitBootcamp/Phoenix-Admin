@@ -13,7 +13,7 @@ Levi Donaldson      | ✓            |            |           | ✓         |   
 Matt Lewandowski    | ✓            |            | ✓         | ✓         |74.1%|
 Richard Jeffery     |              |            |  started          | ✓         |92.6%|
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
-R. Wade Taylor      |              |            |           | ✓         |    |
+R. Wade Taylor      | ✓            |            |           | ✓         |    |
 Timothy Baney       |              |            |           | ✓         |74.1%|
 Troy Mullaney       | ✓            | ✓          | ✓         | ✓         |88.9%|
 Will Fortin         |              |            |           | ✓         |    |
