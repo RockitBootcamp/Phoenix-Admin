@@ -2,20 +2,20 @@
 
 Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test |
 :------------------:|:------------:|:----------:|:---------:|:---------:|:----:|
-Aaron Suzuki        | ✓            |            |           | ✓         |    |
+Aaron Suzuki        | ✓            |            |           | ✓         |88.9%|
 Chris Pryor         | ✓            |            |           | ✓         |    |     
 Chris Vandenberg    | ✓            |            |           | ✓         |    |
-Derek Doughty       | ✓            |            |           | ✓         |    |  
-Duane Winkel        | ✓            | ✓          |           | ✓         |    |
+Derek Doughty       | ✓            |            |           | ✓         |51.9%|  
+Duane Winkel        | ✓            | ✓          |           | ✓         |88.9%|
 Karla Moran         |              |            |           | ✓         |    |
-Keith Wasielewski   | ✓            | ✓          | ✓         | ✓         |    |
+Keith Wasielewski   | ✓            | ✓          | ✓         | ✓         |92.6%|
 Levi Donaldson      | ✓            |            |           | ✓         |    |
-Matt Lewandowski    | ✓            |            |           | ✓         |    |
-Richard Jeffery     |              |            |           | ✓         |    |
-Ryan Medina         | ✓            |            |           | ✓         |    |
+Matt Lewandowski    | ✓            |            |           | ✓         |74.1%|
+Richard Jeffery     |              |            |           | ✓         |92.6%|
+Ryan Medina         | ✓            |            |           | ✓         |77.8%|
 R. Wade Taylor      |              |            |           | ✓         |    |
-Timothy Baney       |              |            |           | ✓         |    |
-Troy Mullaney       | ✓            | ✓          |           | ✓         |    |
+Timothy Baney       |              |            |           | ✓         |74.1%|
+Troy Mullaney       | ✓            | ✓          |           | ✓         |88.9%|
 Will Fortin         |              |            |           | ✓         |    |
 
 
