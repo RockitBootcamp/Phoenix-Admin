@@ -80,9 +80,12 @@
 # M4
 
 - [ ] [JS Project](https://github.com/mtlewandowsk89/twitterv2)
-- [ ] CSS Project
-- [ ] Interview
-- [ ] Test score:
+- [x] CSS Project
+- [x] Interview
+- [x] Test score: 74.1%
 
 ### 7/15/15
 - Kris: CSS Dashboard project, passed
+
+### 7/20/15
+- Kris: interview, passed
