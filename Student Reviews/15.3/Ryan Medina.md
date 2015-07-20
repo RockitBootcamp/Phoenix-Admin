@@ -55,6 +55,10 @@
 # M4
 
 - [ ] [JS Project](https://github.com/rmedina423/Twitter-v2)
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+### 7/17/2015
+
+- Brig: passed CSS
