@@ -55,8 +55,8 @@
 
 - [x] [JS Project](https://github.com/troym9731/jQuery-Twitter-v2)
 - [x] CSS Project
-- [ ] Interview
-- [ ] Test score:
+- [x] Interview http://piratepad.net/IPU0jPftMl
+- [x] Test score: 88.9%
 
 ### 7/15/15
 
@@ -65,3 +65,7 @@
 ### 7/16/2015
 
 - Kevin: JS project passed
+
+### 7/20/2015
+
+- Brig: Passed Interview
