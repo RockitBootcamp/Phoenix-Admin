@@ -69,7 +69,7 @@
 # M4
 
 - [ ] [JS Project](https://github.com/richi1717/twitter)
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [x] Test score: 92.6%
 
@@ -86,3 +86,5 @@
   - JS Scope: closure
   - JS AJAX: post request
   - Gulp - write minify task
+
+- Brig: CSS project passed
