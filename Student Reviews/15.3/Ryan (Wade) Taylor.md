@@ -56,6 +56,11 @@
 # M4
 
 - [ ] [JS Project](https://github.com/ryanwadetaylor/TwitterProjectV2)
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+
+### 7/20/2015
+
+- Brig: Passed CSS Project
