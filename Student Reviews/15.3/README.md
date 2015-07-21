@@ -9,7 +9,7 @@ Derek Doughty       | ✓            |            |           | ✓         |51.
 Duane Winkel        | ✓            | ✓          | ✓         | ✓         |88.9%|
 Karla Moran         |              |            |           | ✓         |    |
 Keith Wasielewski   | ✓            | ✓          | ✓         | ✓         |92.6%|
-Levi Donaldson      | ✓            |            |           | ✓         |    |
+Levi Donaldson      | ✓            | ✓           |           | ✓         |    |
 Matt Lewandowski    | ✓            |            | ✓         | ✓         |74.1%|
 Richard Jeffery     | ✓            | ✓           |  started          | ✓         |92.6%|
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
