@@ -73,4 +73,5 @@
 
 ### 7/20/2015
 
--  Brig: Passed interview http://piratepad.net/Het7ezjebD
+- Brig: Passed interview http://piratepad.net/Het7ezjebD
+- Kevin: JS Project needs updates (https://github.com/RockitBootcamp/twitter-v2/pull/6)
