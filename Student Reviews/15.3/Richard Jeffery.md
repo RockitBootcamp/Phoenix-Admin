@@ -70,7 +70,7 @@
 
 - [x] [JS Project](https://github.com/richi1717/twitter)
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test score: 92.6%
 
 ## Reviews
@@ -89,3 +89,6 @@
   - Gulp - write minify task
 - Brig: CSS project passed
 - Kevin: JS Project: passed
+
+### 7/21/15
+- Kris: Interview, passed
