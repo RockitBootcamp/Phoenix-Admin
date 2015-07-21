@@ -75,11 +75,21 @@
 
 # M4
 
-- [ ] [JS Project](https://github.com/chrisvan0848/twitterProjectV2)
+- [x] [JS Project](https://github.com/chrisvan0848/twitterProjectV2)
 - [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
 
+## Reviews
+
 ### 7/14/15
 
 - Kris: CSS Dashboard project, passed
+
+### 7/20/2015
+
+- Kevin: JS couldn't pull because of node_modules
+
+### 7/21/2015
+
+- Kevin: JS project passed
