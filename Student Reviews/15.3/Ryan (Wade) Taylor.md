@@ -55,7 +55,7 @@
 
 # M4
 
-- [ ] [JS Project](https://github.com/ryanwadetaylor/TwitterProjectV2)
+- [x] [JS Project](https://github.com/ryanwadetaylor/TwitterProjectV2)
 - [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
@@ -65,3 +65,4 @@
 
 - Brig: Passed CSS Project
 - Kevin: JS project needs some work: https://github.com/RockitBootcamp/twitter-v2/pull/3
+- Kevin: JS project second review: passed!
