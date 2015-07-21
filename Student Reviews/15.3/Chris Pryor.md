@@ -68,10 +68,15 @@
 
 # M4
 
-- [ ] [JS Project](https://github.com/cpryor24/jQuery-Twitter-v2)
+- [x] [JS Project](https://github.com/cpryor24/jQuery-Twitter-v2)
 - [x] CSS Project
 - [x] Interview
 - [x] Test score: 74.1%
 
 ### 7/15/15
+
 - Kris: CSS Dashboard project, passed
+
+### 7/20/2015
+
+- Kevin: JS project passed (submitted identical solution to Richi)
