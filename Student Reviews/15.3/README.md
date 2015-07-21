@@ -3,7 +3,7 @@
 Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test |
 :------------------:|:------------:|:----------:|:---------:|:---------:|:----:|
 Aaron Suzuki        | ✓            |            | ✓         | ✓         |88.9%|
-Chris Pryor         | ✓            |            | ✓         | ✓         |    |     
+Chris Pryor         | ✓            |            | ✓         | ✓         |74.1%|     
 Chris Vandenberg    | ✓            |            |           | ✓         |    |
 Derek Doughty       | ✓            |            |           | ✓         |51.9%|  
 Duane Winkel        | ✓            | ✓          | ✓         | ✓         |88.9%|
@@ -13,7 +13,7 @@ Levi Donaldson      | ✓            |            |           | ✓         |   
 Matt Lewandowski    | ✓            |            | ✓         | ✓         |74.1%|
 Richard Jeffery     | ✓            |            |  started          | ✓         |92.6%|
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
-R. Wade Taylor      | ✓            |            |           | ✓         |    |
+R. Wade Taylor      | ✓            |            |           | ✓         |85.2%|
 Timothy Baney       |              |            |           | ✓         |74.1%|
 Troy Mullaney       | ✓            | ✓          | ✓         | ✓         |88.9%|
 Will Fortin         |              |            |           | ✓         |    |
