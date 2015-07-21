@@ -57,3 +57,9 @@
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test score:
+
+## Reviews
+
+### 7/21/2015
+
+- Kevin: JS Project needs to fix a couple minor things
