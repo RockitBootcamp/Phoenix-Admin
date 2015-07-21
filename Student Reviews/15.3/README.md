@@ -3,7 +3,7 @@
 Name                |  CSS Project | JS Project | Interview | Jekyll Prj | Test |
 :------------------:|:------------:|:----------:|:---------:|:---------:|:----:|
 Aaron Suzuki        | ✓            |            | ✓         | ✓         |88.9%|
-Chris Pryor         | ✓            |            |           | ✓         |    |     
+Chris Pryor         | ✓            |            | ✓         | ✓         |    |     
 Chris Vandenberg    | ✓            |            |           | ✓         |    |
 Derek Doughty       | ✓            |            |           | ✓         |51.9%|  
 Duane Winkel        | ✓            | ✓          | ✓         | ✓         |88.9%|
