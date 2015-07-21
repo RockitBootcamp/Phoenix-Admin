@@ -68,7 +68,7 @@
 
 # M4
 
-- [ ] [JS Project](https://github.com/lcdonaldson/twitter-mockup)
+- [x] [JS Project](https://github.com/lcdonaldson/twitter-mockup)
 - [x] CSS Project
 - [ ] Interview
 - [ ] Test score:
@@ -80,3 +80,7 @@
 ### 7/20/2015
 
 - Kevin: JS project needs updates: https://github.com/RockitBootcamp/twitter-v2/pull/4
+
+### 7/21/2015
+
+- Kevin: JS project passed
