@@ -58,7 +58,7 @@
 - [x] [JS Project](https://github.com/ryanwadetaylor/TwitterProjectV2)
 - [x] CSS Project
 - [ ] Interview
-- [ ] Test score:
+- [x] Test score: 85.2%
 
 
 ### 7/20/2015
