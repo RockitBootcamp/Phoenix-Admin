@@ -70,8 +70,8 @@
 
 - [ ] [JS Project](https://github.com/cpryor24/jQuery-Twitter-v2)
 - [x] CSS Project
-- [ ] Interview
-- [ ] Test score:
+- [x] Interview
+- [x] Test score: 74.1%
 
 ### 7/15/15
 - Kris: CSS Dashboard project, passed
