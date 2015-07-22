@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Brad",
+      "hobby": "CSS"
+    },
+    {
+      "id": 2,
+      "name": "Kevin",
+      "hobby": "Beard Growing"
+    }
+  ]
+}

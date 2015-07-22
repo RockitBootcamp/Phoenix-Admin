@@ -1,0 +1,23 @@
+<table border="1">
+    <thead>
+        <tr>
+            <th>Edit | Delete</th>
+            <th>Name</th>
+            <th>Hobby</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    {{#each this }}
+        <tr data-id="{{ this.attributes.id }}">
+            <td>
+                <a href="/#/user/{{ this.attributes.id }}/edit/">Edit</a> | 
+                <a href="/#/user/{{ this.attributes.id }}/delete/">Delete</a>
+            </td>
+            <td>{{ this.attributes.name }}</td>
+            <td>{{ this.attributes.hobby }}</td>
+        </tr>
+    {{/each}}
+        
+    </tbody>
+</table>
