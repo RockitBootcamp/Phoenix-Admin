@@ -1,3 +1,7 @@
+# General
+
+It took him a full day to solve the permissions mini-project. He solved the Program-Challenge mini-project in 30 min.
+
 # M1
 
 - [x] Project
