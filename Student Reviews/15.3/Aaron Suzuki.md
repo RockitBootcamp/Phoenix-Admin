@@ -76,3 +76,7 @@
 
 - Brig: Passed interview http://piratepad.net/Het7ezjebD
 - Kevin: JS Project needs updates (https://github.com/RockitBootcamp/twitter-v2/pull/6)
+
+### 7/23/2015
+
+- Brig: Finished the permissions mini-project (Challenge was givin on late 7/21)
