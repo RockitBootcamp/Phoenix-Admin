@@ -60,3 +60,6 @@ gulp.task('serve', ['serve:api', 'serve:web']);
 gulp.task('watch', ['build'], function () {
   return gulp.watch(['src/**/*.js', 'src/**/*.hbs'], ['build'])
 })
+
+// Default
+gulp.task('default', ['serve', 'watch']);

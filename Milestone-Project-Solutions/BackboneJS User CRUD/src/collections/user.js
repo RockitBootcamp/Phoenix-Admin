@@ -12,6 +12,7 @@ App.Models.User = require('../models/User');
 /****************************************
   Collection: User
 *****************************************/
+
 var UserCollection = Backbone.Collection.extend({
   url: App.Settings.apiRoot + '/users',
   model: App.Models.User
