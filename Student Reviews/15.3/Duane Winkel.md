@@ -63,3 +63,7 @@
 ### 7/20/2015
 
 - Brig: Passed Interview [Pirate Pad](http://piratepad.net/dhj8cIZNGb)
+
+### 7/21/2015
+
+- Finished permission project
