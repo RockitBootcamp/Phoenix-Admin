@@ -90,6 +90,6 @@
 ### 7/20/15
 - Kris: interview, passed
 
-### 7/21/2015
+### 7/22/2015
 
 - Brig: finished permission project (Assigned late 7/21) finished around lunch
