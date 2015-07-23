@@ -17,9 +17,6 @@ var User = require('../models/user');
 var AddUser = Backbone.View.extend({
   el: $("main"),
 
-  initialize: function () {
-  },
-
   render: function (userId) {
     var _this = this;
     this.editMode = !!userId;
