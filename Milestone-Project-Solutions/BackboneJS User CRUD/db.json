@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "Brad",
-      "hobby": "CSS"
+      "hobby": "CSS",
+      "img": "http://robohash.org/14eb93aed27.png"
     },
     {
       "id": 2,
       "name": "Kevin",
-      "hobby": "Beard Growing"
+      "hobby": "Beard Growing",
+      "img": "http://robohash.org/14eb93afa4d.png"
     }
   ]
 }

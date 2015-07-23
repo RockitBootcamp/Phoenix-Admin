@@ -1,59 +1,53 @@
 var Backbone = require('backbone');
 
-/****************************************
-  App
-*****************************************/
+// App
+var App = require('./app');
+var UserFormView = require('./views/user-form');
+App.Views.UserForm = new UserFormView;
+var ListUsersView = require('./views/list-users');
+App.Views.ListUsers  = new ListUsersView;
+App.Collections.user = require('./collections/user')
 
-var App = require('./App');
-App.Views.AddUser = require('./views/AddUser');
-App.Views.ListUsers  = require('./views/ListUsers');
-
-
-/****************************************
-  Router
-*****************************************/
-
+// App Router
 App.Router = Backbone.Router.extend({
-    routes: {
-        '': 'index',
-        'user/add/': 'addUser',
-        'user/:id/edit/': 'editUser',
-        'user/:id/delete/': 'deleteUser',
-        '*actions': 'default'
-    }
+  // Route definitions
+  routes: {
+    'user/add(/)': 'addUser',
+    'user/:id/edit(/)': 'addUser',
+    'user/:id/delete(/)': 'deleteUser',
+    '': 'index',
+    '*actions': 'defaultRoute'
+  },
+
+  // Route handlers
+
+  index: function() {
+    App.Views.ListUsers.render();
+  },
+
+  addUser: function(id) {
+    App.Views.UserForm.render(id)
+  },
+
+  deleteUser: function(id) {
+    var user = App.Collections.user.get(id);
+
+    user.destroy().done(function (user) {
+      App.router.navigate('/', { trigger: true })
+    });
+  },
+
+  editUser: function(id) {
+    console.log('Edit User ' + id);
+    App.Views.EditUser.render(id);
+  },
+
+  defaultRoute: function(actions) {
+    console.log('404');
+  }
 });
 
 // Initiate the router
 App.router = new App.Router;
-
-
-/****************************************
-  Controllers
-*****************************************/
-
-App.router.on('route:index', function() {
-    var listUsers = new App.Views.ListUsers();
-});
-
-App.router.on('route:addUser', function() {
-    var addUser = new App.Views.AddUser();
-});
-
-App.router.on('route:deleteUser', function(id) {
-    console.log('Delete User ' + id);
-});
-
-App.router.on('route:editUser', function(id) {
-    console.log('Edit User ' + id);
-});
-
-App.router.on('route:default', function(actions) {
-    console.log('404');
-});
-
-
-/****************************************
-  Backbone History
-*****************************************/
 
 Backbone.history.start();
