@@ -52,3 +52,7 @@
 
 - Kevin: JS project needs some updates (https://github.com/RockitBootcamp/twitter-v2/pull/2)
 - Kevin: JS project review 2: Tim did not resolve the main issues, still needs updates
+
+### 7/21/2015
+
+- Finished permission project
