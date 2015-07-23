@@ -81,6 +81,6 @@
 
 - Kevin: JS project passed (submitted identical solution to Richi)
 
-### 7/21/2015
+### 7/22/2015
 
 - Brig: finished permission project (Assigned late 7/21) finished late in day
