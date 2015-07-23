@@ -22,53 +22,58 @@ var AddUser = Backbone.View.extend({
     var _this = this;
     this.editMode = !!userId;
 
-    if (this.editMode) {
+    // Add Mode
+    if (!this.editMode) {
+      var output = formTemplate();
+      this.$el.html(output);
+
+    // Edit Mode
+    } else {
       var user = this.user = new User({ id: userId });
 
       user.fetch().done(function () {
-
-        console.log(user);
-        console.log(user.toJSON());
-
         var output = formTemplate(user.toJSON());
         _this.$el.html(output);
       });
-
-    } else {
-      var output = formTemplate();
-      this.$el.html(output);
     }
+
   },
 
   events: {
-    "submit form": "submitForm"
+    "submit form.user": "submitForm"
   },
 
   submitForm: function () {
+
     // Collect Form Data
     var formData = {
       name: $('form').find('input[name="name"]').val(),
-      hobby: $('form').find('input[name="hobby"]').val(),
-      // this is just something fun for me ;)
-      img: 'http://robohash.org/'+ Date.now().toString(16) + '.png'
+      hobby: $('form').find('input[name="hobby"]').val()
     };
 
-    if (this.editMode) {
-      this.user.set(formData);
-      this.user.save().done(function () {
-        App.router.navigate('/', { trigger: true });
-      })
-    } else {
-    // Save new user
-      App.Collections.user.create(formData, {
+    // Add Mode (Save new User)
+    if (!this.editMode) {
+
+      // Only set the image on add mode
+      formData.img = 'http://robohash.org/'+ Date.now().toString(16) + '.png'
+
+      App.Collections.User.create(formData, {
         success: function (user) {
           App.router.navigate('/', { trigger: true });
         }
+      });
+      
+    // Edit Mode (Edit User)
+    } else {
+      this.user.set(formData);
+      this.user.save().done(function () {
+        App.router.navigate('/', { trigger: true });
       });
     }
 
     // Prevent Default
     return false;
+
   }
 });
 

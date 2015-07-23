@@ -30,13 +30,8 @@ App.Router = Backbone.Router.extend({
     App.Views.ListUsers.render();
   },
 
-  addUser: function() {
-    App.Views.UserForm.render()
-  },
-
-  editUser: function(id) {
-    console.log('Edit User ' + id);
-    App.Views.EditUser.render(id);
+  addUser: function(id) {
+    App.Views.UserForm.render(id);
   },
 
   deleteUser: function(id) {
