@@ -1,7 +1,3 @@
-# General
-
-It took him a full day to solve the permissions mini-project. He solved the Program-Challenge mini-project in 30 min.
-
 # M1
 
 - [x] Project
@@ -97,3 +93,11 @@ It took him a full day to solve the permissions mini-project. He solved the Prog
 ### 7/21/2015
 
 - Kevin: JS project passed
+
+### 7/22/2015
+
+- Brig: Finished the permissions mini-project (Challenge was givin on late 7/21)
+
+### 7/23/2015
+
+- Brig: Finished the program mini-project (Took 30 min from start to finish)
