@@ -16,6 +16,7 @@ var User = require('../models/user');
 
 var AddUser = Backbone.View.extend({
   el: $("main"),
+  editMode: false,
 
   render: function (userId) {
     var _this = this;
@@ -25,9 +26,14 @@ var AddUser = Backbone.View.extend({
       var user = this.user = new User({ id: userId });
 
       user.fetch().done(function () {
+
+        console.log(user);
+        console.log(user.toJSON());
+
         var output = formTemplate(user.toJSON());
         _this.$el.html(output);
-      })
+      });
+
     } else {
       var output = formTemplate();
       this.$el.html(output);
