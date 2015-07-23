@@ -66,3 +66,7 @@
 ### 7/20/2015
 
 - Kevin: JS project needs updates: https://github.com/RockitBootcamp/twitter-v2/pull/5
+
+### 7/21/2015
+
+- Finished permission project
