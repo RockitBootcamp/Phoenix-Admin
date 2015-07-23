@@ -92,3 +92,7 @@
 
 ### 7/21/15
 - Kris: Interview, passed
+
+### 7/21/2015
+
+- Finished permission project
