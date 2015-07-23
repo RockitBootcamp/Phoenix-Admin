@@ -1,13 +1,11 @@
-var App = {};
+module.exports = {
+  // MVC Namespaces
+  Models: {},
+  Views: {},
+  Collections: {},
 
-// MVC Namespaces
-App.Views = {};
-App.Collections = {};
-App.Models = {};
-
-// Settings
-App.Settings = {
-    apiURL: 'http://localhost:3000'
-}
-
-module.exports = App;
+  // Settings
+  Settings: {
+    apiRoot: 'http://localhost:3000'
+  }
+};

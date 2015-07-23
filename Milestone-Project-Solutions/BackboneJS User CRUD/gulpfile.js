@@ -4,8 +4,7 @@ var gulp = require('gulp');
 var gutil = require('gulp-util');
 var source = require('vinyl-source-stream');
 var browserify = require('browserify');
-var hbsfy = require('hbsfy');
-var del = require('del');
+var rimraf = require('rimraf');
 var jsonServer = require('json-server');
 var apiServer = jsonServer.create();
 var router = jsonServer.router('db.json');
@@ -21,12 +20,10 @@ var bundler = browserify({
   debug: true
 });
 
-bundler.transform(hbsfy);
 bundler.on('log', gutil.log); // output build logs to terminal
 
 gulp.task('clean', function (cb) {
-  del('build/bundle.js');
-  cb();
+  rimraf('build', cb);
 });
 
 gulp.task('build', ['clean'], function () {
@@ -45,13 +42,12 @@ apiServer.use(jsonServer.defaults);
 apiServer.use(router);
 
 gulp.task('serve:api', function (cb) {
-  apiServer.listen(3000);
-  cb();
+  apiServer.listen(3000, cb);
 });
 
 gulp.task('serve:web', ['serve:api'], serve({
   root: ['.'],
-  port: 8000
+  port: process.env.PORT || 8000
 }));
 
 gulp.task('serve', ['serve:api', 'serve:web']);
@@ -61,6 +57,6 @@ gulp.task('serve', ['serve:api', 'serve:web']);
   Watch
 *****************************************/
 
-gulp.task('watch', ['build', 'serve'], function () {
-  return gulp.watch(['src/**/*.js', 'src/**/*.handlebars'], ['build'])
+gulp.task('watch', ['build'], function () {
+  return gulp.watch(['src/**/*.js', 'src/**/*.hbs'], ['build'])
 })
