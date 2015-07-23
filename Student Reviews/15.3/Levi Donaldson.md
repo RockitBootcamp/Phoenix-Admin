@@ -84,3 +84,7 @@
 ### 7/21/2015
 
 - Kevin: JS project passed
+
+### 7/21/2015
+
+- Assigned permission project
