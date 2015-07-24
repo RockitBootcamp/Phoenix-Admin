@@ -14,7 +14,7 @@ Matt Lewandowski    | ✓            |            | ✓         | ✓         |7
 Richard Jeffery     | ✓            | ✓          | ✓         | ✓         |92.6%|
 Ryan Medina         | ✓            |            | ✓         | ✓         |77.8%|
 R. Wade Taylor      | ✓            | ✓          | ✓         | ✓         |85.2%|
-Timothy Baney       |              |            |           | ✓         |74.1%|
+Timothy Baney       | ✓            |            | ✓         | ✓         |74.1%|
 Troy Mullaney       | ✓            | ✓          | ✓         | ✓         |88.9%|
 Will Fortin         |              |            |           | ✓         |    |
 
