@@ -56,3 +56,7 @@
 ### 7/21/2015
 
 - Finished permission project
+
+### 7/24/15
+- Kris: interview, passed
+- Kris: CSS Dashboard project passed
