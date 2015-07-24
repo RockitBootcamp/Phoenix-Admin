@@ -42,9 +42,9 @@
 # M4
 
 - [ ] [JS Project](https://github.com/TJBANEY/twitter2project)
-- [ ] CSS Project
-- [ ] Interview
-- [ ] Test Score:
+- [x] CSS Project
+- [x] Interview
+- [x] Test Score: 74.1%
 
 ## Reviews
 
