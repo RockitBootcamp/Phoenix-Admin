@@ -32,7 +32,7 @@ App.Router = Backbone.Router.extend({
   deleteUser: function(id) {
     var user = App.Collections.user.get(id);
 
-    user.destroy().done(function (user) {
+    user.destroy().done(function () {
       App.router.navigate('/', { trigger: true })
     });
   },
