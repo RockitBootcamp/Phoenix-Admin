@@ -38,140 +38,21 @@ button {
 
 
 /****************************************
-  Components
+  Layout
 *****************************************/
 
 /**
- * Content Box
+ * Layout Abstractions
  */
 
-.content-box {
-	background-color: #FFF;
-	border: 1px solid #C7D3DA;
-	-webkit-box-shadow: 0 0 10px -5px #000;
-	box-shadow: 0 0 10px -4px #000;
+.panel > div {
+	margin: 0 auto;
+	width: 960px;
 }
 
 /**
- * Product List
+ * Hero
  */
-
- .product-preview.list {
- 	overflow: hidden;
- 	margin: 10px 0;
- 	background-color: #E8F3F9;
- }
-
- .product-preview.list img {
- 	width: 80px;
- 	height: 80px;
- 	float: left;
- }
-
- .product-preview.list .content {
- 	margin-left: 90px;
- }
-
- .product-preview.list h3 {
- 	margin: 0;
- 	color: #0792D3;
- 	font-size: 16pt;
- 	font-weight: 100;
- }
-
-
- /**
-  * Product Tiles
-  */
-
-.product-preview.tiles {
-	display: inline-block;
-	margin-top: 10px;
-	margin-right: 10px;
-	width: 160px;
-	vertical-align: top;
-	color: #3C6807;
-}
-
-.product-preview.tiles img {
-	width: 160px;
-	height: 160px;
-	display: block;
-}
-
-.product-preview.tiles .content {
-	background-color: #E3EFD6;
-}
-
-.product-preview.tiles h3 {
-	margin: 0;
-	padding: 2px 5px;
-	background-color: #8ECF41;
-	font-weight: 100;
-}
-
-.product-preview.tiles .description {
-	padding: 5px;
-}
-
-
-/**
- * Breakouts
- */
-
-.breakouts {
-	text-align: center;
-}
-
-.breakouts .breakout {
-	display: inline-block;
-	width: 300px;
-	min-height: 120px;
-	margin: 0 5px;
-	transform: translateY(-20px);
-	border-top-width: 4px;
-	border-top-style: solid;
-	padding-bottom: 10px;
-}
-
-.breakouts .breakout button {
-	border-width: 2px;
-	border-style: solid;
-	border-radius: 5px;
-	background: transparent;
-}
-
-/** Orange Box **/
-.breakouts .breakout:nth-child(1) {
-	border-top-color: #EA501A;
-}
-.breakouts .breakout:nth-child(1) button {
-	border-color: #EA501A;
-	color: #EA501A;
-}
-
-/** Green Box **/
-.breakouts .breakout:nth-child(2) {
-	border-top-color: #8ECF41;
-}
-.breakouts .breakout:nth-child(2) button{
-	border-color: #8ECF41;
-	color: #8ECF41;
-}
-
-/** Blue Box **/
-.breakouts .breakout:nth-child(3) {
-	border-top-color: #0792D3;
-}
-.breakouts .breakout:nth-child(3) button {
-	border-color: #0792D3;
-	color: #0792D3;
-}
-
-
-/****************************************
-  Hero
-*****************************************/
 
 .hero {
 	background: radial-gradient(rgba(3, 143, 170, 0.57), #038FAA) fixed, url('../images/bg.jpg');
@@ -179,11 +60,9 @@ button {
 }
 
 .hero > div {
-	margin: 0 auto;
-	width: 960px;
 	height: 450px;
-	position: relative;
-	color: #FFF;
+	position: relative; /* For the .intro section */
+	color: #FFF; /* To cascase white as the default color of this area */
 }
 
 
@@ -210,13 +89,13 @@ button {
 	text-decoration: none;
 }
 
-form.search {
+.primary-header form.search {
 	position: absolute;
 	right: 0;
 	top: 15px;
 }
 
-form.search input {
+.primary-header form.search input {
 	border: 1px solid rgba(255,255,255,0.5);
 	background-color: transparent;
 	color: #FFF;
@@ -225,11 +104,11 @@ form.search input {
 	padding: 3px;
 }
 
-form.search input:focus {
+.primary-header form.search input:focus {
 	outline: none;
 }
 
-form.search input::-webkit-input-placeholder {
+.primary-header form.search input::-webkit-input-placeholder {
 	color: rgba(255,255,255,0.5)
 }
 
@@ -267,39 +146,162 @@ form.search input::-webkit-input-placeholder {
 	margin: 0;
 }
 
-
-/****************************************
-  Primary Content
-*****************************************/
+/**
+ * Primary Content
+ */
 
 .primary-content {
 	margin-bottom: 20px;
 }
 
 .primary-content > div {
-	margin: 0 auto;
-	width: 960px;
-	min-height: 350px;
-	position: relative;
+	/*position: relative;*/
 }
 
-main {
-	padding-bottom: 10px;
-}
-
-main > div:first-child {
+.primary-content aside {
 	float: left;
 	width: 400px;
-	padding: 1px 10px;
-	min-height: 400px;
 }
 
-main > div:last-child {
-	margin-left: 400px;
-	min-height: 400px;
-	padding: 1px 10px;
+.primary-content main {
+	margin-left: 410px;
 }
 
 
+/****************************************
+  Components
+*****************************************/
 
+/**
+ * Breakouts
+ */
+
+.breakouts {
+	text-align: center;
+}
+
+.breakouts .breakout {
+	display: inline-block;
+	width: 300px;
+	min-height: 120px;
+	margin: 0 5px;
+	transform: translateY(-20px);
+	border-top-width: 4px;
+	border-top-style: solid;
+}
+
+.breakouts .breakout button {
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5px;
+	background: transparent;
+}
+
+/** Orange Box **/
+.breakouts .breakout:nth-child(1) {
+	border-top-color: #EA501A;
+}
+.breakouts .breakout:nth-child(1) button {
+	border-color: #EA501A;
+	color: #EA501A;
+}
+
+/** Green Box **/
+.breakouts .breakout:nth-child(2) {
+	border-top-color: #8ECF41;
+}
+.breakouts .breakout:nth-child(2) button {
+	border-color: #8ECF41;
+	color: #8ECF41;
+}
+
+/** Blue Box **/
+.breakouts .breakout:nth-child(3) {
+	border-top-color: #0792D3;
+}
+.breakouts .breakout:nth-child(3) button {
+	border-color: #0792D3;
+	color: #0792D3;
+}
+
+
+/**
+ * Content Box
+ */
+
+.content-box {
+	padding: 10px;
+	background-color: #FFF;
+	border: 1px solid #C7D3DA;
+	-webkit-box-shadow: 0 0 10px -5px #000;
+	box-shadow: 0 0 10px -4px #000;
+}
+
+/**
+ * Product List
+ */
+
+.puppy-list > * + * {
+	margin-top: 10px;
+}
+
+.puppy-list-item {
+	overflow: hidden;
+	background-color: #E8F3F9;
+}
+
+.puppy-list-item img {
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+
+.puppy-list-item .content {
+	margin-left: 90px;
+}
+
+.puppy-list-item h3 {
+	margin: 0;
+	color: #0792D3;
+	font-size: 16pt;
+	font-weight: 100;
+}
+
+
+/**
+ * Product Tiles
+ */
+
+.puppy-tiles > .puppy-tile {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.puppy-tile {
+	display: inline-block;
+	width: 160px;
+	vertical-align: top;
+	color: #3C6807;
+}
+
+.puppy-tile img {
+	width: 160px;
+	height: 160px;
+	display: block;
+}
+
+.puppy-tile .content {
+	background-color: #E3EFD6;
+}
+
+.puppy-tile h3 {
+	margin: 0;
+	padding: 2px 5px;
+	background-color: #8ECF41;
+	font-weight: 100;
+}
+
+.puppy-tile .description {
+	padding: 5px;
+}
 

@@ -16,7 +16,7 @@ var bundler = browserify({
 bundler.transform(hbsfy);
 bundler.on('log', gutil.log); // output build logs to terminal
 
-gulp.task('build', function () {
+gulp.task('build', ['clean'], function () {
   return bundler.bundle()
     // log errors if they happen
     .on('error', gutil.log.bind(gutil, 'Browserify Error'))
@@ -30,7 +30,6 @@ gulp.task('clean', function (cb) {
 });
 
 var jsonServer = require('json-server');
-
 var apiServer = jsonServer.create();
 var router = jsonServer.router('db.json');
 
@@ -44,7 +43,15 @@ gulp.task('serve:api', function (cb) {
 
 var serve = require('gulp-serve');
 
-gulp.task('serve', ['serve:api'], serve({
+gulp.task('serve:web', ['serve:api'], serve({
   root: ['.'],
   port: 8000
 }));
+
+gulp.task('serve', ['serve:api', 'serve:web']);
+
+// Extra
+
+gulp.task('watch', ['serve'], function () {
+  return gulp.watch('js/index.js', ['build'])
+})

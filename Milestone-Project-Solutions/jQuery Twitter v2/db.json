@@ -14,6 +14,11 @@
       "id": 5,
       "userId": 2,
       "message": "Yo!"
+    },
+    {
+      "userId": 1,
+      "message": "sdfdss",
+      "id": 6
     }
   ],
   "replies": [
@@ -34,24 +39,30 @@
       "userId": 1,
       "tweetId": 5,
       "message": "@therealklanni What up!"
+    },
+    {
+      "userId": 1,
+      "message": "asdfsaf",
+      "tweetId": 6,
+      "id": 4
     }
   ],
   "users": [
     {
       "id": 1,
-      "img": "brad.png",
+      "img": "images/brad.png",
       "handle": "@bradwestfall",
       "realName": "Brad Westfall"
     },
     {
       "id": 2,
-      "img": "kevin.png",
+      "img": "https://robohash.org/kevin",
       "handle": "@therealklanni",
       "realName": "Kevin Lanni"
     },
     {
       "id": 3,
-      "img": "rockit.png",
+      "img": "images/rockit.png",
       "handle": "@rockit_bootcamp",
       "realName": "RockIt Bootcamp"
     }

@@ -9,11 +9,17 @@ $(function() {
 	}
 
 	/**
+	 * Handlebars compile variables for each templating function
+	 */
+	var templTweet = Handlebars.compile($('#template-tweet').html());
+	var templCompose = Handlebars.compile($('#template-compose').html());
+	var templThread = Handlebars.compile($('#template-thread').html());
+
+	/**
 	 * Render Tweet
 	 */
 	var renderTweet = function(User, message) {
-		var template = Handlebars.compile($('#template-tweet').html());
-		return template({
+		return templTweet({
 			message: message,
 			img: User.img,
 			handle: User.handle
@@ -21,21 +27,12 @@ $(function() {
 	}
 
 	/**
-	 * Render Compose
-	 */
-	var renderCompose = function() {
-		var template = Handlebars.compile($('#template-compose').html());
-		return template();
-	}
-
-	/**
 	 * Render Thread
 	 */
 	var renderThread = function(User, message) {
-		var template = Handlebars.compile($('#template-thread').html());
-		return template({
+		return templThread({
 			tweet: renderTweet(User, message),
-			compose: renderCompose()
+			compose: templCompose()
 		});
 	}
 
@@ -44,6 +41,19 @@ $(function() {
 	 */
 	$('main').on('click', '.compose textarea', function() {
 		$(this).parents('.compose').addClass('expand');
+		/** 
+		 *Extra credit character count decreases 
+		**/	
+		var count = $(this).parent().find('.count')
+		$(this).keyup(function(event){
+			count.html(140 - this.value.length)
+			if(count.html() <= "0"){
+				count.css('color', 'red')
+			}
+		})
+		/**
+		 * Extra credit ends
+		 **/
 	});
 
 	/**
@@ -56,13 +66,13 @@ $(function() {
 	/**
 	 * Compose Tweet
 	 */
-	$('main').on('click', '.compose button', function(e) {
+	$('main').on('submit', '.compose', function(e) {
 		e.preventDefault();
-		var textarea = $(this).parents('form').find('textarea');
+		var textarea = $(this).find('textarea');
 		var message = textarea.val();
 		
 		// Compose
-		if ($(this).parents('.tweets').length) {
+		if ($(this).parent('div').hasClass('replies')) {
 			var tweet = renderTweet(User, message);
 			$(this).parents('.replies').append(tweet);
 		} else {
@@ -72,8 +82,12 @@ $(function() {
 
 		// Reset Compose
 		textarea.val('');
-		$(this).parents('.compose').removeClass('expand');
+		$(this).removeClass('expand');
 
 	});
+
+	// $('main').on('keypress', 'textarea', function(){
+
+	// })
 
 });

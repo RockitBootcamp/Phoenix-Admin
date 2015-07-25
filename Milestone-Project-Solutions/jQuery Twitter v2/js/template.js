@@ -1,6 +1,5 @@
 'use strict';
 
-var $ = require('jquery');
 var Handlebars = require('hbsfy/runtime');
 var composeTmpl = require('../templates/compose.handlebars');
 var repliesTmpl = require('../templates/replies.handlebars');
@@ -8,6 +7,8 @@ var tweetTmpl = require('../templates/tweet.handlebars');
 var threadTmpl = require('../templates/thread.handlebars');
 
 // Register partials
+// best case: use partials, otherwise they can just use jQuery to combine the
+// templates together
 Handlebars.registerPartial('compose', composeTmpl);
 Handlebars.registerPartial('replies', repliesTmpl);
 Handlebars.registerPartial('tweet', tweetTmpl);
@@ -20,17 +21,12 @@ function renderTweet(user, message) {
   });
 }
 
-// Render Thread
-function renderThread(details) {
-  return threadTmpl(details);
-};
-
 function renderReplies(replies) {
   return repliesTmpl({ tweets: replies });
 }
 
 module.exports = {
   renderTweet: renderTweet,
-  renderThread: renderThread,
+  renderThread: threadTmpl,
   renderReplies: renderReplies
 };

@@ -44,7 +44,7 @@ h1 {
   Helpers
 *****************************************/
 
-.cearfix:after {
+.clearfix::after {
     content: "";
     display: table;
     clear: both;
@@ -74,6 +74,7 @@ aside {
 
 main {
     margin-left: 320px;
+    overflow: hidden;
 }
 
 
@@ -121,6 +122,6 @@ form .input {
     margin-left: 210px;
 }
 
-form button {
+form footer {
     margin-top: 10px;
 }
