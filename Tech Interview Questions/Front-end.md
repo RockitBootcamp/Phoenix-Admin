@@ -5,11 +5,14 @@
 - Interviews should last 60 minutes or less
 - Ask questions from all areas
     - Use discretion to skip or change questions based on student skill level
-- Use Pirate Pad to capture Coding Questions
+- Use [Collab Edit](http://collabedit.com/) to capture Coding Questions
+    - Click on *Create a New Document* to get started, and give the student the link
+    - Write the last part of the link on the student's evaluation sheet
     - Start a new session for each student
     - Keep track of the code used for the student
+    - Students should not erase any code, rather move to the next line
 - Take notes on questions that don't require coding
-- After the interview, take 2 minutes to evaluate the student from 1-5 based on a entry-level web developer position
+- After the interview, take 2 minutes to evaluate the student from 1-5 based on an entry-level web developer position
     - 1 is a low score for entry web developer
     - 5 is a high score for entry web developer
 
@@ -20,10 +23,7 @@
 - CSS / Sass
 - Workflow: Git, GitHub, Bower, NPM, and Gulp
 
-
-> **Note that the question in each section are ordered from easiest to most difficult to help you gauge student skill level**
-
-
+> **Note that the questions in each section are ordered from easiest to most difficult to help you gauge student skill level**
 
 # JavaScript / jQuery
 
@@ -112,7 +112,6 @@ The most common they've seen are:
 - `event.preventDefault()`
 
 
-
 ### Write a loop for summing all of the numbers from 1 to 100. In other words, `1 + 2 + 3 + 4 ... + 100`
 
 ```js
@@ -124,12 +123,12 @@ for (var i = 1, i <= 100; i++) {
 
 ### What are 2 other ways to iterate (loop)?
 
-(Depending if they used `for`, `while` or `Array#forEach` above)
+(Depending if they used `for`, `while` or `Array.forEach` above)
 
 - `for`
 - `while`
 - `for..in`
-- `Array#forEach`
+- `Array.forEach`
 
 
 ### What is the `this` keyword, and what is its meaning?
@@ -217,12 +216,11 @@ function replacer(str) {
 > str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` whereas the code above with the regular expression will replaces all instances of `s`
 
 
-### What is the difference between a variable that is `null`, `undefined` or undeclared?
+### What is the difference between a variable that is `null`, `undefined`, or undeclared?
 
 - a variable that is `null` means it has been explicitly set to null
 - a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
 - a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
-
 
 
 # MVC with Backbone.js
