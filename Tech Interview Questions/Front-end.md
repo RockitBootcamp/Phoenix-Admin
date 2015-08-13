@@ -171,17 +171,6 @@ $.get('http://jsonplaceholder.typicode.com/posts')
 ```
 
 
-### Write a function that replaces all occurrences of the letter `s` in a string with the letter `z`
-
-```js
-function replacer(str) {
-  return str.replace(/s/g, 'z')
-}
-```
-
-> str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` whereas the code above with the regular expression will replaces all instances of `s`
-
-
 ### What is Common JS?
 
 - A pattern for requiring (or including) JavaScript files known as modules into one-another.
@@ -199,17 +188,29 @@ module.exports = {
 }
 ```
 
-### What is the difference between a variable that is `null`, `undefined` or undeclared?
-
-- a variable that is `null` means it has been explicitly set to null
-- a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
-- a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
-
 
 ### Explain hoisting
 
 - A function declaration is hoisted to the top of its scope
 - A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
+
+
+### Write a function that replaces all occurrences of the letter `s` in a string with the letter `z`
+
+```js
+function replacer(str) {
+  return str.replace(/s/g, 'z')
+}
+```
+
+> str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` whereas the code above with the regular expression will replaces all instances of `s`
+
+
+### What is the difference between a variable that is `null`, `undefined` or undeclared?
+
+- a variable that is `null` means it has been explicitly set to null
+- a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
+- a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
 
 
 
