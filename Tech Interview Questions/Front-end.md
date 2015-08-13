@@ -21,19 +21,22 @@
 - Workflow: Git, GitHub, Bower, NPM, and Gulp
 
 
-> Note that the question in each section are ordered from easiest to most difficult to help you gauge student skill
+> **Note that the question in each section are ordered from easiest to most difficult to help you gauge student skill level**
 
 
 
 # JavaScript / jQuery
 
-### It terms of the DOM, what is the difference between a class and an ID
-- IDs should only be used once per page
-- Classes can be used multiple times per page
-- When writing CSS selectors, it's generally encouraged to use class names over IDs for lower CSS specificity. Lower specificity is desired
+### Why is Style Consistency so important?
+
+- Makes code more uniform
+- Easier to read
+- Easier to maintain
+- Reduces bike-shedding if a team follows a style guide (bonus)
 
 
 ### What is JSON and why is it significant?
+
 - JSON stands for JavaScript Object Notation
 - It's significant because it can transmit data over HTTP with a smaller filesize than most other mediums (like XML)
 - It is commonly used for AJAX when front-end JavaScript wishes to request data from the server
@@ -47,6 +50,7 @@
 
 
 ### What are some of the primitive types in JavaScript?
+
 - Number
 - String
 - Boolean
@@ -55,19 +59,38 @@
 
 
 ### Write jQuery to select all anchor tags on the page. Then add a `foo` class to each one.
+
 ```js
 $('a').addClass('foo');
 ```
 
 ### Write jQuery to change the `<div class="foo">` element to have "Hello World" as its text.
+
 ```js
 // Both are acceptable
 $('div.foo').text('Hello World');
 $('div.foo').html('Hello World');
 ```
 
+### What is the difference between a variable that is `null`, `undefined` or undeclared?
+
+- a variable that is `null` means it has been explicitly set to null
+- a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
+- a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
+
+
+### Which Array method can be used to get a subset of the array?
+
+- Array.slice()
+
+
+### What is a callback?
+
+- A function that's passed to another function so it can be called later when that function has finished executing
+
 
 ### Write a loop for summing all of the numbers from 1 to 100. In other words, `1 + 2 + 3 + 4 ... + 100`
+
 ```js
 var count = 0;
 for (var i = 1, i <= 100; i++) {
@@ -75,51 +98,205 @@ for (var i = 1, i <= 100; i++) {
 }
 ```
 
-### What defines a scope in JavaScript? 
+### What are 2 other ways to iterate (loop)?
+
+(Depending if they used `for`, `while` or `Array#forEach` above)
+
+- `for`
+- `while`
+- `for..in`
+- `Array#forEach`
+
+### What defines a scope in JavaScript?
+
 - A function
+
+### What is the `this` keyword, and what is its meaning?
+
+- `this` refers to the *parent object*
+- (same as above plus:) or sometimes refers to the `window` object (browsers)
+- (same as above plus:) or `global` in Node.js
+- (bonus) functions change the context of `this`
+
+### What is an IIFE ("iffy")?
+
+- Immediately-Invoked Function Expression
+- `(function () {}())`
+
+
+### What is the difference between `==` and `===`?
+
+- The `==` operator *coerces* values to check equality
+- The `===` is a strict-equality operator (it does not coerce values)
+- (Bonus:) `===` should be preferred
+
+
+### Explain hoisting
+
+- A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
+- A function declaration is hoisted to the top of its scope
+
+
+### Using jQuery, write an AJAX call to `"http://jsonplaceholder.typicode.com/posts"` and print each post body using `console.log`
+
+```js
+$.get('http://jsonplaceholder.typicode.com/posts')
+  .done(function (posts) {
+    posts.forEach(function (post) {
+      console.log(post.body)
+    })
+  })
+```
+
+
+### Using jQuery write a method for handling keyboard events
+
+```js
+// event name can be 'keypress', 'keydown', 'keyup'
+$('some selector').on('keypress', function () {
+  // ...
+})
+```
+
+
+### Write a function that replaces all occurrences of the letter `s` in a string with the letter `z`
+
+```js
+function replacer(str) {
+  return str.replace(/s/g, 'z')
+}
+```
 
 
 ### What is Common JS?
+
 - A pattern for requiring (or including) JavaScript files known as modules into one-another.
+- A module pattern
+- The module pattern for Node.js
 
 
+### Write an example of exporting several methods (`add`, `subtract`, `multiply`) using CommonJS
+
+```js
+module.exports = {
+  add: function () {},
+  subtract: function () {},
+  multiply: function () {}
+}
+```
 
 
 # MVC with Backbone.js
 
 ### What does MVC stand for?
+
 - Model, View, Controller
 
 ### What is a router?
-- Code which listens to browser paths and calls functions depending on which path best matches
+
+- Controls which view(s) to load based on the URL (hash routing)
+- It calls functions depending on which path best matches
 
 
 ### In Backbone, what is the relationship between a View and a templating engine, such as Handlebars?
-- The view is called upon by the router to be rendered.
-- The view holds all the logic for the HTML which will be rendered
-- The view uses collections and models to pass into the template
-- The handlebars template is the actual HTML to be rendered
 
+- The view is called upon by the router to be rendered. A template is called upon by a view (typically).
+- It's the view's responsibility to decide what to render. A template's responsibility is to generate HTML.
+- The view passes data into the template. The template generates HTML from data it receives.
+
+
+### Write a Backbone model with the following default values: name: 'Batman', vehicle: 'Batmobile'
+
+```js
+var Superhero = Backbone.Model.extend({
+  defaults: {
+    name: 'Batman',
+    vehicle: 'Batmobile'
+  }
+})
+```
+
+
+### Write an example of using a collection to retrieve data from an API
+
+```js
+myCollection.fetch()
+  .done(function (data) {
+    console.log(data)
+  })
+```
+
+
+### Write a Backbone router that has at least one route with a parameter
+
+```js
+var Router = Backbone.Router.extend({
+  routes: {
+    'users/:id': 'getUserById'
+    //     ^^^ router parameter (`:` followed by a word)
+  },
+
+  getUserById: function (id) {
+    // check that the student used an `id` parameter here
+  }
+})
+```
+
+
+### Write a Backbone View that uses Handlebars to render a simple template
+
+```js
+var MyView = Backbone.View.extend({
+  el: 'main',
+
+  template: Handlebars.compile('<h1>{{greeting}}</h1>')
+
+  render: function () {
+    this.$el.html(this.template('Hello world'))
+  }
+})
+```
+
+
+## What other frameworks or libraries have you used?
+
+Some students have learned
+
+- Node.js (Express)
+- AngularJS
+- Lodash
+- *others*
 
 
 # CSS and Sass
 
-### Explain the difference between a Child Selector and a Descendant selector. 
+### In terms of the DOM, what is the difference between a class and an ID?
+
+- IDs should only be used once per page
+- Classes can be used multiple times per page
+- When writing CSS selectors, it's generally encouraged to use class names over IDs for lower CSS specificity. Lower specificity is desired
+
+
+### Explain the difference between a Child Selector and a Descendant selector.
+
 - Child selectors select direct children of the parent element, such as `div > p`
 - Descendant selectors select all children of the parent element, such as `div p`
 
 
 ### What is general purpose behind using a CSS Reset or CSS Normalize?
+
 - Adjust the default settings to make tags more similar to each other
 - Fix browser bugs and issues
 - Establish a baseline
 
 
 ### Where do resets go relative to the rest of the CSS?
+
 - First, before any other CSS
 
 
-### Whare are at least two HTML elements that have a default margin?
+### What are at least two HTML elements that have a default margin?
+
 - `<h1>` to `<h6>`
 - `<body>`
 - `<ul>`
@@ -128,36 +305,43 @@ for (var i = 1, i <= 100; i++) {
 
 
 ### What are some characteristics of `block` elements
+
 - Full Width of Container
 - Takes a whole line to itself
 - Padding and Margin works as expected
 
 
 ### What are the two common default `display` values that almost all elements have?
+
 - Inline
 - Block
 
 
 ### Explain the Box Model and the layers
+
 - All HTML elements (tags) create a box model
 - The layers of the box model from the inside out are Content, Padding, Border, Margin
 - The box-model describes the rules about how elements get layed out
 
 
 ### If two boxes are side-by-side with a width of `100px` each, padding of `10px` each, and borders of `1px` each, what will the overall width be?
+
 - 244px
 
 
 ### What CSS could we add to the two elements to make them take up 200px wide instead of 244px?
-```css
+
+```
 box-sizing: border-box;
 ```
 
 ### Explain "Adjacent Sibling Collapsing Margins"
+
 - Margins of adjacent siblings will overlap such that the larger of the two margins becomes the gap.
 
 
 ### What are the possible values for the `position` property?
+
 - `static`
 - `fixed`
 - `absolute`
@@ -165,24 +349,29 @@ box-sizing: border-box;
 
 
 ### What is the default value for elements in terms of their `position` property
+
 - `static`
 
 
 ### What can be done to "contain" absolute or fixed positioned elements?
+
 - Nothing
 
 
 ### What are the two main rules of OOCSS
+
 - Separation of structure from design (aka layout from skin)
 - Separation of containers from content (aka layout from components)
 
 
 ### What are some ways to "clear" floats
+
 - `overflow: hidden` or `overflow: auto` on the container
 - Using a pseudo `::after` element with `clear: both`
 
 
 ### What are some of the basic features of Sass
+
 - Variables
 - Nesting
 - Mixins
@@ -190,45 +379,48 @@ box-sizing: border-box;
 - Including Partials
 
 
-
-
-
 # Workflow: Git, GitHub, Bower, NPM, and Gulp
 
 
 ### What is the difference between Git and GitHub
-- Git is a technology tracking code with version control
-- GitHub is a website that allows developers to host git projects
+
+- Git is a version control system: it tracks changes made to a codebase
+- GitHub is a website that allows developers to host git repositories as projects
 
 
 ### What is the purpose of branching?
 
 - To create feature branches to test code before it's committed to the master branch
-- To separate the production ready code (the master branch) from the development code (the dev branch)
+- To separate the production ready code (the `master` branch) from the development code (the `develop` branch)
 
 
 ### What is Bower used for?
+
 - Dependency management for third-party JavaScript and CSS code, mainly for the front-end
 
 
 ### Which command creates the bower.json manifest?
+
 ```sh
 bower init
 ```
 
 ### What is npm used for?
-- Dependency management for third-party JavaScript code, mainly for the back-end but also sometimes for the front-end
+
+- Dependency management for third-party JavaScript code, known as packages or modules
 
 
 ### What is Gulp? And what common tasks can it be used for?
-- It's a build system
+
+- It's a build system (bonus for mentioning streaming)
 - It's a tool that helps facilitate routine tasks
 - Can do concatenation and minification of files
 - Can turn Sass files into CSS files
 - Can do Linting
 - Can start your development servers
-- Can be used with module tools like Browserify and Require.js
+- Can be used with tools like Browserify
 
 
 ### Which file should contain the Gulp task definitions?
+
 - `gulpfile.js` in the project root
