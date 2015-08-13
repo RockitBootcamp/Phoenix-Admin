@@ -163,6 +163,8 @@ $.get('http://jsonplaceholder.typicode.com/posts')
 
 ### Using jQuery write a method for handling keyboard events
 
+> If the stude struggles, let them know that they could use the 'keypress', 'keydown', or 'keyup' event which is very similar to doing a 'click' event
+
 ```js
 // event name can be 'keypress', 'keydown', 'keyup'
 $('some selector').on('keypress', function () {
