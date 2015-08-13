@@ -82,6 +82,17 @@ $('div.foo').html('Hello World');
 - A function that's passed to another function so it can be called later when that function has finished executing
 
 
+### Where have you used callback functions in class?
+
+The most common they've seen are:
+
+- jQuery's "document.ready"
+- Ajax within the `.done()` method
+- jQuery events
+- Backbone routers
+- Backbone views
+
+
 ### What is the difference between `==` and `===`?
 
 - The `==` operator *coerces* values to check equality
