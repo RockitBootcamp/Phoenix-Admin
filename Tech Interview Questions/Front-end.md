@@ -72,21 +72,34 @@ $('div.foo').text('Hello World');
 $('div.foo').html('Hello World');
 ```
 
-### What is the difference between a variable that is `null`, `undefined` or undeclared?
+### What defines a scope in JavaScript?
 
-- a variable that is `null` means it has been explicitly set to null
-- a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
-- a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
-
-
-### Which Array method can be used to get a subset of the array?
-
-- Array.slice()
+- A function
 
 
 ### What is a callback?
 
 - A function that's passed to another function so it can be called later when that function has finished executing
+
+
+### What is the difference between `==` and `===`?
+
+- The `==` operator *coerces* values to check equality
+- The `===` is a strict-equality operator (it does not coerce values)
+- (Bonus:) `===` should be preferred
+
+
+### Assume a button was just clicked, explain event bubbling?
+
+- The button will be considered the target of the click event.
+- Each parent of the target will experience a click event going from the inside-out, from the target towards the `document`
+
+
+### How can event bubbling be canceled?
+
+- `e.preventDefault()`
+- `event.preventDefault()`
+
 
 
 ### Write a loop for summing all of the numbers from 1 to 100. In other words, `1 + 2 + 3 + 4 ... + 100`
@@ -107,9 +120,6 @@ for (var i = 1, i <= 100; i++) {
 - `for..in`
 - `Array#forEach`
 
-### What defines a scope in JavaScript?
-
-- A function
 
 ### What is the `this` keyword, and what is its meaning?
 
@@ -117,6 +127,18 @@ for (var i = 1, i <= 100; i++) {
 - (same as above plus:) or sometimes refers to the `window` object (browsers)
 - (same as above plus:) or `global` in Node.js
 - (bonus) functions change the context of `this`
+
+
+### Using jQuery write a method for handling keyboard events
+
+> If the student struggles, let them know that they could use the 'keypress', 'keydown', or 'keyup' event which is very similar to doing a 'click' event
+
+```js
+// event name can be 'keypress', 'keydown', 'keyup'
+$('some selector').on('keypress', function () {
+  // ...
+})
+```
 
 ### What is an IIFE (pronounced "iffy")?
 
@@ -130,28 +152,9 @@ for (var i = 1, i <= 100; i++) {
 ```
 
 
-### What is the difference between `==` and `===`?
+### Which Array method can be used to get a subset of the array?
 
-- The `==` operator *coerces* values to check equality
-- The `===` is a strict-equality operator (it does not coerce values)
-- (Bonus:) `===` should be preferred
-
-
-### Assume a button was just clicked, explain event bubbling?
-
-- The button will be considered the target of the click event.
-- Each parent of the target will experience a click event going from the inside-out, from the target towards the `document`
-
-
-### How can event bubbling be canceled?
-- `preventDefault()`
-
-
-### Explain hoisting
-
-- A function declaration is hoisted to the top of its scope
-- A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
-
+- Array.slice()
 
 ### Using jQuery, write an AJAX call to `"http://jsonplaceholder.typicode.com/posts"`. When the AJAX call is done, loop and print each post's body using `console.log`.
 
@@ -164,18 +167,6 @@ $.get('http://jsonplaceholder.typicode.com/posts')
       console.log(post.body)
     })
   })
-```
-
-
-### Using jQuery write a method for handling keyboard events
-
-> If the student struggles, let them know that they could use the 'keypress', 'keydown', or 'keyup' event which is very similar to doing a 'click' event
-
-```js
-// event name can be 'keypress', 'keydown', 'keyup'
-$('some selector').on('keypress', function () {
-  // ...
-})
 ```
 
 
@@ -206,6 +197,19 @@ module.exports = {
   multiply: function () {}
 }
 ```
+
+### What is the difference between a variable that is `null`, `undefined` or undeclared?
+
+- a variable that is `null` means it has been explicitly set to null
+- a variable that is `undefined` means it has been declared, but no value has been assigned (bonus: or `undefined` was explicitly assigned)
+- a variable that is undeclared doesn't exist in the code anywhere (bonus: trying to access an undeclared variable will produce a Reference Error)
+
+
+### Explain hoisting
+
+- A function declaration is hoisted to the top of its scope
+- A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
+
 
 
 # MVC with Backbone.js
