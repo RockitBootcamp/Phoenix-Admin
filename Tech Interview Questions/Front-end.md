@@ -187,7 +187,7 @@ function replacer(str) {
 }
 ```
 
-> str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` were-as the code above with the regular expression will replaces all instances of `s`
+> str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` whereas the code above with the regular expression will replaces all instances of `s`
 
 
 ### What is Common JS?
