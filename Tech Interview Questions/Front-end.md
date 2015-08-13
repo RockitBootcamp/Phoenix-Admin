@@ -219,8 +219,9 @@ module.exports = {
 - The view passes data into the template. The template generates HTML from data it receives.
 
 
-### Write a Backbone model with the following default values: name: 'Batman', vehicle: 'Batmobile'
+### Write a Backbone Model with the following values: name: 'Batman', vehicle: 'Batmobile'
 
+First Way, assumes defaults
 ```js
 var Superhero = Backbone.Model.extend({
   defaults: {
@@ -230,18 +231,47 @@ var Superhero = Backbone.Model.extend({
 })
 ```
 
+Second Way, adds values on instance
+```js
+var Superhero = Backbone.Model.extend({});
 
-### Write an example of using a collection to retrieve data from an API
+var batman = new Superhero({
+    name: 'Batman',
+    vehicle: 'Batmobile'
+  })
+```
+
+Third Way, adds values after instance
+```js
+var Superhero = Backbone.Model.extend({});
+
+var batman = new Superhero();
+batman.set('name', 'Batman');
+batman.set('vehicle', 'Batmobile');
+```
+
+### Initiate an instance of `UserCollection` - assume the UserCollection code (class) already exists. Call the appropriate methods to have the collection instance fetch data from the server.
 
 ```js
-myCollection.fetch()
-  .done(function (data) {
-    console.log(data)
-  })
+// This is the part that the student should assume already exists. If they get confused,
+// you can show them this code and read the question again. 
+var UserCollection = Backbone.Collection.extend({
+  url: '/some/path/'
+});
+
+
+// This is what we asked the use to write
+var userCollection = new UserCollection();
+
+userCollection.fetch().done(function (data) {
+  console.log(data)
+})
 ```
 
 
 ### Write a Backbone router that has at least one route with a parameter
+
+> The student can have variance on this solution since there are many ways to do this correctly
 
 ```js
 var Router = Backbone.Router.extend({
@@ -259,14 +289,20 @@ var Router = Backbone.Router.extend({
 
 ### Write a Backbone View that uses Handlebars to render a simple template
 
+- Assume the View uses the `main` element
+- The template's HTML can just be a single tag, hardcoded as a string passed into `Handlebars.compile()`
+
+> The student can have variance on this solution since there are many ways to do this correctly
+
 ```js
 var MyView = Backbone.View.extend({
   el: 'main',
 
-  template: Handlebars.compile('<h1>{{greeting}}</h1>')
+  template: Handlebars.compile('<h1>{{greeting}}</h1>'),
 
   render: function () {
-    this.$el.html(this.template('Hello world'))
+    var result = this.template({greeting: 'Hello world'});
+    this.$el.html(result)
   }
 })
 ```
@@ -276,6 +312,8 @@ var MyView = Backbone.View.extend({
 
 Some students have learned
 
+- jQuery
+- Handlebars
 - Node.js (Express)
 - AngularJS
 - Lodash
