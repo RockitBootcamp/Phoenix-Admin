@@ -42,9 +42,9 @@
 # M4
 
 - [ ] [JS Project](https://github.com/TJBANEY/twitter2project)
-- [ ] CSS Project
-- [ ] Interview
-- [ ] Test Score:
+- [x] CSS Project
+- [x] Interview
+- [x] Test Score: 74.1%
 
 ## Reviews
 
@@ -56,3 +56,7 @@
 ### 7/21/2015
 
 - Finished permission project
+
+### 7/24/15
+- Kris: interview, passed
+- Kris: CSS Dashboard project passed
