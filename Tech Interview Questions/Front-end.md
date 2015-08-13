@@ -126,6 +126,7 @@ for (var i = 1, i <= 100; i++) {
 - `this` refers to the *parent object*
 - (same as above plus:) or sometimes refers to the `window` object (browsers)
 - (same as above plus:) or `global` in Node.js
+- In a jQuery event, the `this` variable refers to the event target
 - (bonus) functions change the context of `this`
 
 
