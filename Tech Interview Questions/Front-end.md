@@ -118,10 +118,16 @@ for (var i = 1, i <= 100; i++) {
 - (same as above plus:) or `global` in Node.js
 - (bonus) functions change the context of `this`
 
-### What is an IIFE ("iffy")?
+### What is an IIFE (pronounced "iffy")?
 
 - Immediately-Invoked Function Expression
-- `(function () {}())`
+- A means to protect code with scope
+
+```js
+(function () {
+
+}())
+```
 
 
 ### What is the difference between `==` and `===`?
@@ -163,7 +169,7 @@ $.get('http://jsonplaceholder.typicode.com/posts')
 
 ### Using jQuery write a method for handling keyboard events
 
-> If the stude struggles, let them know that they could use the 'keypress', 'keydown', or 'keyup' event which is very similar to doing a 'click' event
+> If the student struggles, let them know that they could use the 'keypress', 'keydown', or 'keyup' event which is very similar to doing a 'click' event
 
 ```js
 // event name can be 'keypress', 'keydown', 'keyup'
@@ -180,6 +186,8 @@ function replacer(str) {
   return str.replace(/s/g, 'z')
 }
 ```
+
+> str.replace('s', 'z') is almost the right answer, only it will replace just one letter `s` were-as the code above with the regular expression will replaces all instances of `s`
 
 
 ### What is Common JS?
