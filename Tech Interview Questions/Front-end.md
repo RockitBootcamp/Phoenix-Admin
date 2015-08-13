@@ -2,7 +2,7 @@
 
 ## Guidelines
 
-- Interviews should last 60 or less
+- Interviews should last 60 minutes or less
 - Ask questions from all areas
     - Use discretion to skip or change questions based on student skill level
 - Use Pirate Pad to capture Coding Questions
