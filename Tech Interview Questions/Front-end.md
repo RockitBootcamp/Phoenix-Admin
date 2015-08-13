@@ -16,10 +16,9 @@
 ## Main Sections
 
 - JavaScript / JQuery / DOM
-- CSS
-- DataBases
-- General Computer Science
-- Do you think this student is ready for an EntryLevel/SoftwareI position? General Notes
+- MVC with Backbone.js
+- CSS / Sass
+- Workflow: Git, GitHub, Bower, NPM, and Gulp
 
 
 > Note that the question in each section are ordered from easiest to most difficult to help you gauge student skill
@@ -82,6 +81,24 @@ for (var i = 1, i <= 100; i++) {
 
 ### What is Common JS?
 - A pattern for requiring (or including) JavaScript files known as modules into one-another.
+
+
+
+
+# MVC with Backbone.js
+
+### What does MVC stand for?
+- Model, View, Controller
+
+### What is a router?
+- Code which listens to browser paths and calls functions depending on which path best matches
+
+
+### In Backbone, what is the relationship between a View and a templating engine, such as handlebars?
+- The view is called upon by the router to be rendered.
+- The view holds all the logic for the HTML which will be rendered
+- The view uses collections and models to pass into the template
+- The handlebars template is the actual HTML to be rendered
 
 
 
@@ -156,9 +173,13 @@ box-sizing: border-box;
 
 
 ### What are the two main rules of OOCSS
-
 - Separation of structure from design (aka layout from skin)
 - Separation of containers from content (aka layout from components)
+
+
+### What are some ways to "clear" floats
+- `overflow: hidden` or `overflow: auto` on the container
+- Using a pseudo `::after` element with `clear: both`
 
 
 ### What are some of the basic features of Sass
@@ -200,8 +221,9 @@ bower init
 
 
 ### What is Gulp? And what common tasks can it be used for?
-- A build system
-- A tool that helps facilitate concatenation and minification of files
+- It's a build system
+- It's a tool that helps facilitate routine tasks
+- Can do concatenation and minification of files
 - Can turn Sass files into CSS files
 - Can do Linting
 - Can start your development servers
