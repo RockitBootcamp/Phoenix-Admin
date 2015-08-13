@@ -340,6 +340,7 @@ Some students have learned
 - Adjust the default settings to make tags more similar to each other
 - Fix browser bugs and issues
 - Establish a baseline
+- Resets the rules to be different than the browser's default
 
 
 ### Where do resets go relative to the rest of the CSS?
