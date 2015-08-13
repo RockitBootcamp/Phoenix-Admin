@@ -94,7 +94,7 @@ for (var i = 1, i <= 100; i++) {
 - Code which listens to browser paths and calls functions depending on which path best matches
 
 
-### In Backbone, what is the relationship between a View and a templating engine, such as handlebars?
+### In Backbone, what is the relationship between a View and a templating engine, such as Handlebars?
 - The view is called upon by the router to be rendered.
 - The view holds all the logic for the HTML which will be rendered
 - The view uses collections and models to pass into the template
@@ -211,7 +211,7 @@ box-sizing: border-box;
 - Dependency management for third-party JavaScript and CSS code, mainly for the front-end
 
 
-### Which command creates the package manifest?
+### Which command creates the bower.json manifest?
 ```sh
 bower init
 ```
