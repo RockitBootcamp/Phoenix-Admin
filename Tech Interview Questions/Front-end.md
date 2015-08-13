@@ -131,13 +131,25 @@ for (var i = 1, i <= 100; i++) {
 - (Bonus:) `===` should be preferred
 
 
+### Assume a button was just clicked, explain event bubbling?
+
+- The button will be considered the target of the click event.
+- Each parent of the target will experience a click event going from the inside-out, from the target towards the `document`
+
+
+### How can event bubbling be canceled?
+- `preventDefault()`
+
+
 ### Explain hoisting
 
-- A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
 - A function declaration is hoisted to the top of its scope
+- A variable declaration will be "hoisted" to the top of its scope, but **not** its assignment
 
 
-### Using jQuery, write an AJAX call to `"http://jsonplaceholder.typicode.com/posts"` and print each post body using `console.log`
+### Using jQuery, write an AJAX call to `"http://jsonplaceholder.typicode.com/posts"`. When the AJAX call is done, loop and print each post's body using `console.log`.
+
+> Tip, if the student is confused, let them navigate to the typeicode address in the browser so they can see the JSON it returns.
 
 ```js
 $.get('http://jsonplaceholder.typicode.com/posts')
