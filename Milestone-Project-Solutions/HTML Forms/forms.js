@@ -181,6 +181,23 @@ app.post('/ch9', function (req, res) {
     res.json(result);
 });
 
+app.post('/ch10', function (req, res) {
+    var result = {result: 'Failed', message: "UNKNOWN"};
+
+    // Ensure req.body has firstName input
+    if(req.body.birthday && req.body.birthday.length > 0){
+        result.result = "Success";
+        result.message = "birthday '" + req.body.birthday + "'";
+        result.req = req.body;
+    }
+    else {
+        result.result = "Failed";
+        result.message = "birthday not found or didn't have a value. Ensure the name of the input is 'birthday'";   
+    }
+    
+    res.json(result);
+});
+
 var server = app.listen(3000, function () {
   var host = server.address().address;
   var port = server.address().port;
