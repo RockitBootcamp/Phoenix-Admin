@@ -4,7 +4,7 @@ Name                |  Project Title | Technologies | Description | Resume    | 
 :------------------:|:--------------:|:------------:|:-----------:|:---------:|:-----------:|
 Aaron Suzuki        |✓               |✓             |✓            |✓          |            |   
 Chris Pryor         |               |             |            |          |            |            
-Chris Vandenberg    |✓               |✓             |✓            |          |            |         
+Chris Vandenberg    |✓               |✓             |✓            |✓          |✓            |         
 Derek Doughty       |✓               |✓             |✓            |✓          |            |         
 Duane Winkel        |✓               |✓             |✓            |✓          |            |          
 Karla Moran         |X               |X             |X            |X          |X            |         
