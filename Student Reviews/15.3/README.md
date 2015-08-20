@@ -10,9 +10,9 @@ Duane Winkel        |✓               |✓             |✓            |✓    
 Karla Moran         |X               |X             |X            |X          |X            |         
 Keith Wasielewski   |✓               |✓             |✓            |✓          |            |         
 Levi Donaldson      |✓               |✓             |✓            |✓          |✓            |         
-Matt Lewandowski    |✓               |✓             |✓            |✓          |            |         
-Richard Jeffery     |✓               |✓             |            |✓          |            |         
-Ryan Medina         |✓               |             |✓            |✓          |            |         
+Matt Lewandowski    |✓               |✓             |✓            |✓          |✓            |         
+Richard Jeffery     |✓               |✓             |✓            |✓          |✓            |         
+Ryan Medina         |✓               |✓             |✓            |✓          |✓            |         
 R. Wade Taylor      |✓               |✓             |✓            |✓          |✓            |         
 Timothy Baney       |✓               |✓             |✓            |✓          |            |         
 Troy Mullaney       |✓               |✓             |✓            |✓          |            |         
