@@ -1,9 +1,10 @@
 # M1
 
 - [ ] Project
-- [ ] Interview
-- [ ] Test Score: 89.8%
+- [x] Interview
+- [x] Test Score: 86.4%
 
 ## Reviews
 
 ### 8/21/2015
+- Kris: Interview, passed. 
