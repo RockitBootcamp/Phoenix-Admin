@@ -2,7 +2,7 @@
 
 Name                |  Project Title | Technologies | Description | Resume    | Screen Shot |
 :------------------:|:--------------:|:------------:|:-----------:|:---------:|:-----------:|
-Aaron Suzuki        |✓               |✓             |✓            |✓          |            |   
+Aaron Suzuki        |✓               |✓             |✓            |✓          |✓            |   
 Chris Pryor         |               |             |            |          |            |            
 Chris Vandenberg    |✓               |✓             |✓            |✓          |✓            |         
 Derek Doughty       |✓               |✓             |✓            |✓          |            |         
@@ -16,7 +16,7 @@ Ryan Medina         |✓               |✓             |✓            |✓    
 R. Wade Taylor      |✓               |✓             |✓            |✓          |✓            |         
 Timothy Baney       |✓               |✓             |✓            |✓          |            |         
 Troy Mullaney       |✓               |✓             |✓            |✓          |            |         
-Will Fortin         |✓               |✓             |✓            |✓          |            |        
+Will Fortin         |✓               |✓             |✓            |✓          |✓            |        
 
 ## Milestone 4
 
