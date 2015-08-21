@@ -3,7 +3,7 @@
 Name                |  Project Title | Technologies | Description | Resume    | Screen Shot |
 :------------------:|:--------------:|:------------:|:-----------:|:---------:|:-----------:|
 Aaron Suzuki        |✓               |✓             |✓            |✓          |✓            |   
-Chris Pryor         |               |             |            |          |            |            
+Chris Pryor         |✓               |✓             |✓            |✓          |✓            |            
 Chris Vandenberg    |✓               |✓             |✓            |✓          |✓            |         
 Derek Doughty       |✓               |✓             |✓            |✓          |✓            |         
 Duane Winkel        |✓               |✓             |✓            |✓          |            |          
