@@ -1,7 +1,7 @@
 
 Name            | Project | Interview | Test |
 :--------------:|:-------:|:---------:|:----:|
-Brian Goble     |         |          | |
+Brian Goble     |x        |x          |89.8% |
 Bryan Pena      |         |          | |
 Chris Igaya     |         |          | |
 Danelle Elkins  |         |          | |
