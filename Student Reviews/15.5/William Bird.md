@@ -7,3 +7,4 @@
 ## Reviews
 
 ### 8/21/2015
+- Daniel: project was good, but indenting/formatting needs to be fixed up
