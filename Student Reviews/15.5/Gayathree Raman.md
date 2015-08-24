@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
 - [x] Test Score: 81.4%
 
@@ -15,3 +15,4 @@
   - CSS: no parts passed, needs to review all
   - HTTP: not passed
   - PHP: did not get to
+- Daniel: passed project
