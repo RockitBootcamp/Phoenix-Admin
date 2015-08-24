@@ -3,7 +3,7 @@ Name            | Project | Interview | Test |
 :--------------:|:-------:|:---------:|:----:|
 Brian Goble     |✓        |✓          |89.8% |
 Bryan Pena      |         |          |61.0% |
-Chris Igaya     |         |          |74.6% |
+Chris Igaya     |x         |          |74.6% |
 Danelle Elkins  |✓        |✓          |89.8% |
 Gayathree Raman |         |          |81.4% |
 John Shockey    |✓        |✓          |89.8% |
