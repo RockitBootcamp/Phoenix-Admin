@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
 - [ ] Test Score: 89.8%
 
@@ -19,3 +19,4 @@
   - browse page has bullets next to product names
   - one page had the header statically instead of including it
   - missing open body tag on one page
+- Daniel: passed project
