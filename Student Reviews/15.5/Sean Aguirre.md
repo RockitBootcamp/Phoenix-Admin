@@ -2,9 +2,12 @@
 
 - [x] Project
 - [ ] Interview
-- [ ] Test Score: 89.8%
+- [x] Test Score: 81.4%
 
 ## Reviews
 
 ### 8/21/2015
 - Daniel: project passed
+
+### 8/24/2015
+- Kris: Interview, passed
