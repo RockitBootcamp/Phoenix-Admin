@@ -12,3 +12,10 @@
   - background needs to be set in CSS not with a background tag attribute
   - one page was missing close body and html tags
   - several pages had two body tags
+
+### 8/24/2015
+- Daniel:
+  - product page still needs to look more like the spec
+  - browse page has bullets next to product names
+  - one page had the header statically instead of including it
+  - missing open body tag on one page
