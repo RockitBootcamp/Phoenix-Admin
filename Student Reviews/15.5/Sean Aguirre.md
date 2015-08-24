@@ -1,7 +1,7 @@
 # M1
 
 - [x] Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 81.4%
 
 ## Reviews
