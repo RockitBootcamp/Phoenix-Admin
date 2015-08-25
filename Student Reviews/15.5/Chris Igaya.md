@@ -1,8 +1,8 @@
 # M1
 
 - [x] Project
-- [ ] Interview
-- [ ] Test Score: 89.8%
+- [x] Interview
+- [x] Test Score: 89.8%
 
 ## Reviews
 
@@ -20,3 +20,11 @@
   - one page had the header statically instead of including it
   - missing open body tag on one page
 - Daniel: passed project
+- Daniel: interview
+  - HTML: passed
+  - CSS: passed
+  - PHP: need more work on types and type casting
+  - Misc: need more work on GET/POST
+
+### 8/22/2015
+- Daniel: interview, passed remaining parts
