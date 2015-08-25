@@ -1,9 +1,15 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
-- [ ] Test Score: 89.8%
+- [x] Test Score: 78%
 
 ## Reviews
 
-### 8/21/2015
+### 8/25/2015
+
+- Kris: project, passed
+
+- Kris: interview
+  - HTML, CSS, MISC - all passed
+  - PHP: passed basic concepts, didn't get to the rest
