@@ -1,7 +1,7 @@
 # M1
 
 - [x] Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 81.4%
 
 ## Reviews
@@ -16,3 +16,6 @@
   - HTTP: not passed
   - PHP: did not get to
 - Daniel: passed project
+
+### 8/24/15
+- Kris: Interview, passed
