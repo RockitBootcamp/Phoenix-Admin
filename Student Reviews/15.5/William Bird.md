@@ -2,7 +2,7 @@
 
 - [x] Project
 - [ ] Interview
-- [ ] Test Score: 89.8%
+- [x] Test Score: 89.8%
 
 ## Reviews
 
@@ -11,3 +11,8 @@
 
 ### 8/25/2015
 - Daniel: passed project
+- Daniel: Interview
+  - HTML: passed
+  - CSS: review block/inline/inline-block
+  - PHP: passed
+  - Misc: passed
