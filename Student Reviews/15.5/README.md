@@ -11,7 +11,7 @@ Jenna Connolly  |✓        |✓          |78.0% |
 Jimmy Cozza     |✓        |✓          |89.8% |
 Jordan Slattery |✓        |✓          |84.7% |
 Kyle Lehtinen   |✓        |✓          |86.4% |
-Mark Nichols    |         |✓          |76.3% |
-Melissa Rafalski|         |           |78.0% |
+Mark Nichols    |✓        |✓          |76.3% |
+Melissa Rafalski|✓        |           |78.0% |
 Sean Aguirre    |✓        |✓          |81.4% |
 William Bird    |✓        |           |81.4% |
