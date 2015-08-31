@@ -19,9 +19,10 @@
 
 # M2
 
-- [ ] Project
+- [x] PHP Project
+- [ ] CSS Project
 - [ ] Interview
-- [ ] Test Score:
+- [ ] Test Score: 
 
 ### 8/31/2015
 - Daniel:
