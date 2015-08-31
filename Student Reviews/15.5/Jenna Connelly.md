@@ -18,7 +18,7 @@
 
 - [x] Project
 - [x] Interview
-- [ ] Test Score:
+- [x] Test Score: 62.5%
 
 ### 8/31/2015
 - Kris: Interview - passed
