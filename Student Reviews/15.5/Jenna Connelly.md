@@ -17,11 +17,11 @@
 # M2
 
 - [ ] Project
-- [ ] Interview
-- [ ] Test Score:
+- [x] Interview
+- [x] Test Score: 62.5%
 
 ### 8/31/2015
-- Kris: Interview - passed?
+- Kris: Interview - passed
 - Daniel: 
   - PHP project:
     - attn to detail on header (links in correct order and margins)
