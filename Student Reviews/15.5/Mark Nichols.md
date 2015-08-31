@@ -19,10 +19,11 @@
 
 # M2
 
-- [ ] Project
+- [ ] PHP Project
+- [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score:
  
 ### 8/31/2015
 - Daniel: php project: numeric but invalid product ids causing an error
-- 
+
