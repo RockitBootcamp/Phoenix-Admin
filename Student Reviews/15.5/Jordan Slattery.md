@@ -30,6 +30,6 @@
     - fix up if statement in view.php. Currently has several different variables used at same if-level
   - CSS Project
     - seperate layout from design per Brad's talk on flex-box
-
+- Daniel: PHP project is done
 - Kris: Interview, not passed
   - passed all except the CSS: Box Model & CSS: Flexbox
