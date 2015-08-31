@@ -13,13 +13,13 @@ Kris - project review, passed
 ### 8/24/2015
 - Kris: Interview, passed
 
-#M2
-
-- [ ] PHP Project
-- [ ] CSS Project
+# M2
+- [ ] Project
 - [ ] Interview
-- [ ] test; score: 
+- [ ] Test Score:
 
 ### 8/31/2015
 - Daniel: PHP project: needed to handle invalid inputs better
-
+- Daniel:
+  - PHP project: invalid prod-id's causing php error
+  - css project: better seperation of layout vs. components & git rid of hr tags
