@@ -20,7 +20,8 @@
 
 # M2
 
-- [ ] Project
+- [ ] PHP Project
+- [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score:
 
