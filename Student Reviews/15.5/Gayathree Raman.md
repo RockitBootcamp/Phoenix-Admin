@@ -19,3 +19,10 @@
 
 ### 8/24/15
 - Kris: Interview, passed
+
+#M2
+
+- [ ] PHP Project
+- [ ] CSS Project
+- [ ] Interview
+- [x] test score: 100%
