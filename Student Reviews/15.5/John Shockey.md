@@ -12,3 +12,7 @@ Kris - project review, passed
 
 ### 8/24/2015
 - Kris: Interview, passed
+
+### 8/31/2015
+- Daniel: PHP project: needed to handle invalid inputs better
+- 
