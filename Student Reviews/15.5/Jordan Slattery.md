@@ -20,7 +20,7 @@
 
 - [ ] Project
 - [ ] Interview
-- [ ] Test Score:
+- [x] Test Score: 68.8%
  
 ### 8/31/2015
 - Daniel: 
@@ -29,3 +29,6 @@
     - fix up if statement in view.php. Currently has several different variables used at same if-level
   - CSS Project
     - seperate layout from design per Brad's talk on flex-box
+
+- Kris: Interview, not passed
+- passed all except the CSS: Box Model & CSS: Flexbox
