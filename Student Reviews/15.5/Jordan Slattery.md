@@ -16,9 +16,10 @@
   - PHP: passed
   - Misc: passed
 
-# M2
+#M2
 
-- [ ] Project
+- [ ] PHP Project
+- [ ] CSS Project
 - [ ] Interview
 - [x] Test Score: 68.8%
  
