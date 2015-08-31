@@ -28,3 +28,10 @@
 
 ### 8/22/2015
 - Daniel: interview, passed remaining parts
+
+#M2
+
+- [ ] PHP Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] test score: 
