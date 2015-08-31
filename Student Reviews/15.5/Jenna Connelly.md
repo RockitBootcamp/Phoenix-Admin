@@ -13,3 +13,20 @@
 ### 8/19/2015
 
 - Kris: Interview Passed 
+
+# M1
+
+- [ ] Project
+- [ ] Interview
+- [ ] Test Score:
+
+### 8/31/2015
+- Kris: Interview - passed?
+- Daniel: 
+  - PHP project:
+    - attn to detail on header (links in correct order and margins)
+    - put labels on form fields
+  - CSS project:
+    - seperate layout from components
+    - remove hr and br tags
+  
