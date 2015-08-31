@@ -16,9 +16,9 @@
 
 # M2
 
-- [ ] Project
+- [x] Project
 - [x] Interview
-- [x] Test Score: 62.5%
+- [ ] Test Score:
 
 ### 8/31/2015
 - Kris: Interview - passed
@@ -29,4 +29,5 @@
   - CSS project:
     - seperate layout from components
     - remove hr and br tags
+- Daniel: passed php and css projects
   
