@@ -16,3 +16,13 @@
 ### 8/25/2015
 - Kris: interview passed
   - we worked a lot on logic, but he seemed to do a lot better today than yesterday. 
+
+# M2
+
+- [ ] Project
+- [ ] Interview
+- [ ] Test Score:
+ 
+### 8/31/2015
+- Daniel: php project: numeric but invalid product ids causing an error
+- 
