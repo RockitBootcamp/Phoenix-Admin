@@ -16,3 +16,15 @@
   - CSS: passed
   - PHP: passed
   - Misc: passed
+
+
+# M2
+
+- [ ] Project
+- [ ] Interview
+- [ ] Test Score:
+
+### 8/31/2015
+- Daniel: 
+  - php project: get rid of loop in view.php
+  - css project: make all three inputs use same class
