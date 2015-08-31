@@ -13,10 +13,12 @@ Kris - project review, passed
 ### 8/24/2015
 - Kris: Interview, passed
 
-# M2
-- [ ] Project
+#M2
+
+- [ ] PHP Project
+- [ ] CSS Project
 - [ ] Interview
-- [ ] Test Score:
+- [ ] test score: 
 
 ### 8/31/2015
 - Daniel: PHP project: needed to handle invalid inputs better
