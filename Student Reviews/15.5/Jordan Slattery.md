@@ -31,4 +31,4 @@
     - seperate layout from design per Brad's talk on flex-box
 
 - Kris: Interview, not passed
-- passed all except the CSS: Box Model & CSS: Flexbox
+  - passed all except the CSS: Box Model & CSS: Flexbox
