@@ -9,11 +9,12 @@
 ### 8/21/2015
 - Kris: Interview, passed. 
 
-# M2
+#M2
 
-- [x] Project
+- [x] PHP Project
+- [x] CSS Project
 - [ ] Interview
-- [ ] Test Score:
+- [x] test score: 87.5%
 
 ### 8/31/2015
 - Daniel:Passed PHP and CSS projects
