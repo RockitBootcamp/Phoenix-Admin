@@ -16,7 +16,8 @@
 
 # M2
 
-- [x] Project
+- [x] PHP Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 62.5%
 
