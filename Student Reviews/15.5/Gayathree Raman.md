@@ -21,7 +21,7 @@
 - Kris: Interview, passed
 
 #M2
-- [ ] PHP Project
+- [x] PHP Project
 - [ ] CSS Project
 - [ ] Interview
 - [x] test score: 100%
