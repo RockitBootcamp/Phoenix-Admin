@@ -1,7 +1,7 @@
 # M1
 
 - [x] Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 89.8%
 
 ## Reviews
@@ -16,6 +16,8 @@
   - CSS: review block/inline/inline-block
   - PHP: passed
   - Misc: passed
+### 9/1/2015
+  - Daniel: I covered this with Billy last week sometime. He's passed.
 
 # M2
 - [x] PHP Project
