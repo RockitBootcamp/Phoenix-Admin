@@ -34,4 +34,11 @@
 - [ ] PHP Project
 - [ ] CSS Project
 - [ ] Interview
-- [ ] test score: 
+- [ ] test score:
+
+### 9/1/2015
+- Daniel:
+  - PHP Project:
+    - invalid product_id or no quantity both cause "undefined index" php error
+    - 7 limit should only apply to macs
+
