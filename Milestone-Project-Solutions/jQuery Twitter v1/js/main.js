@@ -1,23 +1,17 @@
 $(function() {
 
-	/**
-	 * User Object
-	 */
+ 	// User Object
 	var User = {
 		handle: '@bradwestfall',
 		img: 'brad.png'
 	}
 
-	/**
-	 * Handlebars compile variables for each templating function
-	 */
+	// Handlebars compile variables for each templating function
 	var templTweet = Handlebars.compile($('#template-tweet').html());
 	var templCompose = Handlebars.compile($('#template-compose').html());
 	var templThread = Handlebars.compile($('#template-thread').html());
 
-	/**
-	 * Render Tweet
-	 */
+	// Render Tweet
 	var renderTweet = function(User, message) {
 		return templTweet({
 			message: message,
@@ -26,9 +20,7 @@ $(function() {
 		});
 	}
 
-	/**
-	 * Render Thread
-	 */
+	// Render Thread
 	var renderThread = function(User, message) {
 		return templThread({
 			tweet: renderTweet(User, message),
@@ -36,14 +28,11 @@ $(function() {
 		});
 	}
 
-	/**
-	 * Expand Compose Textarea
-	 */
+	// Expand Compose Textarea
 	$('main').on('click', '.compose textarea', function() {
 		$(this).parents('.compose').addClass('expand');
-		/** 
-		 *Extra credit character count decreases 
-		**/	
+
+		// Extra credit: character count decrement
 		var count = $(this).parent().find('.count')
 		$(this).keyup(function(event){
 			count.html(140 - this.value.length)
@@ -51,30 +40,23 @@ $(function() {
 				count.css('color', 'red')
 			}
 		})
-		/**
-		 * Extra credit ends
-		 **/
 	});
 
-	/**
-	 * Expand Tweet
-	 */
+	// Expand Tweet
 	$('.tweets').on('click', '.thread > .tweet', function() {
 		$(this).parents('.thread').toggleClass('expand');
 	});
 
-	/**
-	 * Compose Tweet
-	 */
+	// Compose Tweet
 	$('main').on('submit', '.compose', function(e) {
 		e.preventDefault();
 		var textarea = $(this).find('textarea');
 		var message = textarea.val();
-		
+
 		// Compose
-		if ($(this).parent('div').hasClass('replies')) {
+		if ($(this).parent().hasClass('replies')) {
 			var tweet = renderTweet(User, message);
-			$(this).parents('.replies').append(tweet);
+			$(this).parent().append(tweet);
 		} else {
 			var thread = renderThread(User, message);
 			$('.tweets').append(thread);
