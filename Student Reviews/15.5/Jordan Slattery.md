@@ -20,7 +20,7 @@
 
 - [x] PHP Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 68.8%
  
 ### 8/31/2015
@@ -33,3 +33,6 @@
 - Daniel: PHP project is done
 - Kris: Interview, not passed
   - passed all except the CSS: Box Model & CSS: Flexbox
+
+### 9/1/2015
+- Kris: Interview, passed
