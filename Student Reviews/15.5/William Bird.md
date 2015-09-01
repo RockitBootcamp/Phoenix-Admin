@@ -20,7 +20,7 @@
 # M2
 
 - [x] PHP Project
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
 
@@ -30,3 +30,7 @@
   - css project:
     - no hr tags
     - seperate layout from component layout
+
+### 9/1/2015
+- Daniel: passed css project
+-
