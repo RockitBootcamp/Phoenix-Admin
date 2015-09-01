@@ -5,7 +5,7 @@ Name            | PHP Project | CSS Project | Interview | Test |
 :--------------:|:-----------:|:-----------:|:---------:|:----:|
 Brian Goble     |✓            |✓            |✓          |87.5% |
 Chris Igaya     |             |             |           |      |
-Danelle Elkins  |            |             |           | |
+Danelle Elkins  |✓            |✓            |           | |
 Gayathree Raman |             |             |           |100%  |
 John Shockey    |             |             |           | |
 Jenna Connolly  |✓            |✓            |✓          |62.5% |
