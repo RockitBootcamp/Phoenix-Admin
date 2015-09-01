@@ -22,7 +22,7 @@
 
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score:
 
 ### 8/31/2015
@@ -30,3 +30,8 @@
   - php project: get rid of loop in view.php
   - css project: make all three inputs use same class
 - Daniel: passed both
+- Daniel: Interview
+  - HTML: passed
+  - CSS: passed
+  - PHP: passed
+  - Misc: passed
