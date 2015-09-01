@@ -18,7 +18,7 @@
 
 # M2
 - [x] PHP Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score:78.1%
 
@@ -28,5 +28,9 @@
   - CSS Project needs work
     - seperate layout from components as Brad talked about
     - collapse styling for input fields (get rid of first, last, email distinction)
-    
+  
 - Kris: Interview, passed
+
+### 9/1/2015
+- Daniel
+  - CSS Project passed
