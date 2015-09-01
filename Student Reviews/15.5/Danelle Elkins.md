@@ -29,3 +29,4 @@
 - Daniel: 
   - php project: get rid of loop in view.php
   - css project: make all three inputs use same class
+- Daniel: passed both
