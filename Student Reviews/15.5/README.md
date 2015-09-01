@@ -14,7 +14,7 @@ Jordan Slattery |✓            |             |✓          |68.8% |
 Kyle Lehtinen   |✓            |✓            |✓          |87.5% |
 Mark Nichols    |             |             |           | |
 Melissa Rafalski|             |             |           | |
-Sean Aguirre    |             |             |           | |
+Sean Aguirre    |✓            |✓            |           | |
 William Bird    |✓            |             |           | |
 
 
