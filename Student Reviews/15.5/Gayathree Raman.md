@@ -21,8 +21,15 @@
 - Kris: Interview, passed
 
 #M2
-
 - [ ] PHP Project
 - [ ] CSS Project
 - [ ] Interview
 - [x] test score: 100%
+- Daniel:
+  - PHP project:
+    - visual details need to more closely match the example: font sizes & title spelling
+    - header is missing on some pages. On view.php it is above the doctype
+    - products.php needs to be included on browse, view is good
+  
+
+
