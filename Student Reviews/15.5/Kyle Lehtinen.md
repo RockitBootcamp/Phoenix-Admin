@@ -13,8 +13,13 @@
 
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] test score: 87.5%
 
 ### 8/31/2015
 - Daniel:Passed PHP and CSS projects
+- Brig: Passed Interview
+  - Review how labels work
+  - Review psudo selectors
+  - Review Flex
+  - Review array adding
