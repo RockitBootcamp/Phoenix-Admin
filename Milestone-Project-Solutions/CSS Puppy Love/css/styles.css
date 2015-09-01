@@ -8,16 +8,16 @@ https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-pract
 */
 
 html {
-    box-sizing: border-box;
-    color: #444;
-    font: 12pt 'Open Sans', Arial;
-    font-weight: normal;
+  box-sizing: border-box;
+  color: #444;
+  font: 12pt 'Open Sans', Arial;
+  font-weight: normal;
 }
 
 *, *::before, *::after {
-    box-sizing: inherit;
-    color: inherit;
-    font: inherit;
+  box-sizing: inherit;
+  color: inherit;
+  font: inherit;
 }
 
 
@@ -27,13 +27,13 @@ html {
 *****************************************/
 
 body {
-	background-color: #D7E1E7;
+  background-color: #D7E1E7;
 }
 
 button {
-	background-color: #EA501A;
-	border: none;
-	border-radius: 3px;
+  background-color: #EA501A;
+  border: none;
+  border-radius: 3px;
 }
 
 
@@ -46,8 +46,8 @@ button {
  */
 
 .panel > div {
-	margin: 0 auto;
-	width: 960px;
+  margin: 0 auto;
+  width: 960px;
 }
 
 /**
@@ -55,14 +55,14 @@ button {
  */
 
 .hero {
-	background: radial-gradient(rgba(3, 143, 170, 0.57), #038FAA) fixed, url('../images/bg.jpg');
-	background-size: cover;
+  background: radial-gradient(rgba(3, 143, 170, 0.57), #038FAA) fixed, url('../images/bg.jpg');
+  background-size: cover;
 }
 
 .hero > div {
-	height: 450px;
-	position: relative; /* For the .intro section */
-	color: #FFF; /* To cascase white as the default color of this area */
+  height: 450px;
+  position: relative; /* For the .intro section */
+  color: #FFF; /* To cascase white as the default color of this area */
 }
 
 
@@ -71,62 +71,62 @@ button {
  */
 
 .primary-header {
-	position: relative;
-	height: 150px;
+  position: relative;
+  height: 150px;
 }
 
 .primary-header a {
-	color: #FFF;
+  color: #FFF;
 }
 
 .primary-header a.logo {
-	display: block;
-	position: absolute;
-	left: 5px;
-	top: 5px;
-	font-size: 40pt;
-	font-family: Lobster;
-	text-decoration: none;
+  display: block;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  font-size: 40pt;
+  font-family: Lobster;
+  text-decoration: none;
 }
 
 .primary-header form.search {
-	position: absolute;
-	right: 0;
-	top: 15px;
+  position: absolute;
+  right: 0;
+  top: 15px;
 }
 
 .primary-header form.search input {
-	border: 1px solid rgba(255,255,255,0.5);
-	background-color: transparent;
-	color: #FFF;
-	font-weight: 100;
-	font-size: 10pt;
-	padding: 3px;
+  border: 1px solid rgba(255,255,255,0.5);
+  background-color: transparent;
+  color: #FFF;
+  font-weight: 100;
+  font-size: 10pt;
+  padding: 3px;
 }
 
 .primary-header form.search input:focus {
-	outline: none;
+  outline: none;
 }
 
 .primary-header form.search input::-webkit-input-placeholder {
-	color: rgba(255,255,255,0.5)
+  color: rgba(255,255,255,0.5)
 }
 
 .primary-header nav {
-	border: 1px solid rgba(255,255,255,0.5);
-	border-left: none;
-	border-right: none;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	text-align: center;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-left: none;
+  border-right: none;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 
 .primary-header nav a {
-	display: inline-block;
-	text-decoration: none;
-	padding: 15px 20px;
-	font-weight: 100;
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 20px;
+  font-weight: 100;
 }
 
 /**
@@ -134,16 +134,16 @@ button {
  */
 
 .hero .intro {
-	position: absolute;
-	bottom: 30px;
-	width: 100%;
-	text-align: center;
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+  text-align: center;
 }
 
 .hero .intro h1 {
-	font-size: 30pt;
-	font-weight: 100;
-	margin: 0;
+  font-size: 30pt;
+  font-weight: 100;
+  margin: 0;
 }
 
 /**
@@ -151,20 +151,20 @@ button {
  */
 
 .primary-content {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .primary-content > div {
-	/*position: relative;*/
+  /*position: relative;*/
 }
 
 .primary-content aside {
-	float: left;
-	width: 400px;
+  float: left;
+  width: 400px;
 }
 
 .primary-content main {
-	margin-left: 410px;
+  margin-left: 410px;
 }
 
 
@@ -177,51 +177,51 @@ button {
  */
 
 .breakouts {
-	text-align: center;
+  text-align: center;
 }
 
 .breakouts .breakout {
-	display: inline-block;
-	width: 300px;
-	min-height: 120px;
-	margin: 0 5px;
-	transform: translateY(-20px);
-	border-top-width: 4px;
-	border-top-style: solid;
+  display: inline-block;
+  width: 300px;
+  min-height: 120px;
+  margin: 0 5px;
+  transform: translateY(-20px);
+  border-top-width: 4px;
+  border-top-style: solid;
 }
 
 .breakouts .breakout button {
-	border-width: 2px;
-	border-style: solid;
-	border-radius: 5px;
-	background: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  background: transparent;
 }
 
 /** Orange Box **/
 .breakouts .breakout:nth-child(1) {
-	border-top-color: #EA501A;
+  border-top-color: #EA501A;
 }
 .breakouts .breakout:nth-child(1) button {
-	border-color: #EA501A;
-	color: #EA501A;
+  border-color: #EA501A;
+  color: #EA501A;
 }
 
 /** Green Box **/
 .breakouts .breakout:nth-child(2) {
-	border-top-color: #8ECF41;
+  border-top-color: #8ECF41;
 }
 .breakouts .breakout:nth-child(2) button {
-	border-color: #8ECF41;
-	color: #8ECF41;
+  border-color: #8ECF41;
+  color: #8ECF41;
 }
 
 /** Blue Box **/
 .breakouts .breakout:nth-child(3) {
-	border-top-color: #0792D3;
+  border-top-color: #0792D3;
 }
 .breakouts .breakout:nth-child(3) button {
-	border-color: #0792D3;
-	color: #0792D3;
+  border-color: #0792D3;
+  color: #0792D3;
 }
 
 
@@ -230,11 +230,11 @@ button {
  */
 
 .content-box {
-	padding: 10px;
-	background-color: #FFF;
-	border: 1px solid #C7D3DA;
-	-webkit-box-shadow: 0 0 10px -5px #000;
-	box-shadow: 0 0 10px -4px #000;
+  padding: 10px;
+  background-color: #FFF;
+  border: 1px solid #C7D3DA;
+  -webkit-box-shadow: 0 0 10px -5px #000;
+  box-shadow: 0 0 10px -4px #000;
 }
 
 /**
@@ -242,29 +242,29 @@ button {
  */
 
 .puppy-list > * + * {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 .puppy-list-item {
-	overflow: hidden;
-	background-color: #E8F3F9;
+  overflow: hidden;
+  background-color: #E8F3F9;
 }
 
 .puppy-list-item img {
-	width: 80px;
-	height: 80px;
-	float: left;
+  width: 80px;
+  height: 80px;
+  float: left;
 }
 
 .puppy-list-item .content {
-	margin-left: 90px;
+  margin-left: 90px;
 }
 
 .puppy-list-item h3 {
-	margin: 0;
-	color: #0792D3;
-	font-size: 16pt;
-	font-weight: 100;
+  margin: 0;
+  color: #0792D3;
+  font-size: 16pt;
+  font-weight: 100;
 }
 
 
@@ -273,35 +273,34 @@ button {
  */
 
 .puppy-tiles > .puppy-tile {
-	margin-right: 10px;
-	margin-bottom: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .puppy-tile {
-	display: inline-block;
-	width: 160px;
-	vertical-align: top;
-	color: #3C6807;
+  display: inline-block;
+  width: 160px;
+  vertical-align: top;
+  color: #3C6807;
 }
 
 .puppy-tile img {
-	width: 160px;
-	height: 160px;
-	display: block;
+  width: 160px;
+  height: 160px;
+  display: block;
 }
 
 .puppy-tile .content {
-	background-color: #E3EFD6;
+  background-color: #E3EFD6;
 }
 
 .puppy-tile h3 {
-	margin: 0;
-	padding: 2px 5px;
-	background-color: #8ECF41;
-	font-weight: 100;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #8ECF41;
+  font-weight: 100;
 }
 
 .puppy-tile .description {
-	padding: 5px;
+  padding: 5px;
 }
-
