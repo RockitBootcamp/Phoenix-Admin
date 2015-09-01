@@ -14,8 +14,8 @@
 
 # M2
 
-- [ ] PHP Project
-- [ ] CSS Project
+- [x] PHP Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
 
@@ -23,3 +23,8 @@
 - Daniel: 
   - PHP project:
     - negative numbers don't produce an "invalid quantity" message
+
+- Kris: 
+  - PHP project, passed. 
+    - negative numbers produce "invalid" message now
+  - CSS project
