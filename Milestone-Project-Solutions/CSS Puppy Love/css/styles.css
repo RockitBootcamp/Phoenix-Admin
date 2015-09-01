@@ -164,7 +164,7 @@ button {
 }
 
 .primary-content main {
-  margin-left: 410px;
+  margin-left: 10px;
 }
 
 
@@ -230,6 +230,7 @@ button {
  */
 
 .content-box {
+  display: flex;
   padding: 10px;
   background-color: #FFF;
   border: 1px solid #C7D3DA;
@@ -241,23 +242,29 @@ button {
  * Product List
  */
 
+.puppy-list {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
 .puppy-list > * + * {
   margin-top: 10px;
 }
 
 .puppy-list-item {
-  overflow: hidden;
+  display: flex;
   background-color: #E8F3F9;
 }
 
 .puppy-list-item img {
   width: 80px;
   height: 80px;
-  float: left;
 }
 
 .puppy-list-item .content {
-  margin-left: 90px;
+  flex: 1;
+  margin-left: 10px;
 }
 
 .puppy-list-item h3 {
@@ -272,22 +279,22 @@ button {
  * Product Tiles
  */
 
-.puppy-tiles > .puppy-tile {
-  margin-right: 10px;
-  margin-bottom: 10px;
+.puppy-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .puppy-tile {
-  display: inline-block;
-  width: 160px;
-  vertical-align: top;
+  width: calc(33.33% - 5px);
   color: #3C6807;
+  margin-bottom: 10px;
 }
 
 .puppy-tile img {
-  width: 160px;
-  height: 160px;
   display: block;
+  width: 100%;
+  height: 170px;
 }
 
 .puppy-tile .content {
