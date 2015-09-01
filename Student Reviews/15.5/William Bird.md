@@ -18,7 +18,6 @@
   - Misc: passed
 
 # M2
-
 - [x] PHP Project
 - [x] CSS Project
 - [ ] Interview
@@ -33,4 +32,4 @@
 
 ### 9/1/2015
 - Daniel: passed css project
--
+
