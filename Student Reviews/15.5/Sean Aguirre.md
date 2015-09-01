@@ -18,3 +18,8 @@
 - [ ] CSS Project
 - [ ] Interview
 - [ ] Test Score: 
+
+### 9/1/2015
+- Daniel: 
+  - PHP project:
+    - negative numbers don't produce an "invalid quantity" message
