@@ -30,6 +30,9 @@
     - visual details need to more closely match the example: font sizes & title spelling
     - header is missing on some pages. On view.php it is above the doctype
     - products.php needs to be included on browse, view is good
+- Daniel:
+  - php project is done
+  - css project: needs better seperation of layout and components
   
 
 
