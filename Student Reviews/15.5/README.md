@@ -5,7 +5,7 @@ Name            | PHP Project | CSS Project | Interview | Test |
 :--------------:|:-----------:|:-----------:|:---------:|:----:|
 Brian Goble     |✓            |✓            |✓          |87.5% |
 Chris Igaya     |             |             |           |      |
-Danelle Elkins  |✓            |✓            |           | |
+Danelle Elkins  |✓            |✓            |✓          |78.1% |
 Gayathree Raman |✓            |             |           |100%  |
 John Shockey    |             |             |           |84.4% |
 Jenna Connolly  |✓            |✓            |✓          |62.5% |
@@ -15,7 +15,7 @@ Kyle Lehtinen   |✓            |✓            |✓          |87.5% |
 Mark Nichols    |             |             |           | |
 Melissa Rafalski|             |             |           | |
 Sean Aguirre    |✓            |✓            |           | |
-William Bird    |✓            |             |           | |
+William Bird    |✓            |✓            |           |75% |
 
 
 
