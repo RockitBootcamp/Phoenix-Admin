@@ -35,3 +35,13 @@
 ### 9/1/2015
 - Daniel: passed css project
 
+### 9/2/2015 
+- Brig: Failed Interview. (Passed HTML, CSS, gave him the East Cost problem but failed.)  Needs to study:
+  - Study Label tag
+  - Study forms
+  - Study	box-sizing: border-box;
+  - Study adding items to an array
+  - Study Logic
+  - Study Loops and Github
+	
+
