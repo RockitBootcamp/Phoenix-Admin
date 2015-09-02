@@ -1,9 +1,11 @@
-<div class="tweet" id="tweet-{{id}}">
+<article class="tweet" id="tweet-{{id}}">
   {{#user}}
-  <img src="{{img}}">
-  <div class="body">
+  <aside>
+    <img src="{{img}}">
+  </aside>
+  <section class="body">
     <div class="title">{{handle}}</div>
   {{/user}}
     <div class="message">{{message}}</div>
-  </div>
-</div>
+  </section>
+</article>
