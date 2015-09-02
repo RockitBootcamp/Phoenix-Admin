@@ -14,7 +14,7 @@ var currentUser = {
 $(function () {
 
   var $mainContainer = $('#main');
-  var $tweetsContainer = $('#tweets');
+  var $tweetsContainer = $('.tweets');
 
   api.getTweets().then(function (tweets) {
     tweets.forEach(function (tweet) {
