@@ -19,7 +19,7 @@
 #M2
 
 - [x] PHP Project
-- [ ] CSS Project
+- [x] CSS Project
 - [x] Interview
 - [x] Test Score: 68.8%
  
@@ -36,3 +36,6 @@
 
 ### 9/1/2015
 - Kris: Interview, passed
+ 
+### 9/2/2015
+- Daniel: CSS Project Passed
