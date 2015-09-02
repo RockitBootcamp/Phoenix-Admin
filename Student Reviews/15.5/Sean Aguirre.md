@@ -29,3 +29,6 @@
     - negative numbers produce "invalid" message now
   - CSS project, passed
     - had some separation of layout and components that needed done, but fixed it right there
+
+### 9/2/2015
+- Brig: Failed interview. Needs to study HTML Forms
