@@ -42,3 +42,9 @@
     - invalid product_id or no quantity both cause "undefined index" php error
     - 7 limit should only apply to macs
 
+### 9/2/2015
+- Daniel: Interview
+  - HTML: work on attributes that can be "shortened" and radio, checkbox, & select
+  - CSS: work on pseudo-classes/selectors, got through flex-box
+
+
