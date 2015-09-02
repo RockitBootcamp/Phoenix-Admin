@@ -23,8 +23,10 @@
 #M2
 - [x] PHP Project
 - [ ] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] test score: 100%
+
+### 9/1/15
 - Daniel:
   - PHP project:
     - visual details need to more closely match the example: font sizes & title spelling
@@ -34,5 +36,7 @@
   - php project is done
   - css project: needs better seperation of layout and components
   
-
+### 9/2/15
+- Kris: interview, passed
+  - did good, struggled a little on nesting if statements appropriately, which caused errors as well, but got there. 
 
