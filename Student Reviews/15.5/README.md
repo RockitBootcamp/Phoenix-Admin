@@ -7,7 +7,7 @@ Brian Goble     |✓            |✓            |✓          |87.5% |
 Chris Igaya     |             |             |           |      |
 Danelle Elkins  |✓            |✓            |✓          |78.1% |
 Gayathree Raman |✓            |✓            |✓          |100%  |
-John Shockey    |             |             |           |84.4% |
+John Shockey    |✓            |✓            |           |84.4% |
 Jenna Connolly  |✓            |✓            |✓          |62.5% |
 Jimmy Cozza     |✓            |✓            |✓          |78.1% |
 Jordan Slattery |✓            |✓            |✓          |68.8% |
