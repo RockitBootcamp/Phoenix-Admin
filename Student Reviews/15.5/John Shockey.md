@@ -15,13 +15,22 @@ Kris - project review, passed
 
 #M2
 
-- [ ] PHP Project
-- [ ] CSS Project
+- [x] PHP Project
+- [x] CSS Project
 - [ ] Interview
-- [ ] test score: 
+- [x] test score: 85%? 
 
 ### 8/31/2015
 - Daniel: PHP project: needed to handle invalid inputs better
 - Daniel:
   - PHP project: invalid prod-id's causing php error
   - css project: better seperation of layout vs. components & git rid of hr tags
+
+### 9/1/2015
+- Daniel: Both projects passed
+
+### 9/2/2015
+- Daniel: Interview
+  - HTML: needs to study radio buttons more
+  - CSS: needs to studey collapsing margins
+  - PHP: needs to study array acceses, specifically reading
