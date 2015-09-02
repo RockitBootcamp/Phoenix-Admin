@@ -27,4 +27,5 @@
 - Kris: 
   - PHP project, passed. 
     - negative numbers produce "invalid" message now
-  - CSS project
+  - CSS project, passed
+    - had some separation of layout and components that needed done, but fixed it right there
