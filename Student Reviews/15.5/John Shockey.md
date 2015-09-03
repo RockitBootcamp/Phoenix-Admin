@@ -17,7 +17,7 @@ Kris - project review, passed
 
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] test score: 85%? 
 
 ### 8/31/2015
@@ -34,3 +34,6 @@ Kris - project review, passed
   - HTML: needs to study radio buttons more
   - CSS: needs to studey collapsing margins
   - PHP: needs to study array acceses, specifically reading
+
+- Kris: Interview, passed
+  - struggled on syntax of loops, so gave him a page of exercises to do at home to practice. 
