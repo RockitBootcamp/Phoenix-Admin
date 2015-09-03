@@ -47,4 +47,6 @@
   - HTML: work on attributes that can be "shortened" and radio, checkbox, & select
   - CSS: work on pseudo-classes/selectors, got through flex-box
 
+### 9/3/2015
+- Daniel: PHP Project: logic still needs work, some things fixed, others broken
 
