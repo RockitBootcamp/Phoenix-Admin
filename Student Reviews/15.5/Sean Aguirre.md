@@ -36,3 +36,7 @@
   - HTML: got the form, but not knowing selected, checked, & disabled
   - CSS: need to know box-sizing.
   - PHP: *memorize* the name of the "count" function, got through arrays
+
+### 9/3/2015
+- Daniel: Interview, passed items above and got through "use foreach loop to sum array of numbers"
+- 
