@@ -43,5 +43,10 @@
   - Study adding items to an array
   - Study Logic
   - Study Loops and Github
-	
+
+### 9/3/2015
+- Daniel: Interview:
+  - HTML: passed
+  - CSS: passed
+  - PHP: got through "use foreach loop to sum array of numbers"
 
