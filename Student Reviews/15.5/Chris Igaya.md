@@ -31,7 +31,7 @@
 
 #M2
 
-- [ ] PHP Project
+- [x] PHP Project
 - [ ] CSS Project
 - [ ] Interview
 - [ ] test score:
@@ -50,3 +50,5 @@
 ### 9/3/2015
 - Daniel: PHP Project: logic still needs work, some things fixed, others broken
 
+### 9/4/2015
+- Daniel: passed PHP project, css project "looked" good, but needs layout/component seperation
