@@ -13,8 +13,8 @@ Jimmy Cozza     |✓            |✓            |✓          |78.1% |
 Jordan Slattery |✓            |✓            |✓          |68.8% |
 Kyle Lehtinen   |✓            |✓            |✓          |87.5% |
 Melissa Rafalski|             |             |           | |
-Sean Aguirre    |✓            |✓            |           |81.3% |
-William Bird    |✓            |✓            |           |75% |
+Sean Aguirre    |✓            |✓            |✓          |81.3% |
+William Bird    |✓            |✓            |✓          |75% |
 
 
 
