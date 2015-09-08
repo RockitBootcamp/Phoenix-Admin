@@ -20,7 +20,12 @@
 
 #M2
 
-- [ ] PHP Project
+- [x] PHP Project
 - [ ] CSS Project
 - [ ] Interview
-- [ ] test score: 
+- [ ] test score: 65.6%
+
+### 9/8/2015
+- Daniel
+  - PHP project passed
+  - CSS project: not passed. button styling, fonts, borders, padding all need work
