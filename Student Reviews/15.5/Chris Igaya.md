@@ -32,8 +32,8 @@
 #M2
 
 - [x] PHP Project
-- [ ] CSS Project
-- [ ] Interview
+- [x] CSS Project
+- [x] Interview
 - [ ] test score:
 
 ### 9/1/2015
@@ -57,4 +57,4 @@
 - Daniel: Interview
   - HTML: brig?
   - CSS: brig?
-  - PHP: got upto arrays, needs to know how to add elements to an array (indexed and assoc). Could do the "Hello Mr. Daniel" problem
+  - PHP: got upto arrays, needs to know how to add elements to an array (indexed and assoc). Could not do the "Hello Mr. Daniel" problem
