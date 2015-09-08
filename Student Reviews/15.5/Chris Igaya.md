@@ -52,3 +52,9 @@
 
 ### 9/4/2015
 - Daniel: passed PHP project, css project "looked" good, but needs layout/component seperation
+-
+### 9/8/2015
+- Daniel: Interview
+  - HTML: brig?
+  - CSS: brig?
+  - PHP: got upto arrays, needs to know how to add elements to an array (indexed and assoc). Could do the "Hello Mr. Daniel" problem
