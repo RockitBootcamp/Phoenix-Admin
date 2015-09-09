@@ -52,7 +52,7 @@
 
 ### 9/4/2015
 - Daniel: passed PHP project, css project "looked" good, but needs layout/component seperation
--
+
 ### 9/8/2015
 - Daniel: Interview
   - HTML: brig?
