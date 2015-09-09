@@ -23,7 +23,7 @@
 - [x] PHP Project
 - [ ] CSS Project
 - [ ] Interview
-- [ ] test score: 65.6%
+- [x] test score: 65.6%
 
 ### 9/8/2015
 - Daniel
