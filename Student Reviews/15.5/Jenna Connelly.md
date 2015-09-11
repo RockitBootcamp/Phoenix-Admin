@@ -32,3 +32,13 @@
     - remove hr and br tags
 - Daniel: passed php and css projects
   
+# M3
+
+- [ ] PHP Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] Test Score: 62.5%
+
+### 9/11/2015
+- Brig: Interview - didn't pass
+  - Passed most items. Needs to review PHP:Sessions and JS:Callback and Anonymous Functions
