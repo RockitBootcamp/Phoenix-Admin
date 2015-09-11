@@ -37,3 +37,15 @@ Kris - project review, passed
 
 - Kris: Interview, passed
   - struggled on syntax of loops, so gave him a page of exercises to do at home to practice. 
+
+#M3
+
+- [ ] PHP Project
+- [ ] CSS Project
+- [ ] Interview
+- [ ] test score: 
+
+### 9/11/2015
+- Brig: CSS project review:
+  - Separate css into Resets, Default, Layout Components
+  - Use HTML semantic tags appropriate and classnames
