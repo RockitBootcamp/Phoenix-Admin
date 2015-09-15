@@ -23,3 +23,16 @@
   - Review psudo selectors
   - Review Flex
   - Review array adding
+
+#M2
+
+- [ ] PHP Project
+- [x] CSS Project - Rasta
+- [ ] CSS Project - Final
+- [ ] Interview
+- [ ] test score: 
+
+### 9/15/2015
+- Brig: Passed CSS Rasta version (Mostly becuase he finished his final css and didn't use the rasta to drive his design) (Had an informal sign off on the rasta with daniel. Was confused on if the rasta was a required sign off)
+  - nav should be anchors
+  - add form to search
