@@ -39,3 +39,19 @@
  
 ### 9/2/2015
 - Daniel: CSS Project Passed
+
+#M3
+
+- [ ] PHP Project
+- [Skipped] CSS Project Layout
+- [ ] CSS Project Final
+- [ ] Interview
+- [ ] Test Score:
+ 
+### 9/15/2015
+- Brig: Reviewd CSS Final
+  - FOrm push all right
+  - Make a form with input
+  - Change nav to <nav> and use anchors
+  - Reducing number of elelemtns in the tagContainer
+  - Use multiple classes on content navs
