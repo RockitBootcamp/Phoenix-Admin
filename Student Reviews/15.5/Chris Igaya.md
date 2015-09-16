@@ -58,3 +58,21 @@
   - HTML: brig?
   - CSS: brig?
   - PHP: got upto arrays, needs to know how to add elements to an array (indexed and assoc). Could not do the "Hello Mr. Daniel" problem
+
+#M3
+
+- [ ] PHP Project
+- [ ] CSS Project Rasta
+- [ ] CSS Project Final
+- [ ] Interview
+- [ ] test score: 
+
+### 9/16/2015
+- Brig: CSS Puppy Rasta Review
+  - Change out div.classes for better tags
+  - change out div.navBarInner for nav
+  - remove div around a
+  - Collapse .greatHero with parent
+  - rename title2
+  - Include normalize.css
+  - restructure CSS Defaults, Layout, Components
