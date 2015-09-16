@@ -35,3 +35,21 @@
   - CSS: passed
   - PHP: passed
   - Misc: passed
+
+
+# M3
+
+- [ ] PHP Project
+- [ ] CSS Project - Rasta (Skipped)
+- [ ] CSS Project - Final
+- [ ] Interview
+- [ ] Test Score: 
+
+### 9/16/2015
+- Brig: Puppylove - final
+  - Add padding bellow buttons in boxes
+  - remove .bolder for em and span for p in your title
+  - replace .help, .food, .sell with .box
+  - consider using classes for your components
+  - get rid of helpers
+  - move any margins in components into layout.
