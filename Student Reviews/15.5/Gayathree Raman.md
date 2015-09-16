@@ -40,3 +40,24 @@
 - Kris: interview, passed
   - did good, struggled a little on nesting if statements appropriately, which caused errors as well, but got there. 
 
+
+#M3
+- [ ] PHP Project
+- [ ] CSS Project - Jamaican (Skipped)
+- [ ] CSS Project - Final
+- [ ] Interview
+- [ ] test score: 100%
+
+### 9/16/15
+- Brig: Reviewd CSS Final
+  - Gap under nav is more than top
+  - buttons in boxes need styling
+  - need box-shadow around boxes
+  - Remove padding under images for list media-objects
+  - Remove black border in tile media objecst
+  - Text in Tiles needs padding. Don't have Text touching boundary
+  - Remove white border around window
+  - Want to see grey below bottom section
+
+
+- Daniel:
