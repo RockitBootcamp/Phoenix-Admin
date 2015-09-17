@@ -6,7 +6,7 @@ Brian Goble     |            |            |          | |
 Chris Igaya     |            |             |           | |
 Danelle Elkins  |            |            |          | |
 Gayathree Raman |            |            |          |  |
-John Shockey    |            |            |          | |
+John Shockey    |✓            | ✓           |          | |
 Jenna Connolly  |            |            |          | |
 Jimmy Cozza     |            |            |          | |
 Jordan Slattery |            |            |          | |
