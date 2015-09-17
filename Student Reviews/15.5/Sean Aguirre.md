@@ -45,12 +45,15 @@
 - [x] PHP Project
 - [x] CSS Project - Rasta
 - [x] CSS Project - Final
-- [x] Interview
-- [x] Test Score: 81.3%
+- [ ] Interview
+- [ ] Test Score: 
 
 ### 9/17/2015
 - Daniel:
   - CSS-Final: Passed
   - PHP Project:
-  
+
+### 9/17/2015
+- Brig:
+  - PHP: Passed
 
