@@ -40,8 +40,8 @@ Kris - project review, passed
 
 #M3
 
-- [ ] PHP Project
-- [ ] CSS Project
+- [x] PHP Project
+- [x] CSS Project
 - [ ] Interview
 - [ ] test score: 
 
@@ -49,3 +49,9 @@ Kris - project review, passed
 - Brig: CSS project review:
   - Separate css into Resets, Default, Layout Components
   - Use HTML semantic tags appropriate and classnames
+
+### 9/15/2015
+- Daniel: CSS Project Review: Passed
+
+### 9/17/2015
+- Brig: PHP project review: Passed
