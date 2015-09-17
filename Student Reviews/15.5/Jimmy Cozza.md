@@ -44,5 +44,5 @@
 
 ### 9/17/2015
 - Brig: Interview
-  - Passed CSS, and PHP Userdefined functions
+  - Passed CSS,  PHP User Defined functions, and PHP OOP I
   - Ran out of time. 
