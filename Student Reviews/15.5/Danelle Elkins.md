@@ -39,9 +39,9 @@
 
 # M3
 
-- [ ] PHP Project
-- [ ] CSS Project - Rasta (Skipped)
-- [ ] CSS Project - Final
+- [x] PHP Project
+- [x] CSS Project - Rasta (Skipped)
+- [x] CSS Project - Final
 - [ ] Interview
 - [ ] Test Score: 
 
@@ -53,3 +53,6 @@
   - consider using classes for your components
   - get rid of helpers
   - move any margins in components into layout.
+
+### 9/17/2015
+- Brig: PHP. Passed
