@@ -51,7 +51,7 @@
 ### 9/17/2015
 - Daniel:
   - CSS-Final: Passed
-  - PHP Project:
+  - PHP Project: not all redirects are working
 
 ### 9/17/2015
 - Brig:
