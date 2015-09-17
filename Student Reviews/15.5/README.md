@@ -8,12 +8,12 @@ Danelle Elkins  |✓             |✓             |          | |
 Gayathree Raman |            |            |          |  |
 John Shockey    |✓            | ✓           |          | |
 Jenna Connolly  |            |            |          | |
-Jimmy Cozza     |            |            |          | |
-Jordan Slattery |            |            |          | |
+Jimmy Cozza     |✓            |✓            |          | |
+Jordan Slattery |✓            |✓            |          | |
 Kyle Lehtinen   |✓             |✓             |          | |
 Melissa Rafalski|            |             |           | |
 Sean Aguirre    |✓            |✓            |          | |
-William Bird    |            |            |          | |
+William Bird    |✓            |✓            |          | |
 
 #Milestone 2
 
