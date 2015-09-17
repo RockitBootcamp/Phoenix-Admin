@@ -59,5 +59,9 @@
   - Remove white border around window
   - Want to see grey below bottom section
 
-
-- Daniel:
+### 9/17/2015
+- Brig: Reviewed CSS Final
+  - Make Great people better dogs a paragraph and Welcome .... a paragraph
+  - rename Callout from sections to section
+  - Use h3 and p in your Callout
+  - Change aside asideleft .asideright to <section><aside/><main/></section>
