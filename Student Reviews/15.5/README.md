@@ -12,7 +12,7 @@ Jimmy Cozza     |            |            |          | |
 Jordan Slattery |            |            |          | |
 Kyle Lehtinen   |✓             |✓             |          | |
 Melissa Rafalski|            |             |           | |
-Sean Aguirre    |            |            |          | |
+Sean Aguirre    |✓            |✓            |          | |
 William Bird    |            |            |          | |
 
 #Milestone 2
