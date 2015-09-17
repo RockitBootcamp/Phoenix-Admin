@@ -34,3 +34,15 @@
 ### 9/1/2015
 - Daniel
   - CSS Project passed
+
+# M3
+- [x] PHP Project
+- [x] CSS Project - Jamaican
+- [x] CSS Project - Final
+- [ ] Interview
+- [ ] Test Score:
+
+### 9/17/2015
+- Brig: Interview
+  - Passed CSS, and PHP Userdefined functions
+  - Ran out of time. 
