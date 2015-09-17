@@ -55,3 +55,11 @@
   - Change nav to <nav> and use anchors
   - Reducing number of elelemtns in the tagContainer
   - Use multiple classes on content navs
+
+### 9/17/2015
+
+- Kevin: struggled with css patterns II, passed PHP User Defined Functions & OOP I
+  - needs to review OOP II
+  - needs to be tested on remaining topics
+  - http://collabedit.com/yfqu8
+
