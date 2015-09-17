@@ -76,3 +76,8 @@
   - rename title2
   - Include normalize.css
   - restructure CSS Defaults, Layout, Components
+
+### 9/17/2015
+- Brig: CSS Puppy Rasta Review
+  - Don't use main tag for tiles. Instead use a class componant "puppy-tile"
+  - Don't use article tag for puppy-list-item. Instead use class componant
