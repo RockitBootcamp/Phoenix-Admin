@@ -16,7 +16,7 @@
 
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 81.3%
 
 ### 9/1/2015
@@ -39,4 +39,18 @@
 
 ### 9/3/2015
 - Daniel: Interview, passed items above and got through "use foreach loop to sum array of numbers"
-- 
+
+# M3
+
+- [x] PHP Project
+- [x] CSS Project - Rasta
+- [x] CSS Project - Final
+- [x] Interview
+- [x] Test Score: 81.3%
+
+### 9/17/2015
+- Daniel:
+  - CSS-Final: Passed
+  - PHP Project:
+  
+
