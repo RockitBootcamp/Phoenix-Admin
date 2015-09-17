@@ -26,9 +26,9 @@
 
 #M3
 
-- [ ] PHP Project
+- [x] PHP Project
 - [x] CSS Project - Rasta
-- [ ] CSS Project - Final
+- [x] CSS Project - Final
 - [ ] Interview
 - [ ] test score: 
 
@@ -36,3 +36,9 @@
 - Brig: Passed CSS Rasta version (Mostly becuase he finished his final css and didn't use the rasta to drive his design) (Had an informal sign off on the rasta with daniel. Was confused on if the rasta was a required sign off)
   - nav should be anchors
   - add form to search
+
+### 9/16/2015
+- Daniel: Passed CSS Final 
+
+### 9/17/2015
+- Daniel: Passed PHP Project
