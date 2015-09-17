@@ -23,3 +23,10 @@
 - Daniel: passed PHP project
 
 - Kris: Interview, passed
+
+# M3
+
+### 9/17/2015
+
+- Kevin: Passed all CSS, passed PHP User Defined Functions & OOP I
+  - needs to be tested on remaining topics
