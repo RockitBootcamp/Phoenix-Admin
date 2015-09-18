@@ -29,8 +29,8 @@
 - [x] PHP Project
 - [x] CSS Project - Rasta
 - [x] CSS Project - Final
-- [ ] Interview
-- [ ] test score: 
+- [x] Interview
+- [x] test score: 90.7%
 
 ### 9/15/2015
 - Brig: Passed CSS Rasta version (Mostly becuase he finished his final css and didn't use the rasta to drive his design) (Had an informal sign off on the rasta with daniel. Was confused on if the rasta was a required sign off)
@@ -42,3 +42,6 @@
 
 ### 9/17/2015
 - Daniel: Passed PHP Project
+
+### 9/18/2015
+- Brig: Passed interview
