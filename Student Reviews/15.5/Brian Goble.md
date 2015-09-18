@@ -25,10 +25,18 @@
 - Kris: Interview, passed
 
 # M3
+- [x] PHP Project
+- [x] CSS Project - Rasta
+- [x] CSS Project - Final
+- [x] Interview
+- [x] Test Score: 79.6
 
 ### 9/17/2015
 
 - Kevin: Passed all CSS, passed PHP User Defined Functions & OOP I
   - needs to be tested on remaining topics
   - http://collabedit.com/d35yu
+
+### 9/18/2015
+- Brig: Passed all Interview
 
