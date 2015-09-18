@@ -42,8 +42,8 @@
 - [x] PHP Project
 - [x] CSS Project - Rasta (Skipped)
 - [x] CSS Project - Final
-- [ ] Interview
-- [ ] Test Score: 
+- [x] Interview
+- [x] Test Score: 77%
 
 ### 9/16/2015
 - Brig: Puppylove - final
@@ -56,3 +56,6 @@
 
 ### 9/17/2015
 - Brig: PHP. Passed
+
+### 9/18/2015
+- Brig: Passed interview
