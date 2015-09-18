@@ -4,13 +4,13 @@ Name            | PHP Project | CSS Project | Interview | Test |
 :--------------:|:-----------:|:-----------:|:---------:|:----:|
 Brian Goble     |✓             | ✓            | ✓         |✓  |
 Chris Igaya     |            |             |           | |
-Danelle Elkins  |✓             |✓             |          | |
+Danelle Elkins  |✓             |✓             |✓          | |
 Gayathree Raman |            |            |          |  |
 John Shockey    |✓            | ✓           |          | |
 Jenna Connolly  |            |            |          | |
 Jimmy Cozza     |✓            |✓            |✓          | |
 Jordan Slattery |✓            |✓            |          | |
-Kyle Lehtinen   |✓             |✓             |          | |
+Kyle Lehtinen   |✓             |✓             |✓          | |
 Melissa Rafalski|            |             |           | |
 Sean Aguirre    |✓            |✓            |          | |
 William Bird    |✓            |✓            |          | |
