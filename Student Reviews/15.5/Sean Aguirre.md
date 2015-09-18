@@ -53,7 +53,10 @@
   - CSS-Final: Passed
   - PHP Project: not all redirects are working
 
-### 9/17/2015
 - Brig:
   - PHP: Passed
+
+- Daniel: Interview
+  - CSS: passed
+  - PHP: ran out of time. Just got started on OOPII Vehicle problem
 
