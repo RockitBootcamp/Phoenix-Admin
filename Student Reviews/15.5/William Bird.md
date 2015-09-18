@@ -57,7 +57,11 @@
 - [ ] Interview
 - [ ] Test Score: 
 
+### 9/16/2015
+- Daniel: css-rasta: done
+
 ### 9/17/2015
+- Daniel: css-final: done
 - Daniel: Interview
   - CSS: passed
   - PHP: ran out of time. Just got started on OOPII Vehicle problem
