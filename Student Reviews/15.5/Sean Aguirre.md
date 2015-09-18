@@ -48,6 +48,9 @@
 - [ ] Interview
 - [ ] Test Score: 
 
+### 9/16/2015
+- Daniel: CSS-Rasta: Passed
+
 ### 9/17/2015
 - Daniel:
   - CSS-Final: Passed
