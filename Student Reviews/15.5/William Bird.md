@@ -22,8 +22,8 @@
 # M2
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
-- [ ] Test Score: 
+- [x] Interview
+- [x] Test Score: 
 
 ### 8/31/2015
 - Daniel:
@@ -50,3 +50,14 @@
   - CSS: passed
   - PHP: got through "use foreach loop to sum array of numbers"
 
+# M3
+- [x] PHP Project
+- [x] CSS Project - Rasta
+- [x] CSS Project - Final
+- [ ] Interview
+- [ ] Test Score: 
+
+### 9/17/2015
+- Daniel: Interview
+  - CSS: passed
+  - PHP: ran out of time. Just got started on OOPII Vehicle problem
