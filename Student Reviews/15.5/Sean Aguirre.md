@@ -46,7 +46,7 @@
 - [x] CSS Project - Rasta
 - [x] CSS Project - Final
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 72%
 
 ### 9/16/2015
 - Daniel: CSS-Rasta: Passed
@@ -63,3 +63,6 @@
   - CSS: passed
   - PHP: ran out of time. Just got started on OOPII Vehicle problem
 
+### 9/21/2015
+- Brig: Interview
+  - Passed all but JS Objects and Anonomous 
