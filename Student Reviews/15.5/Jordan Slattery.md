@@ -44,9 +44,9 @@
 
 - [ ] PHP Project
 - [Skipped] CSS Project Layout
-- [ ] CSS Project Final
+- [x] CSS Project Final
 - [ ] Interview
-- [ ] Test Score:
+- [x] Test Score: 79%
  
 ### 9/15/2015
 - Brig: Reviewd CSS Final
@@ -63,3 +63,11 @@
   - needs to be tested on remaining topics
   - http://collabedit.com/yfqu8
 
+### 9/21/2015
+
+- Brig: 
+  - Passed CSS-F 
+  - Reviewed PHP
+    - Use Variables instead of Session[] variables
+    - ErrorManager. Use the manager to check the logic. Remove uneeded variables for error tracking
+    - 
