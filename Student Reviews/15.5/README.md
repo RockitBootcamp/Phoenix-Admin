@@ -9,7 +9,7 @@ Gayathree Raman |            |            |          |  |
 John Shockey    |✓            | ✓           |          | |
 Jenna Connolly  |            |            |          | |
 Jimmy Cozza     |✓            |✓            |✓          | |
-Jordan Slattery |✓            |✓            |          | |
+Jordan Slattery |✓            |✓            | ✓         | |
 Kyle Lehtinen   |✓             |✓             |✓          | |
 Melissa Rafalski|            |             |           | |
 Sean Aguirre    |✓            |✓            |          | |
