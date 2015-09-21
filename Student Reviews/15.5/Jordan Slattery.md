@@ -42,10 +42,10 @@
 
 #M3
 
-- [ ] PHP Project
+- [x] PHP Project
 - [Skipped] CSS Project Layout
 - [x] CSS Project Final
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 79%
  
 ### 9/15/2015
@@ -70,4 +70,4 @@
   - Reviewed PHP
     - Use Variables instead of Session[] variables
     - ErrorManager. Use the manager to check the logic. Remove uneeded variables for error tracking
-    - 
+- Brig: Interview Passed
