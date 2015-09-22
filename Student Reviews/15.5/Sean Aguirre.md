@@ -45,7 +45,7 @@
 - [x] PHP Project
 - [x] CSS Project - Rasta
 - [x] CSS Project - Final
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 72%
 
 ### 9/16/2015
@@ -65,4 +65,5 @@
 
 ### 9/21/2015
 - Brig: Interview
-  - Passed all but JS Objects and Anonomous 
+  - Passed all but JS Objects and Anonomous
+- Daniel: Passed Interview 
