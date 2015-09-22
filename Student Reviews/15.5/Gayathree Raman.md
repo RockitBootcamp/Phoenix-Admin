@@ -42,10 +42,10 @@
 
 
 #M3
-- [ ] PHP Project
+- [x] PHP Project
 - [ ] CSS Project - Jamaican (Skipped)
-- [ ] CSS Project - Final
-- [ ] Interview
+- [x] CSS Project - Final
+- [x] Interview
 - [ ] test score: 100%
 
 ### 9/16/15
@@ -65,3 +65,6 @@
   - rename Callout from sections to section
   - Use h3 and p in your Callout
   - Change aside asideleft .asideright to <section><aside/><main/></section>
+
+### 9/21/2015
+- Daniel: Passed Interview
