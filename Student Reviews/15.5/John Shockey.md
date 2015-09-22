@@ -42,7 +42,7 @@ Kris - project review, passed
 
 - [x] PHP Project
 - [x] CSS Project
-- [ ] Interview
+- [x] Interview
 - [ ] test score: 
 
 ### 9/11/2015
@@ -55,3 +55,6 @@ Kris - project review, passed
 
 ### 9/17/2015
 - Brig: PHP project review: Passed
+
+### 9/21/2015
+- Daniel: Passed Interview
