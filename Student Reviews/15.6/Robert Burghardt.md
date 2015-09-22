@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
 - [x] Test Score: 
 
@@ -8,3 +8,4 @@
 
 ### 8/21/2015
 - Brad: Did well with everhthing except inline vs block vs inlineblock
+- Brad: Project passed
