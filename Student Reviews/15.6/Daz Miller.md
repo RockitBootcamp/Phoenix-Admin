@@ -2,7 +2,7 @@
 
 - [ ] Project
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 72%
 
 ## Reviews
 
@@ -13,3 +13,7 @@
   - Needs to study HTML Nesting
   - Needs to study CSS Basic Selectors
   - Needs to study CSS Basic Properties
+- Kevin Interview:
+  - Needs to inline/block/inline-block again
+  - Needs to get better with logic
+  - Still needs Unix, Git, HTTP
