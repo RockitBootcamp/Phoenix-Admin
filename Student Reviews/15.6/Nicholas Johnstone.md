@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
 - [x] Test Score: 77%
 
@@ -15,3 +15,4 @@
 - Kevin Interview:
   - Did really good on inline/inline-block/block
   - Passed PHP except for PHP Logic, needs to practice more
+  - Project passed
