@@ -17,3 +17,5 @@
   - Needs to inline/block/inline-block again
   - Needs to get better with logic
   - Still needs Unix, Git, HTTP
+- Kevin Interview:
+  - Still struggling with Logic
