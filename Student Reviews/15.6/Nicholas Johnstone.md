@@ -1,7 +1,7 @@
 # M1
 
 - [x] Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 77%
 
 ## Reviews
@@ -16,3 +16,5 @@
   - Did really good on inline/inline-block/block
   - Passed PHP except for PHP Logic, needs to practice more
   - Project passed
+- Brad Interview:
+  - Passed PHP logic and the misc stuff really well
