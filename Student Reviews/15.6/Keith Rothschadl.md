@@ -8,3 +8,5 @@
 
 ### 8/21/2015
 - Brad: Passed HTML/CSS. Passed most of PHP easily except the logic area. When he gets tested again, just start from the logic area
+- Brad: Project needs some cleanup
+- Brad: Passed all of interview expect PHP Logic
