@@ -1,8 +1,8 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [x] Interview
-- [ ] Test Score: 
+- [x] Test Score: 
 
 ## Reviews
 
@@ -10,3 +10,4 @@
 
 - Kevin Interview:
   - Passed
+- Project: Passed
