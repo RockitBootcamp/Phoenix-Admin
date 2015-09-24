@@ -6,12 +6,12 @@
 
 ## Reviews
 
-### 8/21/2015
+### 8/22/2015
 
-- Brad: Did well with everhthing except inline vs block vs inlineblock
+- Brad: Did well with everything except inline vs block vs inline-block
 - Brad: Project passed
 
-### 8/22/2015
+### 8/23/2015
 
 - Kevin Interview:
   - Did great on inline/etc

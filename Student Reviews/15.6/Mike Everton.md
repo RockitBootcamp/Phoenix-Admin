@@ -2,11 +2,11 @@
 
 - [x] Project
 - [x] Interview
-- [x] Test Score: 
+- [x] Test Score:
 
 ## Reviews
 
-### 8/21/2015
+### 8/22/2015
 
 - Kevin Interview:
   - Passed
