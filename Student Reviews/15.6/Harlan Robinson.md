@@ -17,3 +17,9 @@
   - Can't write a style attribute (needs more practice)
   - Doesn't understand basic CSS selectors
 - Kevin Project review: not passed off, lots of changes/fixes to make
+
+### 8/24/2015
+
+- Kevin Interview:
+  - Needs to redo Logic
+  - Needs to do Misc topics
