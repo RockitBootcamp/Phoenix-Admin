@@ -14,4 +14,4 @@
 ### 8/29/2015
 
 - Kevin interview:
-  - 
+  - Really struggles a lot with `if` statements, needs to test again on it
