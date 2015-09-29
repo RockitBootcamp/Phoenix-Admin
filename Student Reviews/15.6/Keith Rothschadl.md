@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [x] Interview
 - [x] Test Score: 
 
@@ -15,3 +15,7 @@
 ### 8/23/2015
 
 - Kevin Interview: passed logic
+
+### 8/28/2015
+
+- Kevin passed off project
