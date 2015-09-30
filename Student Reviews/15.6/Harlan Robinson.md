@@ -1,6 +1,6 @@
 # M1
 
-- [ ] Project
+- [x] Project
 - [ ] Interview
 - [x] Test Score: 81%
 
@@ -23,3 +23,8 @@
 - Kevin Interview:
   - Needs to redo Logic
   - Needs to do Misc topics
+
+### 8/30/2015
+
+- Kevin Interview:
+  - pass logic
