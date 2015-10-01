@@ -28,3 +28,6 @@
 
 - Kevin Interview:
   - pass logic
+
+### 10/1/2015
+- Daniel: Interview, passed the rest of the interview
