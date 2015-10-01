@@ -15,3 +15,8 @@
 
 - Kevin interview:
   - Really struggles a lot with `if` statements, needs to test again on it
+
+### 8/30/2015
+
+- Kevin interview:
+  - PASSED! Syntax looked great, had a false start on the conditionals, but he got it.
