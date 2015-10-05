@@ -14,3 +14,10 @@
 ### 8/23/2015
 
 - Kevin Project review: project passed, she had her header.php included in the <head> (but she fixed it) otherwise it looked great
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 70%
