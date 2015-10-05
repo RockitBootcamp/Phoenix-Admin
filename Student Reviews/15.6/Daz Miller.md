@@ -25,3 +25,9 @@
   - Tried another logic test, passed that
   - Pass all other interview questions
 
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 80%
