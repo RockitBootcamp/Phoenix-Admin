@@ -20,3 +20,10 @@
 
 - Kevin interview:
   - PASSED! Syntax looked great, had a false start on the conditionals, but he got it.
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [ ] Test Score: 
