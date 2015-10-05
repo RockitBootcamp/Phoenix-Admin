@@ -18,3 +18,14 @@
   - Project passed
 - Brad Interview:
   - Passed PHP logic and the misc stuff really well
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 64% (fail)
+
+## Reviews
+
+### 10/5/2015
