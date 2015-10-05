@@ -17,3 +17,10 @@
   - Did great on inline/etc
   - Did great on PHP Logic
   - Passed
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 92%
