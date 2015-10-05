@@ -40,5 +40,10 @@
 
 - Interview (Brig):
   -   Passed PHP. Had trouble with the nested Ifs.
-  
-  
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [ ] Test Score: 
