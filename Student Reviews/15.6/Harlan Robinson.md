@@ -30,4 +30,12 @@
   - pass logic
 
 ### 10/1/2015
+
 - Daniel: Interview, passed the rest of the interview
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 64% (fail)
