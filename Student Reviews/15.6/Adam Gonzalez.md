@@ -12,3 +12,10 @@
 - Brad: Passed Project
 - Brad: Passed all parts of the intervew expect HTTP concepts
 - Brad: Passed interview with HTTP
+
+# M2
+
+- [ ] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 80%
