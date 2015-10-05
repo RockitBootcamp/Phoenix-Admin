@@ -19,3 +19,16 @@
 ### 8/28/2015
 
 - Kevin passed off project
+
+# M2
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 80%
+
+## Reviews
+
+### 9/5/2015
+
+- Kevin checked off CSS project
