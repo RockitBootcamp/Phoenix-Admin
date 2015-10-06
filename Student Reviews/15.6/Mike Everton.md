@@ -16,7 +16,7 @@
 
 - [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 82%
 
 ## Reviews
@@ -24,3 +24,8 @@
 ### 10/5/2015
 
 - Kevin passed off CSS project
+
+### 10/6/2015
+
+- Kevin interview
+  - passed
