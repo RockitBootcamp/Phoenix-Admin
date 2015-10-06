@@ -15,7 +15,7 @@
 # M2
 
 - [x] CSS Project
-- [ ] JS Project
+- [x] JS Project
 - [ ] Interview
 - [x] Test Score: 86%
 
