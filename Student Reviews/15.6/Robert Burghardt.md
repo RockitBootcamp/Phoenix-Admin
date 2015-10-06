@@ -22,7 +22,7 @@
 
 - [x] CSS Project
 - [x] JS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 92%
 
 ## Review
@@ -35,3 +35,4 @@
 
 - Kevin interview
   - Passed everything, still needs to test on JS
+  - passed interview
