@@ -30,3 +30,8 @@
 ### 10/5/2015
 
 - Kevin passed off JS project
+
+### 10/6/2015
+
+- Kevin interview
+  - Passed everything, still needs to test on JS
