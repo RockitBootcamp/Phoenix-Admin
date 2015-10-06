@@ -20,7 +20,7 @@
 
 # M2
 
-- [ ] CSS Project
+- [x] CSS Project
 - [x] JS Project
 - [ ] Interview
 - [x] Test Score: 92%
