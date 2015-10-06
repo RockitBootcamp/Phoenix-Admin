@@ -12,11 +12,11 @@
 - Brad: Project needs some cleanup
 - Brad: Passed all of interview expect PHP Logic
 
-### 8/23/2015
+### 9/23/2015
 
 - Kevin Interview: passed logic
 
-### 8/28/2015
+### 9/28/2015
 
 - Kevin passed off project
 
@@ -24,11 +24,15 @@
 
 - [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 80%
 
 ## Reviews
 
-### 9/5/2015
+### 10/5/2015
 
 - Kevin checked off CSS project
+
+### 10/6/2015
+
+- Kevin interview: passed
