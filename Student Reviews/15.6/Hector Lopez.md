@@ -17,3 +17,10 @@
 - [ ] JS Project
 - [ ] Interview
 - [x] Test Score: 82%
+
+## Review
+
+### 10/6/2015
+
+- Kevin interview
+  - Passed on everything except for media object, says he din't even know what it was
