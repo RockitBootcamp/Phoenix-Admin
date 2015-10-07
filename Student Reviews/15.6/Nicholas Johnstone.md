@@ -31,3 +31,10 @@
 ### 10/5/2015
 
 - Kevin passed off project (he's going to update a couple class names but otherwise good)
+
+### 10/7/2015
+
+- Kevin interview:
+  - needs to study selector strategy
+  - needs to study objects
+  - needs everything but html interviewed again
