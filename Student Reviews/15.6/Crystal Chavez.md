@@ -27,3 +27,6 @@
 ### 10/7/2015
 
 - Kevin checked off CSS project
+- Kevin interview:
+  - Passed all verbal interview questions
+  - Needs to study selector strategy, objects, callbacks
