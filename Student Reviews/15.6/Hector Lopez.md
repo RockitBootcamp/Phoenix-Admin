@@ -14,8 +14,8 @@
 # M2
 
 - [x] CSS Project
-- [ ] JS Project
-- [ ] Interview
+- [x] JS Project
+- [x] Interview
 - [x] Test Score: 82%
 
 ## Review
@@ -24,3 +24,8 @@
 
 - Kevin interview
   - Passed on everything except for media object, says he din't even know what it was
+
+### 10/7/2015
+- Kevin passed off JS Project
+- Brig interview
+  - Passed off media object
