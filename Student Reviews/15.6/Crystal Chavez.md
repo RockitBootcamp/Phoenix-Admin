@@ -17,7 +17,13 @@
 
 # M2
 
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] JS Project
 - [ ] Interview
 - [x] Test Score: 70%
+
+## Reviews
+
+### 10/7/2015
+
+- Kevin checked off CSS project
