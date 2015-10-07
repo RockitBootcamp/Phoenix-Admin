@@ -26,7 +26,7 @@ Bryan Pena          | [ ]        | [x]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
 Daz Miller          | [ ]        | [ ]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [x]         | [ ]       | [x]  |
-Hector Lopez        | [ ]        | [x]         | [ ]       | [x]  |
+Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
 Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  |
 Mike Everton        | [ ]        | [x]         | [ ]       | [x]  |
 Nicholas Johnstone  | [ ]        | [x]         | [ ]       | [x]  |
