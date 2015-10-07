@@ -45,3 +45,6 @@
 ### 10/7/2015
 
 - Kevin checked off CSS project
+
+### 10/7/2015 
+- Brig Interview. Passed all of HTML, and CSS Basic Selector Strategy. Needs box-model on.
