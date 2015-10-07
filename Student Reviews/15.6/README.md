@@ -22,10 +22,10 @@ Name                | JS Project | CSS Project | Interview | Test |
 Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [x]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
-Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
-Crystal Chavez      | [ ]        | [ ]         | [ ]       | [x]  |
+Bryan Pena          | [ ]        | [x]         | [ ]       | [ ]  |
+Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
 Daz Miller          | [ ]        | [ ]         | [ ]       | [x]  |
-Harlan Robinson     | [ ]        | [ ]         | [ ]       | [x]  |
+Harlan Robinson     | [ ]        | [x]         | [ ]       | [x]  |
 Hector Lopez        | [ ]        | [x]         | [ ]       | [x]  |
 Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  |
 Mike Everton        | [ ]        | [x]         | [ ]       | [x]  |
