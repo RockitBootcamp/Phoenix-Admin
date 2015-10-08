@@ -30,3 +30,4 @@
 - Kevin interview:
   - Passed all verbal interview questions
   - Needs to study selector strategy, objects, callbacks
+  - Use http://collabedit.com/cu7gx to complete test
