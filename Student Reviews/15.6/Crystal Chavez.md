@@ -19,7 +19,7 @@
 
 - [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 70%
 
 ## Reviews
@@ -31,3 +31,7 @@
   - Passed all verbal interview questions
   - Needs to study selector strategy, objects, callbacks
   - Use http://collabedit.com/cu7gx to complete test
+
+### 10/8/2015
+
+- Kevin passed off on interview
