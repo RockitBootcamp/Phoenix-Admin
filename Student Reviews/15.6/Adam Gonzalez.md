@@ -26,4 +26,4 @@
 
 - Kevin Interview:
   - passed all verbal questions
-  - 
+  - passed written
