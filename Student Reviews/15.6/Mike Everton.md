@@ -15,7 +15,7 @@
 # M2
 
 - [x] CSS Project
-- [ ] JS Project
+- [x] JS Project
 - [x] Interview
 - [x] Test Score: 82%
 
@@ -29,3 +29,7 @@
 
 - Kevin interview
   - passed
+
+### 10/8/2015
+
+- Kevin passed off JS project
