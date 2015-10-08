@@ -19,3 +19,11 @@
 - [ ] JS Project
 - [ ] Interview
 - [x] Test Score: 80%
+
+## Review
+
+### 10/8/2015
+
+- Kevin Interview:
+  - passed all verbal questions
+  - 
