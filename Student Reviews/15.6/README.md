@@ -19,11 +19,11 @@ Robert Burghardt    | [x]         | [x]       | [x]  |
 
 Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
-Adam Gonzalez       | [ ]        | [x]         | [x]       | [x]  |
+Adam Gonzalez       | [x]        | [x]         | [x]       | [x]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [x]         | [ ]       | [x]  |
-Crystal Chavez      | [ ]        | [x]         | [x]       | [x]  |
+Crystal Chavez      | [x]        | [x]         | [x]       | [x]  |
 Daz Miller          | [ ]        | [ ]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [x]         | [ ]       | [x]  |
 Hector Lopez        | ✓        | ✓         | ✓       | ✓  |
