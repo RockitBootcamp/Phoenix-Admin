@@ -1,7 +1,7 @@
 # M1
 
-- [ ] Project
-- [ ] Interview
+- [x] Project
+- [x] Interview
 - [x] Test Score: 72%
 
 ## Reviews
@@ -26,10 +26,16 @@
 - [x] CSS Project
 - [ ] JS Project
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 
 
 ## Reviews
 
 ### 10/7/2015
 
 - Kevin checked off CSS
+
+### 10/9/2015
+
+- Kevin interview:
+  - passed verbal
+  - passed written! He's going to keep studying though!
