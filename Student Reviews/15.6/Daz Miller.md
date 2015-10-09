@@ -31,3 +31,5 @@
 - [ ] JS Project
 - [ ] Interview
 - [x] Test Score: 80%
+
+- Brad: Did well with HTML, failed all the CSS except the reset questions
