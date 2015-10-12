@@ -22,8 +22,8 @@
 # M2
 
 - [x] CSS Project
-- [ ] JS Project
-- [ ] Interview
+- [x] JS Project
+- [x] Interview
 - [x] Test Score: 64% (fail)
 
 ## Reviews
@@ -38,3 +38,7 @@
   - needs to study selector strategy
   - needs to study objects
   - needs everything but html interviewed again
+
+### 10/12/2015
+
+- Kevin passed remainder of interview, js project passed off
