@@ -24,8 +24,8 @@
 # M2
 
 - [x] CSS Project
-- [ ] JS Project
-- [ ] Interview
+- [x] JS Project
+- [x] Interview
 - [x] Test Score: 
 
 ## Reviews
@@ -39,3 +39,7 @@
 - Kevin interview:
   - passed verbal
   - passed written! He's going to keep studying though!
+
+### 10/12/2015
+
+- Kevin passed off js project, looked good, other than one tiny bug which he is fixing now and some style issues
