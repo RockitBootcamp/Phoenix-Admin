@@ -22,12 +22,27 @@ Name                | JS Project | CSS Project | Interview | Test |
 Adam Gonzalez       | [x]        | [x]         | [x]       | [x]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
-Bryan Pena          | [ ]        | [x]         | [x]       | [x]  |
+Bryan Pena          | [x]        | [x]         | [x]       | [x]  |
 Crystal Chavez      | [x]        | [x]         | [x]       | [x]  |
-Daz Miller          | [ ]        | [ ]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [x]         | [ ]       | [x]  |
 Hector Lopez        | ✓        | ✓         | ✓       | ✓  |
 Keith Rothchadl     | [x]        | [x]         | [x]       | [x]  |
 Mike Everton        | [ ]        | [x]         | [ ]       | [x]  |
-Nicholas Johnstone  | [ ]        | [x]         | [ ]       | [x]  |
+Nicholas Johnstone  | [x]        | [x]         | [x]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
+
+#M3
+
+Name                | JS Project | CSS Project | Interview | Test |
+:------------------:|:----------:|:-----------:|:---------:|:----:|
+Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [ ]  |
+Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
+Betty Heim          | [ ]        | [ ]         | [ ]       | [ ]  |
+Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
+Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
+Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
+Hector Lopez        | [ ]        | [ ]         | [ ]       | [ ]  |
+Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  |
+Mike Everton        | [ ]        | [ ]         | [ ]       | [ ]  |
+Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  |
+Robert Burghardt    | [ ]        | [ ]         | [ ]       | [ ]  |
