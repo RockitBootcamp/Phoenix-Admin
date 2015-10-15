@@ -36,3 +36,13 @@
 - Kevin interview
   - Passed everything, still needs to test on JS
   - passed interview
+
+# M3
+- [ ] CSS Project
+- [x] JS Project
+- [ ] Interview
+- [ ] Test Score: 
+
+## Review
+
+Brad: Passed Twitter Project
