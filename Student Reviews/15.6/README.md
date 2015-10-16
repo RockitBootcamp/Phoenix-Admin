@@ -20,7 +20,7 @@ Robert Burghardt    | [x]         | [x]       | [x]  |
 Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
 Adam Gonzalez       | [x]        | [x]         | [x]       | [x]  |
-Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
+Andrew Skaper       | [ ]        | [x]         | [x]       | [ ]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [x]        | [x]         | [x]       | [x]  |
 Crystal Chavez      | [x]        | [x]         | [x]       | [x]  |
@@ -37,12 +37,12 @@ Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
 Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [ ]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
-Betty Heim          | [ ]        | [ ]         | [ ]       | [ ]  |
+Betty Heim          | [x]        | [ ]         | [ ]       | [ ]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
-Hector Lopez        | [ ]        | [ ]         | [ ]       | [ ]  |
+Hector Lopez        | [x]        | [ ]         | [ ]       | [ ]  |
 Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  |
 Mike Everton        | [ ]        | [ ]         | [ ]       | [ ]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  |
-Robert Burghardt    | [x]        | [ ]         | [ ]       | [ ]  |
+Robert Burghardt    | [x]        | [x]         | [ ]       | [ ]  |
