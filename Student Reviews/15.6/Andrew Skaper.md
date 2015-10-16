@@ -43,7 +43,7 @@
 
 # M2
 
-- [ ] CSS Project
+- [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test Score: 
