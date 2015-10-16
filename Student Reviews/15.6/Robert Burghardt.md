@@ -38,7 +38,7 @@
   - passed interview
 
 # M3
-- [ ] CSS Project
+- [x] CSS Project
 - [x] JS Project
 - [ ] Interview
 - [ ] Test Score: 
@@ -46,3 +46,4 @@
 ## Review
 
 Brad: Passed Twitter Project
+Brad: Passed CSS Project
