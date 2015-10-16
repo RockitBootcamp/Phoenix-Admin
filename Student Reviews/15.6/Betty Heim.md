@@ -30,7 +30,7 @@
 
 # M3
 
-- [ ] CSS Project
+- [x] CSS Project
 - [x] JS Project
 - [ ] Interview
 - [ ] Test Score:
