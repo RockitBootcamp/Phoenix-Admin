@@ -41,9 +41,15 @@
 - [x] CSS Project
 - [x] JS Project
 - [ ] Interview
-- [ ] Test Score: 
+- [x] Test Score: 82%
 
 ## Review
 
 Brad: Passed Twitter Project
 Brad: Passed CSS Project
+
+### 10/19/2015
+
+
+
+
