@@ -42,7 +42,7 @@ Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
 Hector Lopez        | [x]        | [ ]         | [x]       | [ ]  |
-Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [x]  |
+Keith Rothchadl     | [ ]        | [ ]         | [x]       | [x]  |
 Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
