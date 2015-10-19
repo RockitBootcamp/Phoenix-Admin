@@ -33,3 +33,14 @@
 ### 10/8/2015
 
 - Kevin passed off JS project
+
+# M3
+
+- [x] CSS Project
+
+## Reviews
+
+### 10/19/2015
+
+- Evan/Kevin reviewed CSS proj in front of class
+- Kevin re-reviewed CSS proj, looked good
