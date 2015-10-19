@@ -45,4 +45,4 @@ Hector Lopez        | [x]        | [ ]         | [ ]       | [ ]  |
 Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [x]  |
 Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [x]  |
-Robert Burghardt    | [x]        | [x]         | [ ]       | [x]  |
+Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
