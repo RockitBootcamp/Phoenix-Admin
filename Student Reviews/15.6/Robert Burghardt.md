@@ -40,7 +40,7 @@
 # M3
 - [x] CSS Project
 - [x] JS Project
-- [ ] Interview
+- [x] Interview
 - [x] Test Score: 82%
 
 ## Review
@@ -49,6 +49,9 @@ Brad: Passed Twitter Project
 Brad: Passed CSS Project
 
 ### 10/19/2015
+
+- Evan interview
+  - Passed interview
 
 
 
