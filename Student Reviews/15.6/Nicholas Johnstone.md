@@ -46,3 +46,4 @@
 ### 10/19/2015
 
 - Kevin interview: passed verbal
+- Evan interview: passed CSS written, needs to work on JS loops, arrays, built-in methods and using THIS.
