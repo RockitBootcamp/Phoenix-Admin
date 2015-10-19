@@ -32,5 +32,11 @@
 
 - [x] CSS Project
 - [x] JS Project
-- [ ] Interview
-- [ ] Test Score:
+- [x] Interview
+- [x] Test Score:
+
+
+### 10/19/2015
+
+- Evan interview
+  - Passed interview 
