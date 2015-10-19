@@ -41,7 +41,7 @@ Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
-Hector Lopez        | [x]        | [ ]         | [ ]       | [ ]  |
+Hector Lopez        | [x]        | [ ]         | [x]       | [ ]  |
 Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [x]  |
 Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [x]  |
