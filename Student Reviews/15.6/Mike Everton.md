@@ -44,3 +44,4 @@
 
 - Evan/Kevin reviewed CSS proj in front of class
 - Kevin re-reviewed CSS proj, looked good
+- Kevin, interview passed
