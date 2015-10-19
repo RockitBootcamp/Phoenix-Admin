@@ -37,12 +37,12 @@ Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
 Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [ ]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
-Betty Heim          | [x]        | [x]         | [ ]       | [ ]  |
+Betty Heim          | [x]        | [x]         | [ ]       | [x]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
 Hector Lopez        | [x]        | [ ]         | [ ]       | [ ]  |
-Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  |
-Mike Everton        | [ ]        | [ ]         | [ ]       | [ ]  |
-Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  |
+Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [x]  |
+Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
+Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [ ]       | [x]  |
