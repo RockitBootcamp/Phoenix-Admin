@@ -42,3 +42,7 @@
 ### 10/12/2015
 
 - Kevin passed remainder of interview, js project passed off
+
+### 10/19/2015
+
+- Kevin interview: passed verbal
