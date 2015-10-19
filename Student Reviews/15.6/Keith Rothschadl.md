@@ -40,3 +40,8 @@
 ### 10/8/2015
 
 - Kevin passed off project
+
+### 10/19/2015
+
+- Evan interview
+    - Passed interview
