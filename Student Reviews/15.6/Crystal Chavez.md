@@ -39,3 +39,8 @@
 ### 10/9/2015
 
 - Kevin passed off js project
+
+
+### 10/20/2015
+
+- Brad & Evan interview, needs work on CSS Patterns 2 (diff between flexbox, float, inline-block), JS If Statement, Object Literals 2.
