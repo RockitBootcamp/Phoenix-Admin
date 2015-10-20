@@ -35,7 +35,7 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 
 Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
-Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [ ]  |
+Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [X]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
