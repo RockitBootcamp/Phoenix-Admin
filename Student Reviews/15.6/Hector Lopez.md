@@ -35,3 +35,4 @@
 
 - Evan interview
     - Passed interview
+- Brad: Passed Project
