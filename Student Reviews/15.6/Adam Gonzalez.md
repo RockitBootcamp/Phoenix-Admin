@@ -27,3 +27,17 @@
 - Kevin Interview:
   - passed all verbal questions
   - passed written
+
+
+# M2
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score:
+
+## Review
+
+### 10/20/2015
+
+- Brad Westfall: Passed CSS Project
