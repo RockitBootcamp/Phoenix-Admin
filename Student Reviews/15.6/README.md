@@ -43,6 +43,6 @@ Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
 Hector Lopez        | [x]        | [x]         | [x]       | [ ]  |
 Keith Rothchadl     | [ ]        | [ ]         | [x]       | [x]  |
-Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
+Mike Everton        | [ ]        | [ ]         | [x]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [X]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
