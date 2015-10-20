@@ -44,5 +44,5 @@ Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
 Hector Lopez        | [x]        | [ ]         | [x]       | [ ]  |
 Keith Rothchadl     | [ ]        | [ ]         | [x]       | [x]  |
 Mike Everton        | [ ]        | [ ]         | [ ]       | [x]  |
-Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [x]  |
+Nicholas Johnstone  | [ ]        | [ ]         | [X]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
