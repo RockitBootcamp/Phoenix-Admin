@@ -36,12 +36,12 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
 Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [X]  |
-Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  |
+Andrew Skaper       | [ ]        | [ ]         | [ ]       | [x]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
-Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  |
+Crystal Chavez      | [ ]        | [ ]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
-Hector Lopez        | [x]        | [x]         | [x]       | [ ]  |
+Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
 Keith Rothchadl     | [ ]        | [ ]         | [x]       | [x]  |
 Mike Everton        | [ ]        | [ ]         | [x]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [X]       | [x]  |
