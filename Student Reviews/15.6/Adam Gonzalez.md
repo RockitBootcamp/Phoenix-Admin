@@ -29,10 +29,10 @@
   - passed written
 
 
-# M2
+# M3
 
 - [x] CSS Project
-- [ ] JS Project
+- [x] JS Project
 - [ ] Interview
 - [x] Test Score:
 
@@ -41,3 +41,7 @@
 ### 10/20/2015
 
 - Brad Westfall: Passed CSS Project
+
+### 10/21/2015
+
+- Kevin/Evan passed off JS
