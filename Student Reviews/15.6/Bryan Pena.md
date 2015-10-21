@@ -43,3 +43,16 @@
 ### 10/12/2015
 
 - Kevin passed off js project, looked good, other than one tiny bug which he is fixing now and some style issues
+
+
+# M2
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [ ] Test Score: 
+
+
+###10/21/2015 
+
+- Kevin passed off CSS project
