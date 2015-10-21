@@ -45,3 +45,11 @@
 - Kevin checked off CSS project
 - Brig Interview. Passed all of HTML, and CSS Basic Selector Strategy. Needs box-model on.
 - Brad: Passed CSS, did okay on JS until we got to functions. He didn't really know a lot about `return` and what it's used for and what it does
+
+
+# M3
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [ ] Test 
