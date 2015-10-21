@@ -45,7 +45,7 @@
 - Kevin passed off js project, looked good, other than one tiny bug which he is fixing now and some style issues
 
 
-# M2
+# M3
 
 - [x] CSS Project
 - [ ] JS Project
