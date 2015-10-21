@@ -39,10 +39,10 @@ Adam Gonzalez       | [ ]        | [ ]         | [ ]       | [X]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [x]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
-Crystal Chavez      | [ ]        | [ ]         | [ ]       | [x]  |
+Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  |
-Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
+Hector Lopez        | [x]        | [ ]         | [x]       | [x]  |
 Keith Rothchadl     | [ ]        | [ ]         | [x]       | [x]  |
-Mike Everton        | [ ]        | [ ]         | [x]       | [x]  |
+Mike Everton        | [ ]        | [x]         | [x]       | [x]  |
 Nicholas Johnstone  | [ ]        | [ ]         | [X]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
