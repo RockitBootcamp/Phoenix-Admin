@@ -38,7 +38,7 @@ Name                | JS Project | CSS Project | Interview | Test |
 Adam Gonzalez       | [x]        | [x]         | [ ]       | [X]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [x]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
-Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  |
+Bryan Pena          | [ ]        | [x]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
 Harlan Robinson     | [ ]        | [x]         | [ ]       | [ ]  |
 Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
