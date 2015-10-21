@@ -53,3 +53,8 @@
 - [ ] JS Project
 - [ ] Interview
 - [ ] Test 
+
+
+### 10/21/2015
+
+-Evan passed off CSS project
