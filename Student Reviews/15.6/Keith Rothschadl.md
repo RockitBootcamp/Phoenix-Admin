@@ -45,3 +45,7 @@
 
 - Evan interview
     - Passed interview
+
+### 10/21/2015
+
+- Kevin passed off JS
