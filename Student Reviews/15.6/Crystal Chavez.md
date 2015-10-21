@@ -44,3 +44,8 @@
 ### 10/20/2015
 
 - Brad & Evan interview, needs work on CSS Patterns 2 (diff between flexbox, float, inline-block), JS If Statement, Object Literals 2.
+
+### 10/21/2015
+
+- Kevin interview
+    -Passed interview
