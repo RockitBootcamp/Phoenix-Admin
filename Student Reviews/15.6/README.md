@@ -52,12 +52,12 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 Name                | JS Project | CSS Project | Interview | Test | Jekyll (opt.) |
 :------------------:|:----------:|:-----------:|:---------:|:----:|:-------------:|
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Betty Heim          | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
+Betty Heim          | [ ]        | [ ]         | [ ]       | [x]  | [ ]           |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Hector Lopez        | [ ]        | [ ]         | [ ]       | [x]  | [ ]           |
-Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
+Hector Lopez        | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
+Keith Rothchadl     | [ ]        | [ ]         | [ ]       | [x]  | [ ]           |
 Mike Everton        | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
 Robert Burghardt    | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
