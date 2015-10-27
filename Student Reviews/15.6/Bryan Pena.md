@@ -48,9 +48,9 @@
 # M3
 
 - [x] CSS Project
-- [ ] JS Project
-- [ ] Interview
-- [ ] Test Score: 
+- [x] JS Project
+- [x] Interview
+- [x] Test Score: 
 
 
 ###10/21/2015 
