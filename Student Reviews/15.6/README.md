@@ -52,7 +52,7 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 Name                | JS Project | CSS Project | Interview | Test | Jekyll (opt.) |
 :------------------:|:----------:|:-----------:|:---------:|:----:|:-------------:|
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Betty Heim          | [ ]        | [ ]         | [ ]       | [x]  | [ ]           |
+Betty Heim          | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
 Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
