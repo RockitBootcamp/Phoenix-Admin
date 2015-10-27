@@ -47,3 +47,17 @@
 - [ ] JS Project
 - [x] Interview
 - [ ] Test Score: 
+
+
+# M3
+
+- [ ] CSS Project
+- [x] JS Project
+- [ ] Interview
+- [x] Test Score
+
+
+### 10/27/2015
+
+- Interview (Evan)
+    - Passed Verbal,needs to review CSS positioning, transforms, horizontal centering, and JS arrays, loops, built-in methods, basic logic
