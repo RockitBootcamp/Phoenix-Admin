@@ -56,3 +56,9 @@
 ###10/21/2015 
 
 - Kevin passed off CSS project
+
+
+###10/27/2015
+
+- Evan Interview
+  - Passed
