@@ -35,16 +35,16 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 
 Name                | JS Project | CSS Project | Interview | Test |
 :------------------:|:----------:|:-----------:|:---------:|:----:|
-Adam Gonzalez       | [x]        | [x]         | [ ]       | [X]  |
+Adam Gonzalez       | [x]        | [x]         | [x]       | [X]  |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [x]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
-Bryan Pena          | [ ]        | [x]         | [ ]       | [ ]  |
-Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
-Harlan Robinson     | [ ]        | [x]         | [x]       | [x]  |
+Bryan Pena          | [x]        | [x]         | [x]       | [x]  |
+Crystal Chavez      | [x]        | [x]         | [x]       | [x]  |
+Harlan Robinson     | [x]        | [x]         | [x]       | [x]  |
 Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
 Keith Rothchadl     | [x]        | [x]         | [x]       | [x]  |
 Mike Everton        | [x]        | [x]         | [x]       | [x]  |
-Nicholas Johnstone  | [ ]        | [ ]         | [X]       | [x]  |
+Nicholas Johnstone  | [x]        | [x]         | [X]       | [x]  |
 Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 
 #M4
