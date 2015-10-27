@@ -40,7 +40,7 @@ Andrew Skaper       | [ ]        | [ ]         | [ ]       | [x]  |
 Betty Heim          | [x]        | [x]         | [x]       | [x]  |
 Bryan Pena          | [ ]        | [x]         | [ ]       | [ ]  |
 Crystal Chavez      | [ ]        | [x]         | [ ]       | [x]  |
-Harlan Robinson     | [ ]        | [x]         | [ ]       | [ ]  |
+Harlan Robinson     | [ ]        | [x]         | [x]       | [x]  |
 Hector Lopez        | [x]        | [x]         | [x]       | [x]  |
 Keith Rothchadl     | [x]        | [x]         | [x]       | [x]  |
 Mike Everton        | [x]        | [x]         | [x]       | [x]  |
