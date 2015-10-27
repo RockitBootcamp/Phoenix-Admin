@@ -51,10 +51,16 @@
 
 - [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
-- [ ] Test 
+- [x] Interview
+- [x] Test 
 
 
 ### 10/21/2015
 
 -Evan passed off CSS project
+
+
+### 10/27/2015
+
+- Interview (Evan)
+  - Passed
