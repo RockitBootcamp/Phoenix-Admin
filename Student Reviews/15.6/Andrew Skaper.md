@@ -61,3 +61,8 @@
 
 - Interview (Evan)
     - Passed Verbal,needs to review CSS positioning, transforms, horizontal centering, and JS arrays, loops, built-in methods, basic logic
+
+### 10/28/2015
+
+- Interview (Evan)
+    - Still needs to review CSS transforms, horizontal centering, JS built-in methods, and using "this".
