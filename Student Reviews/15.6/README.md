@@ -61,4 +61,4 @@ Hector Lopez        | [ ]        | [x]         | [ ]       | [ ]  | [ ]         
 Keith Rothchadl     | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
 Mike Everton        | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
 Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Robert Burghardt    | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
+Robert Burghardt    | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
