@@ -40,3 +40,11 @@
 
 - Evan interview
   - Passed interview 
+
+
+# M3
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test Score: 91.7%
