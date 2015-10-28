@@ -46,3 +46,11 @@
 - Evan/Kevin reviewed CSS proj in front of class
 - Kevin re-reviewed CSS proj, looked good
 - Kevin, interview passed
+
+
+# M4
+
+- [x] CSS Project
+- [ ] JS Project
+- [ ] Interview
+- [x] Test: 83.3%
