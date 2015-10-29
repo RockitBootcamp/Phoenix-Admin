@@ -66,3 +66,8 @@
 
 - Interview (Evan)
     - Still needs to review CSS transforms, horizontal centering, JS built-in methods, and using "this".
+
+### 10/29/2015
+
+- Interview (Daniel)
+  - Passed by my criteria, but I'd like to review with Kevin or Brad
