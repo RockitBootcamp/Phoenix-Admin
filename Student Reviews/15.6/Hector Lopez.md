@@ -42,5 +42,8 @@
 
 - [x] CSS Project
 - [ ] JS Project
-- [ ] Interview
+- [x] Interview
 - [ ] Test
+
+## Reviews
+- Brad: Did well on interview
