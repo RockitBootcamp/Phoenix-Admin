@@ -51,9 +51,16 @@
 - Kevin passed off JS
 
 
+
+ I don't know why he doesn't have any M3 records
+
 # M4
 
 - [x] CSS Project
 - [ ] JS Project
 - [ ] Interview
 - [x] Test
+
+- Brad: He just did poorly on Sass and writing the gulp code, needs to do those again
+
+
