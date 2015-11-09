@@ -51,14 +51,14 @@ Robert Burghardt    | [x]        | [x]         | [x]       | [x]  |
 
 Name                | JS Project | CSS Project | Interview | Test | Jekyll (opt.) |
 :------------------:|:----------:|:-----------:|:---------:|:----:|:-------------:|
-Adam Gonzalez       | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
+Adam Gonzalez       | [x]        | [x]         | [ ]       | [x]  | [ ]           |
 Andrew Skaper       | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Betty Heim          | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
+Betty Heim          | [x]        | [x]         | [x]       | [x]  | [ ]           |
 Bryan Pena          | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Crystal Chavez      | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
+Crystal Chavez      | [x]        | [x]         | [ ]       | [x]  | [ ]           |
 Harlan Robinson     | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Hector Lopez        | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
-Keith Rothchadl     | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
-Mike Everton        | [ ]        | [x]         | [ ]       | [ ]  | [ ]           |
-Nicholas Johnstone  | [ ]        | [ ]         | [ ]       | [ ]  | [ ]           |
-Robert Burghardt    | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
+Hector Lopez        | [x]        | [x]         | [x]       | [x]  | [ ]           |
+Keith Rothchadl     | [x]        | [x]         | [ ]       | [x]  | [ ]           |
+Mike Everton        | [x]        | [x]         | [ ]       | [x]  | [ ]           |
+Nicholas Johnstone  | [ ]        | [x]         | [ ]       | [x]  | [ ]           |
+Robert Burghardt    | [x]        | [x]         | [x]       | [x]  | [ ]           |
